@@ -1,0 +1,35 @@
+Policy and Procedure: Dealing with Sensitive Information
+
+Introduction:
+
+At Zidarska, James Orr Smail, Traiko Kocpjan Elisie, we understand the importance of maintaining the confidentiality of sensitive information. This policy and procedure document outlines the guidelines and requirements for handling sensitive information within our organization.
+
+Scope:
+
+This policy and procedure applies to all employees, contractors, and third-party vendors who have access to sensitive information at Zidarska, James Orr Smail, Traiko Kocpjan Elisie.
+
+Definitions:
+
+Sensitive information refers to any data or information that can be used to identify an individual, including but not limited to personal information, financial information, medical information, and proprietary information.
+
+Policy:
+
+1. All employees, contractors, and third-party vendors must sign a confidentiality agreement before having access to sensitive information.
+2. Sensitive information must be stored securely in a designated location accessible only to authorized personnel.
+3. All employees, contractors, and third-party vendors must log off from any devices containing sensitive information when not in use.
+4. Employees, contractors, and third-party vendors must report any suspected breaches of this policy immediately to their supervisor or the IT department.
+
+Procedure:
+
+1. All employees, contractors, and third-party vendors must undergo a background check before having access to sensitive information.
+2. Sensitive information must be encrypted when transmitted electronically.
+3. Access to sensitive information must be logged and monitored to ensure that only authorized personnel have access.
+4. Employees, contractors, and third-party vendors must complete mandatory training on handling sensitive information at least once a year.
+
+Conclusion:
+
+Protecting sensitive information is vital to our organization's success and reputation. Following this policy and procedure will help us maintain the confidentiality and security of sensitive information. Any violation of this policy may result in disciplinary action, up to and including termination of employment, contract termination, or legal action.
+
+For further information, please contact Linda Fung at [l.f@simunic.com.hr](mailto:l.f@simunic.com.hr) or 13674632415.
+
+Approved by: James Orr Smail, CEO of Zidarska, Traiko Kocpjan Elisie, CTO.

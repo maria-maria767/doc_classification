@@ -1,0 +1,57 @@
+CONTRACT AGREEMENT
+
+This Contract Agreement (hereinafter referred to as the "Agreement") is made and entered into this ___ day of ___________, 2023, by and between:
+
+Hydac Hydraulic Div., a corporation organized and existing under the laws of the State of ________, with its principal place of business located at Via Antonio Gramsci, Bollate, Lombardia (hereinafter referred to as "Hydac"), and
+
+Cinetic Consulting, a corporation organized and existing under the laws of the State of _______, with its principal place of business located at Hevey Street, Manchester, United States of America (hereinafter referred to as "Cinetic").
+
+WHEREAS, Hydac and Cinetic wish to establish a relationship for the provision of consulting services related to the hydraulic systems industry;
+
+NOW, THEREFORE, in consideration of the mutual covenants, terms, and conditions set forth herein, and for other good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, the parties agree as follows:
+
+1. SERVICE PROVISION
+Cinetic Consulting shall provide specialized consulting services to Hydac Hydraulic Div. as further defined in the statement of work (SOW) attached hereto as Appendix A and incorporated herein by this reference.
+
+2. TERM AND TERMINATION
+This Agreement shall commence on the date first above written and shall continue in full force and effect until terminated by either party upon not less than sixty (60) days prior written notice.
+
+3. CONFIDENTIALITY
+Both parties agree to keep all information exchanged during the term of this Agreement, including trade secrets, proprietary information, and client data, in strict confidence. The parties shall not disclose any confidential information to any third party without the prior written consent of the disclosing party.
+
+4. COMPENSATION
+For services rendered by Cinetic Consulting, Hydac Hydraulic Div. agrees to pay compensation as set forth in Appendix B, which is attached to and incorporated into this Agreement by this reference.
+
+5. NOTICES
+Any notice required or permitted by this Agreement shall be in writing and shall be sent to the following addresses:
+- For Hydac: Via Antonio Gramsci, Bollate, Lombardia, ATTN: Argir Dajo Trendafil, Email: b-m@gonzalez-thomas.org
+- For Cinetic: Hevey Street, Manchester, United States of America, ATTN: Kirce Dzherov Richard, Email: a-p@vip.hr
+
+6. JURISDICTION
+This Agreement shall be governed by and construed in accordance with the laws of the state where Hydac Hydraulic Div. is located.
+
+IN WITNESS WHEREOF, the parties have executed this Agreement as of the date first above written.
+
+HYDAC HYDRAULIC DIV.
+
+_________________________________
+(Argir Dajo Trendafil)
+Title:
+Date:
+
+CINETIC CONSULTING
+
+_________________________________
+(Kirce Dzherov Richard)
+Title:
+Date:
+
+APPENDIX A - STATEMENT OF WORK (SOW)
+(Attach detailed description of services)
+
+APPENDIX B - COMPENSATION DETAILS
+(Attach compensation, payment terms, etc.)
+
+[END OF CONTRACT AGREEMENT]
+
+Note: The blanks provided in the Agreement should be filled in with the appropriate dates and information before execution. The appendices should be completed and attached prior to signing the Agreement. With respect to the sensitivity level, this document should not be shared with unauthorized individuals and must be handled in accordance with the CONFIDENTIAL classification guidelines of both Hydac and Cinetic.

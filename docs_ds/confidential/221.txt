@@ -1,0 +1,56 @@
+INVOICE
+
+Bill To:
+State Route 116 rd. 9329
+Hinesburg, Vermont
+
+From:
+Cofidis Retail
+28 Fairlawn Lane
+Lexington, MA 02420-2219
+
+Date:
+2023-04-25
+
+---
+
+Description Qty Unit Price Total
+----------------------------------
+
+----------------------------------
+
+1 Apparel Item A 1 50.00 50.00
+1 Apparel Item B 1 75.00 75.00
+1 Apparel Item C 1 100.00 100.00
+1 Footwear Item A 1 90.00 90.00
+1 Footwear Item B 1 120.00 120.00
+1 Accessory Item X 1 55.00 55.00
+----------------------------------
+
+Sub total 5 350.00 350.00
+Sales Tax 35.00 35.00
+Total 5 385.00 385.00
+
+---
+
+Payment Terms:
+
+* Due within 30 days from date of invoice
+* Payment by check or credit card accepted
+
+Please make check payable to Cofidis Retail and mail to the address above.
+
+For your convenience, we have included our banking details for wire transfers:
+Bank Name: Bank of America
+Account Name: Cofidis Retail
+Account Number: 1234567890
+Routing Number: 123456789
+SWIFT Code: BOFAUS3N
+
+Thank you for your business. If you have any questions or concerns, please do not hesitate to contact us.
+
+Sincerely,
+[Milanko Swiatkowski Vivienne Glaser Grayson]
+[Abhiram Langford]
+[Klara Nora Brooks Ingram]
+Cofidis Retail

@@ -1,0 +1,66 @@
+Financial Statement for the Fiscal Year Ending December 31, 2022
+
+Prepared by:
+
+Dimše Molerov, Chief Financial Officer
+Akira Walls, Director of Finance
+Ezekiel Erica Jenkinson, Controller
+Czeslaw Swiatkowski, Assistant Controller
+
+Address:
+21.126675, Via C. Colombo, Premana, Lombardia
+
+Phone:
+0800 20 21
+
+Email:
+[j.s@dyer-combs.us](mailto:j.s@dyer-combs.us)
+
+Organization:
+Bynum
+
+Summary of Financial Results:
+
+Revenue: $20,000,000
+Gross Profit: $8,000,000
+Operating Expenses: $6,000,000
+Net Income: $2,000,000
+
+Balance Sheet:
+
+Assets:
+Cash: $1,000,000
+Accounts Receivable: $500,000
+Inventory: $1,500,000
+Property and Equipment: $3,000,000
+Total Assets: $6,000,000
+
+Liabilities:
+Accounts Payable: $300,000
+Long-Term Debt: $1,000,000
+Total Liabilities: $1,300,000
+
+Equity:
+Common Stock: $2,000,000
+Retained Earnings: $2,000,000
+Total Equity: $4,000,000
+
+Notes to the Financial Statements:
+
+1. Revenue is comprised of sales of products and services.
+2. Gross profit is calculated as revenue minus cost of goods sold.
+3. Operating expenses include salaries, rent, and other expenses incurred in the normal course of business.
+4. Net income is calculated as gross profit minus operating expenses.
+5. Cash includes cash on hand and cash in banks.
+6. Accounts receivable represent amounts owed to the company by customers.
+7. Inventory represents goods held for sale.
+8. Property and equipment represent assets used in the production of goods and services.
+9. Accounts payable represent amounts owed by the company to suppliers and vendors.
+10. Long-term debt represents loans and other obligations with a maturity of more than one year.
+
+Signed,
+
+Dimše Molerov, Chief Financial Officer
+Akira Walls, Director of Finance
+Ezekiel Erica Jenkinson, Controller
+Czeslaw Swiatkowski, Assistant Controller

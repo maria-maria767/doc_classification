@@ -1,0 +1,35 @@
+Job Title: Software Development Engineer
+
+Location: North Pleasant Street, Amherst, Massachusetts
+
+Reports to: Director of Software Development
+
+Purpose:
+
+The Software Development Engineer will be responsible for designing, developing and maintaining software applications for the organization. They will work closely with other engineers, product managers, and stakeholders to develop solutions that meet customer needs and contribute to the overall success of the organization.
+
+Key Responsibilities:
+
+* Design and develop software applications using industry-standard methodologies and best practices.
+* Collaborate with product managers and other stakeholders to define and prioritize product features and requirements.
+* Develop and maintain software documentation, including technical specifications, design documents, and user manuals.
+* Write high-quality, efficient, and well-documented code.
+* Troubleshoot and debug software applications as needed.
+* Participate in code reviews and contribute to the overall quality of the codebase.
+
+Requirements:
+
+* Bachelor's or Master's degree in Computer Science or a related field.
+* At least 3 years of experience in software development.
+* Strong knowledge of object-oriented programming and design patterns.
+* Experience with software development methodologies like Agile and Scrum.
+* Familiarity with at least one programming language (preference for Java, C#, or Python).
+* Excellent problem-solving and analytical skills.
+* Strong communication and interpersonal skills.
+
+Contact Information:
+Email: [leoconrad7@davis-moses.ly](mailto:leoconrad7@davis-moses.ly)
+Phone: 0800 40 62
+
+Note:
+This job description is confidential and should not be shared with unauthorized individuals. Only authorized personnel who require access to this information should have access.

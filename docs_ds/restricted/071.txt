@@ -1,0 +1,57 @@
+PURCHASE ORDER
+
+Purchase Order Number: 4521-RE
+Date: April 10, 2023
+
+Vendor Information:
+Boehringer Ingelheim (Canada) Ltd
+In der Granz 88
+Truden im Naturpark - Trodena nel Parco Naturale
+Trentino-Alto Adige/Südtirol
+
+Attention: Kiana Flanagan
+Phone: +55 (12) 9 0026-7733
+Email: rr9637@young-baker.co
+
+Billing Address:
+IceoGen Web Services
+State Route 116 rd. on number 9329
+Hinesburg, Vermont state
+
+Shipping Address:
+Vehicleservicepros.Com
+Targowa 15
+Turobin, województwo lubelskie
+
+Buyer Information:
+Makenzie Granič
+Procurement Department
+Phone: 1-835-055-6217
+Email: sanja.matosic5@zagreb.hr
+
+Order Details:
+
+Item Number | Description | Quantity | Unit Price | Total
+-------------|-------------|----------|------------|--------
+001          | PharmaBiotic-50, 500mg Tablets | 350 units | $65.00 | $22,750.00
+002          | VacuVial Vaccine Storage Containers | 200 units | $125.00 | $25,000.00
+003          | LabTech Microcentrifuge LX200 | 20 units | $870.00 | $17,400.00
+-------------|-------------|----------|------------|--------
+Subtotal: | | | | $65,150.00
+Tax (10%): | | | | $6,515.00
+Shipping & Handling: | | | | $750.00
+-------------
+Total: | | | | $72,415.00
+
+Terms and Conditions:
+- Payment Terms: Net 30 days from the date of delivery.
+- Delivery Date: Expected within 6 weeks from the order date.
+- Warranty: All products come with a standard manufacturer's warranty.
+- Returns: Returns are accepted within 30 days of receipt, subject to a 15% restocking fee.
+
+Authorized Signature: ___________________________
+Name: Makenzie Granič
+Title: Senior Buyer
+Date: April 10, 2023
+
+Note: This Purchase Order contains information that is designated as RESTRICTED. Unauthorized disclosure or distribution is prohibited. This document should only be accessed by individuals with explicit authorization.

@@ -1,0 +1,75 @@
+PRODUCT SPECIFICATION
+
+Product Name: Henry X120 Compact Processor
+
+Model Number: HenryX-CP201
+
+Product Version: 3.1
+
+Effective Date: April 1, 2023
+
+1. Introduction:
+
+This document provides the product specifications for the Henry X120 Compact Processor (HenryX-CP201). It contains sensitive information regarding the technical specifications and features of the product. The contents of this document are considered CONFIDENTIAL and are intended for use solely by authorized personnel of service park.
+
+2. General Description:
+
+The Henry X120 Compact Processor is engineered to deliver high performance and reliability for demanding computational needs within service park’s product suite. The processor is designed with the latest in silicon chip technology, featuring a quad-core design optimized for power efficiency and processing speed.
+
+3. Technical Specifications:
+
+   - Processor Base Frequency: 3.8 GHz
+   - Max Turbo Frequency: 4.5 GHz
+   - Cores: Quadruple-Core
+   - Cache: 8 MB SmartCache
+   - Bus Speed: 8 GT/s DMI3
+   - Thermal Design Power (TDP): 95 W
+   - Socket: FCLGA1151
+   - Integrated Graphics: Yes, Intel® UHD Graphics 630
+   - Memory Specifications:
+        - Maximum Size: 64 GB (dependent on memory type)
+        - Types: DDR4-2400
+        - Max Number of Channels: 2
+        - Maximum Memory Bandwidth: 38.4 GB/s
+   - Advanced Technologies:
+        - Intel® Optane™ Memory Supported
+        - Intel® Turbo Boost Technology 2.0
+        - Intel® Virtualization Technology (VT-x)
+        - Intel® Hyper-Threading Technology
+
+4. Regulatory Compliance:
+
+The Henry X120 Compact Processor adheres to the following standards and regulations:
+   - RoHS Directive 2011/65/EU
+   - CE Marking Compliance
+   - REACH Compliance
+
+5. Quality Assurance:
+
+All units of the Henry X120 Compact Processor undergo rigorous testing protocols to ensure quality, reliability, and performance. Quality assurance includes, but is not limited to, temperature and stress tests, performance benchmarking, and longevity tests.
+
+6. Packaging:
+
+Each processor unit is encapsulated in a static-proof container and securely packaged to prevent damage during transportation. The packaging material is compliant with international environmental and safety standards.
+
+7. Handling Instructions:
+
+To prevent potential damage and to ensure product integrity, handle the processor with care, avoiding any static discharge by grounding oneself before touching the product. Processors should not be exposed to high moisture levels or extreme temperatures.
+
+8. Contact Information:
+
+For further details or concerns regarding the Henry X120 Compact Processor, please contact the designated service park representative:
+
+   - Name: Sebastien Lehman
+   - Address: Beattie Avenue, Middletown, New York
+   - Email: harmony.brown@wilson-shelton.site
+   - Phone: 10940/ 46 479
+
+9. Revision History:
+
+   - Version 3.0 – March 15, 2022: Initial release.
+   - Version 3.1 – April 1, 2023: Updated thermals and compliance section.
+
+---
+
+This document contains confidential information proprietary to service park. Unauthorized distribution, reproduction, or disclosure of any portion of this document is strictly prohibited and may result in disciplinary action, civil penalties, or criminal prosecution.

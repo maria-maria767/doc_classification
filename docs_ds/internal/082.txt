@@ -1,0 +1,88 @@
+---
+
+**Product Specification Document**
+
+Product Name: Bell EcoStream Water Filter
+
+Product Code: BEWF-3245
+
+Manufacturer: Peyton Industries
+
+Version: 3.1
+
+Release Date: April 1, 2023
+
+**1. Introduction**
+
+This document outlines the specifications for the Bell EcoStream Water Filter (BEWF-3245), designed and manufactured by Peyton Industries. This document is intended for internal use and should not be distributed outside of the organization without proper authorization.
+
+**2. Product Description**
+
+The Bell EcoStream Water Filter is an advanced water purification system designed to provide clean and safe drinking water. It’s equipped with a multi-stage filtration process to remove contaminants, including sediment, chlorine, and heavy metals. The system is designed for easy installation under the kitchen sink and provides a convenient, eco-friendly solution for high-quality drinking water.
+
+**3. Specifications**
+
+- Filtration Stages: 5-stage process, including sediment filter, activated carbon filter, reverse osmosis membrane, UV sterilization, and a post-carbon filter for taste improvement.
+- Flow Rate: Up to 1.5 gallons per minute (GPM)
+- Filter Lifespan: 
+   - Sediment filter: 6 months
+   - Activated carbon filter: 6 months
+   - Reverse osmosis membrane: 2 years
+   - UV sterilization lamp: 1 year
+   - Post-carbon filter: 6 months
+- System Capacity: 600 gallons before filter replacement is necessary
+- Operating Pressure: 40-80 psi
+- Operating Temperature: 41°F to 100°F (5°C to 38°C)
+- Dimensions: 15” x 7” x 17” (Width x Depth x Height)
+- Weight: 27 lbs (12.2 kg)
+
+**4. Compliance and Standards**
+
+The BEWF-3245 complies with all applicable standards and regulations including NSF/ANSI standards for the reduction of specific health-related contaminants.
+
+**5. Installation Requirements**
+
+- Under-sink space minimum: 18” x 12” x 20”
+- Standard electrical outlet (120V) required for UV lamp
+- Water supply with shut-off valve
+- Non-proprietary tools for installation
+
+**6. Warranty**
+
+The Bell EcoStream Water Filter comes with a 2-year limited warranty covering parts and labor under normal use conditions.
+
+**7. Contact Information**
+
+For technical support, warranty claims, or product inquiries:
+
+- Contact Name: Angjelko Andonov Todor 
+- Organization: Peyton Industries
+- Address: Calle Lomo V, Gáldar, España
+- Phone: (061) 7044 8995
+- Email: nicholasdorsey@shepherd.website
+
+**8. Manufacturing Facility**
+
+Gravesande Technologies
+Tapiontie, Vantaa, Suomi
+
+**9. Additional Information**
+
+Further documentation, including installation guides, maintenance instructions, and replacement part details, is available upon request. Please contact the technical support team using the information provided in Section 7.
+
+**10. Document Control**
+
+- Prepared By: Spas Hospod Branik
+- Position: Senior Product Engineer
+- Approval Date: March 24, 2023
+- Document Status: Approved for Internal Diffusion
+
+Document History:
+- Rev. 1.0 – January 12, 2021: Initial Release
+- Rev. 2.0 – June 15, 2022: Updated Filtration Specifications
+- Rev. 3.0 – February 8, 2023: Design Improvements and UV Lamp Update
+- Rev. 3.1 – April 1, 2023: Minor Updates to Warranty Information
+
+---
+
+This document is intended for Peyton Industries staff and authorized personnel only. Unauthorized distribution, replication, or alteration of this document is strictly prohibited and may result in disciplinary action.

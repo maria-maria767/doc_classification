@@ -1,0 +1,25 @@
+ contract agreement
+
+This Contract Agreement (the "Agreement") is entered into on \_\_[date]__ by and between Argir Dajo Trendafil ("Supplier"), and Olga Jankovič Vlado ("Customer").
+
+WHEREAS, Supplier is engaged in the business of providing goods and services, and Customer desires to procure certain goods and services from Supplier;
+
+NOW, THEREFORE, in consideration of the mutual promises and covenants contained herein and other good and valuable consideration, the receipt and sufficiency of which is hereby acknowledged, the parties agree as follows:
+
+1. Services. Supplier shall provide to Customer the goods and services as set forth in the attachment hereto (the "Services").
+2. Payment. Customer shall pay Supplier the amount of \_\_[amount]___ USD ("Total Amount") as consideration for the Services. Payment shall be made in the following manner: \_\_[payment terms]__
+3. Confidentiality. Supplier agrees to keep confidential all information disclosed by Customer during the performance of the Services, and shall not use or disclose such information except as required by law or as authorized in writing by Customer.
+4. Termination. Either party may terminate this Agreement for convenience by giving thirty (30) days written notice to the other party. Either party may terminate this Agreement for cause by giving thirty (30) days written notice and providing the other party with a reason for termination. Upon termination of this Agreement, all outstanding payments shall become immediately due and payable.
+5. Governing Law. This Agreement shall be governed by and construed in accordance with the laws of the jurisdiction in which Supplier is located.
+6. Entire Agreement. This Agreement constitutes the entire agreement between the parties and supersedes all prior negotiations, understandings, and agreements between the parties.
+
+IN WITNESS WHEREOF, the parties have executed this Agreement as of the date first above written.
+
+---
+
+Argir Dajo Trendafil Olga Jankovič Vlado
+Supplier Customer
+
+---
+
+Kirce Dzherov Richard (witness) (witness)

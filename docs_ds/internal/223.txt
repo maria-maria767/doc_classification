@@ -1,0 +1,61 @@
+POLICY AND PROCEDURE DOCUMENT
+
+Title: Internal Communications Policy
+
+Policy Number: IC-401
+
+Effective Date: April 10, 2023
+
+1. POLICY PURPOSE
+The purpose of this policy is to establish clear and consistent guidelines for employees at Vehicleservicepros.Com to ensure that all internal communications are conducted with professionalism and adhere to company standards. This policy applies to all forms of internal communication, including emails, memos, reports, and verbal discussions.
+
+2. SCOPE 
+This policy applies to all employees, contractors, and interns at Vehicleservicepros.Com.
+
+3. POLICY STATEMENT
+All employees must ensure that internal communications are used appropriately to share information related to company business, maintain efficient operations, and promote a positive work environment. Communications should be respectful, concise, and relevant to company operations.
+
+4. RESPONSIBILITIES
+4.1. Employees are responsible for:
+- Understanding and complying with this policy.
+- Clearly labeling sensitive content with the appropriate sensitivity level.
+- Utilizing internal communication channels for work-related purposes only.
+
+4.2. Management is responsible for:
+- Enforcing this policy.
+- Providing guidance to employees regarding the appropriate use of internal communication channels.
+
+4.3. IT Department is responsible for:
+- Maintaining and securing communication systems.
+- Providing technical support to ensure the effectiveness of internal communications.
+
+5. PROCEDURES
+5.1. Email Communication
+- Use your company email account for all work-related communications.
+- Emails discussing sensitive company matters should be marked as "DIFFUSION INTERNAL".
+- Do not share confidential information with unauthorized personnel.
+
+5.2. Meetings and Verbal Communications
+- Exercise discretion when speaking about sensitive matters within the office premises.
+- Meetings to discuss internal or sensitive matters should be held in private settings.
+
+5.3. Document Handling
+- All documents classified as "DIFFUSION INTERNAL" must be stored securely and only shared with individuals who require access to perform their job functions.
+
+6. VIOLATIONS
+Failure to comply with this policy may result in disciplinary action, up to and including termination of employment. Violations should be reported immediately to supervisory personnel or through designated reporting channels.
+
+7. EXCEPTIONS
+Any exception to this policy must be approved by the CEO, Zidarska, or the Policy and Procedure Compliance Officer, James Orr Smail.
+
+8. REVISION HISTORY
+- This document is subject to revision and review as necessary. Employees will be notified of any changes.
+
+9. APPROVAL
+This policy has been approved by the CEO of Vehicleservicepros.Com, Traiko Kocpjan Elisie, and is effective as of the date listed above.
+
+This document contains proprietary information and is intended for internal use only by Vehicleservicepros.Com personnel. Unauthorized use or disclosure of the information contained within is strictly prohibited.
+
+Please contact l.f@simunic.com.hr or call 0800 68 19 if you have any questions regarding this policy.
+
+-END OF DOCUMENT-

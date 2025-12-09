@@ -1,0 +1,81 @@
+Financial Statement for the Year Ended December 31, 2022
+
+Yiwu Honor Packing Factory
+
+Balance Sheet
+As of December 31, 2022
+
+ASSETS
+Current Assets:
+Cash and cash equivalents ........................... $150,000
+Accounts receivable (net) ........................... $75,000
+Inventories ........................................... $200,000
+Prepaid expenses .................................... $25,000
+Total Current Assets ................................. $450,000
+
+Non-Current Assets:
+Property, plant, and equipment (net) ............. $600,000
+Intangible assets .................................... $50,000
+Long-term investments .............................. $300,000
+Total Non-Current Assets ............................ $950,000
+
+Total Assets ............................................ $1,400,000
+
+LIABILITIES AND SHAREHOLDERS' EQUITY
+Current Liabilities:
+Accounts payable ................................... $80,000
+Short-term borrowings ................................. $100,000
+Other current liabilities .............................. $50,000
+Total Current Liabilities .............................. $230,000
+
+Non-Current Liabilities:
+Long-term debt ..................................... $200,000
+Deferred tax liabilities ............................... $20,000
+Total Non-Current Liabilities ....................... $220,000
+
+Total Liabilities ....................................... $450,000
+
+Shareholders' Equity:
+Common stock ..................................... $500,000
+Retained earnings ................................ $450,000
+Total Shareholders' Equity ......................... $950,000
+
+Total Liabilities and Shareholders' Equity .... $1,400,000
+
+Income Statement
+For the Year Ended December 31, 2022
+
+REVENUES
+Net sales .................................................. $850,000
+Other income .......................................... $20,000
+Total Revenues ....................................... $870,000
+
+EXPENSES
+Cost of goods sold .................................. $500,000
+Selling, general, and administrative expenses .. $250,000
+Interest expense ...................................... $30,000
+Depreciation expense ................................. $40,000
+Total Expenses ........................................ $820,000
+
+Profit Before Tax ..................................... $50,000
+Income tax expense ................................ $10,000
+Net Profit ................................................. $40,000
+
+This financial statement is classified as RESTRICTED and is not to be disclosed to individuals except those with specific authorization due to the sensitivity of financial information contained within. Unauthorized dissemination or replication of this document is strictly prohibited.
+
+Authorized Personnel Only:
+- Benjamin (Chief Financial Officer)
+- Davor Velševska Brighton Wray (Director of Finance)
+- Smiljan Milutinović Milan (Accounting Supervisor)
+
+This Financial Statement is intended solely for the named individual(s) or entity and may contain confidential and/or privileged information. If you are not the intended recipient, you are hereby notified that any disclosure, copying, distribution, or taking any action in reliance on the contents of this information is strictly prohibited.
+
+Prepared by:
+Yiwu Honor Packing Factory
+39.5505242, Atlantgatan, Helsingborg, Sverige
++02 21 6336-0954
+tanner-rodriguez@obrien-burns.store
+
+Date of Issue: January 31, 2023
+
+[end of document]

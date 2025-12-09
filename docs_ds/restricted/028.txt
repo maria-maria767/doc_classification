@@ -1,0 +1,45 @@
+INVOICE
+
+Invoice Number: 9845637
+Invoice Date: April 12, 2023
+
+Bill To:
+Smiljan Milutinović Slavoljub
+41 Spooner Street
+Plymouth, MA 02360-7310
+United States
+
+Shipping To:
+Smart Kids Software Inc.
+98 Ronda d'Amèrica
+Vilanova i la Geltrú, 08800
+Catalunya
+
+Item Description          Quantity   Unit Price   Amount
+----------------------------------------------------------------------------------------
+Educational Software Suite  20       $99.00       $1,980.00
+Extended Support - 1 Year    1      $499.00       $499.00
+Customization Services       1      $300.00       $300.00
+----------------------------------------------------------------------------------------
+Subtotal                                               $2,779.00
+Sales Tax (6.25%)                                      $173.69
+----------------------------------------------------------------------------------------
+Total Due                                              $2,952.69
+
+Payment Terms: Net 30 Days
+Please make all payments to Utilityworks
+
+Contact for Invoice Inquiries:
+Robert Pepper
+Email: lcurtis6855@reese-warner.ly
+Phone: 4280 83 6131
+
+Please reference the invoice number on your payment.
+
+Thank you for your business!
+
+Instructions for Restricted Information Handling:
+- This document may contain sensitive business information.
+- Do not disclose the contents to any unauthorized individuals.
+- Ensure the physical and digital security of this document is maintained.
+- Destroy or securely store copies when no longer in active use.

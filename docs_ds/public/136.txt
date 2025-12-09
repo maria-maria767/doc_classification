@@ -1,0 +1,72 @@
+Financial Statement for the Fiscal Year Ending December 31, 2022
+
+Prepared by:
+
+Bianca R BROWN
+15.3870438 Perley Street, Concord, New Hampshire 03301
+United States
+Phone: (07700)900752
+Email: [bianca.brown@sandriosrl.com](mailto:bianca.brown@sandriosrl.com)
+
+Reviewed by:
+
+Rodriguez
+92 Perley Street, Concord, New Hampshire 03301
+United States
+Phone: 1-835-055-6217
+Email: [rodriguez@incon.com](mailto:rodriguez@incon.com)
+
+Audited by:
+
+Elaine Briggs
+Andrew Arreola Parkinson
+Chandler Kale Sturgill Headley
+Cameron Parker Hiller
+Young-Baker.Co
+1812799437
+
+Table of Contents
+
+I. Balance Sheet
+| Assets | Liabilities | Equity |
+| --- | --- | --- |
+| Cash & Cash Equivalents | Accounts Payable | Shareholder's Equity |
+| Accounts Receivable | Loans Payable | Retained Earnings |
+| Inventory | Short-term Debt | |
+| Property, Plant & Equipment | Long-term Debt | |
+| Intangible Assets | Commitments & Contingencies | |
+| Prepaid Expenses | Total Liabilities & Equity | |
+
+II. Income Statement
+| Revenue | Cost of Goods Sold | Gross Profit |
+| --- | --- | --- |
+| Operating Expenses | Operating Income | |
+| Selling, General & Administrative | | |
+| Research & Development | | |
+| Depreciation & Amortization | | |
+| Total Expenses | | |
+| Operating Income | Gain/Loss on Sale of Assets | Gain/Loss on Sale of Assets |
+| Interest Income | Interest Expense | Net Interest Income |
+| Total Revenue | Total Expenses | Net Income |
+|  |  | |
+|  |  | Before Tax |
+|  |  | Income Tax Provision |
+|  |  | Net Income |
+
+III. Cash Flow Statement
+| Cash Flows from Operating Activities | Cash Flows from Investing Activities | Cash Flows from Financing Activities |
+| --- | --- | --- |
+| Net Income | Purchase of PPE | Issuance of Debt |
+|  |  | |
+| Adjustments for Non-Cash Items | Sale of PPE | Repayment of Debt |
+|  |  | |
+| Net Cash Provided by Operating Activities | Purchase of Intangible Assets | Issuance of Equity |
+|  |  |  |
+| Net Cash Used in Investing Activities | Sale of Intangible Assets | Repayment of Equity |
+|  |  |  |
+| Net Cash Provided by Financing Activities |  |  |
+| Net Increase/Decrease in Cash and Cash Equivalents |  |  |
+| Cash and Cash Equivalents, Beginning of Year |  |  |
+| Cash and Cash Equivalents, End of Year |  |  |
+
+I

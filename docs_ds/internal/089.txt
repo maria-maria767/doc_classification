@@ -1,0 +1,64 @@
+INVOICE
+
+Invoice No.: 123456789
+Invoice Date: March 25, 2023
+
+BILL TO:
+Kire Daskalov Phillip
+9 Keplerstraße
+Köln, Nordrhein-Westfalen 50823
+Email: cmaurer424@hotmail.com
+Phone: 0246132492
+
+SHIP TO:
+Bogdana Chladek Ranko
+Putikankuja
+Vihti, Suomi
+Email: leilanithomas9@gmail.com
+Phone: (051) 3866-0935
+
+PAYMENT DETAILS:
+Due Date: April 24, 2023
+Payment Method: Bank Transfer
+
+ITEMS:
+-----------------------------------------------------------------------------
+| Qty | Description                | Unit Price | Tax | Discount | Total   |
+-----------------------------------------------------------------------------
+| 1   | Consulting Services - Feb  | €1,200.00  | 19% | 0%       | €1,428.00|
+-----------------------------------------------------------------------------
+| 1   | Document Processing Fee    | €50.00     | 19% | 0%       | €59.50   |
+-----------------------------------------------------------------------------
+Subtotal:               €1,487.50
+Tax (19%):              €282.63
+Total Payable:          €1,770.13
+
+AMOUNT IN WORDS:
+One thousand seven hundred seventy euros and thirteen cents 
+
+NOTES:
+- Payment is due within 30 days from the date of invoice.
+- Please make the payment to our bank account using the invoice number as the payment reference.
+
+West Wimbledon Physiotherapy Clinic
+Service Provider: Duča Grabowsky Ljudmil
+Address: -74.245698
+City: Lecco
+Phone: 13614898962
+Email: leilanithomas9@gmail.com
+
+TERMS & CONDITIONS:
+- The goods provided as per the invoice are for the sole use of the recipient and may not be redistributed without prior permission from West Wimbledon Physiotherapy Clinic.
+- Late payments are subject to interest at the statutory rate.
+- Claims for discrepancies in billing must be made within 7 days of the invoice date.
+
+This document contains internal sensitive information and is intended solely for the use of the individual or entity to whom it is addressed. Unauthorized distribution of this document is strictly prohibited.
+
+For any inquiries regarding this invoice, please contact our billing department at leilanithomas9@gmail.com or call 13614898962.
+
+Thank you for your business!
+
+West Wimbledon Physiotherapy Clinic
+[Authorized Signature]
+Duča Grabowsky Ljudmil
+Date: March 25, 2023

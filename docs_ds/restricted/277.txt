@@ -1,0 +1,58 @@
+PRODUCT SPECIFICATION
+
+Title: Advanced Security Camera System v2.0
+
+Author: Cvitko Jankovič Vivienne Glaser Grayson, Lead Product Engineer
+
+Prepared for: Evr Media Spa
+
+Prepared by: Yaritza Godoy Augustine R&D Division
+
+Document Ref: EVR-YGA-RSCS2.0-04
+
+Date: [Current Date]
+
+1. Introduction
+The Advanced Security Camera System v2.0 (henceforth referred to as ASCS v2.0) is a sophisticated surveillance solution designed by Yaritza Godoy Augustine R&D Division for Evr Media Spa. The product offers high-end security features for use in sensitive environments requiring advanced monitoring and protection. This document outlines the technical specifications, features, and requirements of the ASCS v2.0.
+
+2. System Components
+a. Camera Units: High-definition (HD) digital cameras with 1080p resolution, infrared night vision up to 40 meters, and 130-degree field of view.
+b. Recording System: The system supports 4K recording with a minimum storage capacity of 2TB, upgradable to 8TB.
+c. Connectivity Module: Supports Wi-Fi 6, Ethernet, and encrypted VPN access.
+d. Power Supply: Dual-mode operation with both PoE (Power over Ethernet) and standard AC power supply. Battery backup of at least 4 hours.
+
+3. Operational Features
+a. Motion Detection: Smart motion sensing with adjustable sensitivity and real-time notifications.
+b. Facial Recognition: AI-powered facial recognition capable of identifying and verifying individuals on a watchlist.
+c. Weather Resistance: Cameras are IP67 rated, ensuring functionality in extreme weather conditions.
+d. Software Integration: Compatibility with Evr Media Spa proprietary security software and standard third-party management systems.
+
+4. Security Protocols
+a. Data Encryption: End-to-end encryption for both live and stored footage using AES 256-bit encryption standards.
+b. User Authentication: Multi-factor authentication for system access, with biometric verification options.
+c. Network Security: Regular system updates and patches, firewalled network architecture, and intrusion detection systems.
+
+5. Compliance
+The ASCS v2.0 complies with the following regulations and standards: GDPR for data protection, ISO/IEC 27001 for information security management, and CE marking for product safety in the European market.
+  
+6. Installation Requirements
+a. The system should be installed by a certified technician.
+b. An initial site survey by Yaritza Godoy Augustine professionals is required to determine optimal camera placement and network configuration.
+c. A maintenance schedule will be provided post-installation, outlining regular check-ups and software updates.
+
+7. Confidentiality Notice
+This document contains proprietary information and trade secrets of Evr Media Spa. Access to this document is restricted to personnel authorized by Yaritza Godoy Augustine and Evr Media Spa. Unauthorized disclosure, copying, distribution, or use of the contents of this document is strictly prohibited and may be unlawful.
+
+Contact Information for Authorized Personnel:
+Cvitko Jankovič Vivienne Glaser Grayson
+R&D Lead - Yaritza Godoy Augustine
+Email: cvitko.glaser-grayson@yaritza-godoy.com
+Phone: +1-838-271-3432
+
+Address for Correspondence:
+30 Jeździecka
+Wrocław 53-032
+województwo dolnośląskie
+
+---
+This document is classified as RESTRICTED. All the specified protocols for handling, storing, and dissemination as per Evr Media Spa policy must be strictly followed.

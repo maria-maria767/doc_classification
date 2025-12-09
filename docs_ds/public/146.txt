@@ -1,0 +1,60 @@
+Invoice
+
+Bill To:
+Borčkie Konečkini Blagun
+Via Giovanni Paisiello rd.
+Acerra, Campania 28.3718565
+Italy
+
+From:
+Jones-Parker
+2958 Riverside Dr, CRAIG, CO 81625
+Email: [mburr@jones-parker.online](mailto:mburr@jones-parker.online)
+Phone: (452) 204-2052
+
+Bill From:
+Williams-Thompson
+849 W 2nd St, WILSON, OK 73463
+Email: [as@williams-thompson.xyz](mailto:as@williams-thompson.xyz)
+Phone: (838) 271-3432
+
+Invoice #: 000123
+Invoice Date: April 10, 2023
+Invoice Due: April 24, 2023
+
+Description Quantity Unit Price Total
+-------------------------------------
+
+Item 1 1 $50.00 $50.00
+Item 2 1 $20.00 $20.00
+Item 3 1 $10.00 $10.00
+
+Subtotal $80.00 $80.00
+Tax (10%) $8.00 $8.00
+Total $88.00 $88.00
+
+Payment Terms:
+Net (2% disc) 2% 2% $88.00
+Less discounts of $1.76
+Payable at:
+Wells Fargo Bank, NA
+11 Main St, Ripley, NY 14775
+Acct # 11122334444
+Routing # 123456789
+Swift Code: WEBNUS33
+
+Credit Card Authorization:
+Number: [1234567890123456]
+Exp. Date: 12/25
+CVV: 567
+Name on Card: Borčkie Konečkini Blagun
+Billing Address: Via Giovanni Paisiello rd. Acerra, Campania 28.3718565 Italy
+Phone: 1299642557
+Amount: $88.00
+
+Signature: _______________________________
+Date: _______________________________
+
+Thank you for your business!
+
+Edward Rajalakshmi - India

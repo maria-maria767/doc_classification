@@ -1,0 +1,33 @@
+Company Document: Service Level Agreement (SLA)
+
+This Service Level Agreement (SLA) sets out the terms and conditions that apply to the provision of services by Alia Wheat to its customers. The SLA outlines the responsibilities of both Alia Wheat and its customers, and defines the levels of service that can be expected.
+
+Service Description:
+
+Alia Wheat provides customers with a service that enables them to manage their orders and track their shipments. The service is accessible via the Alia Wheat website and is available 24 hours a day, 7 days a week.
+
+Service Levels:
+
+Alia Wheat commits to providing a service that is available 99% of the time, measured on a monthly basis. This availability is measured based on the ability of customers to access the service and place orders. In the event that the service is unavailable, Alia Wheat will provide a credit to affected customers equal to 5% of their monthly fee for each 1% of downtime below the 99% availability target.
+
+Response Time:
+
+Alia Wheat commits to responding to customer support requests within 24 hours of receipt. This response time applies to all requests, including those received outside of normal business hours.
+
+Data Protection:
+
+Alia Wheat takes the security and privacy of its customers' data very seriously. The company has implemented appropriate technical and organizational measures to protect data from unauthorized access, disclosure, alteration, or destruction. These measures include the use of firewalls, secure connections, and data encryption.
+
+Changes to SLA:
+
+Alia Wheat reserves the right to modify the terms of this SLA at any time. Customers will be notified of any changes via email or through the Alia Wheat website.
+
+Contact Information:
+
+For any questions or concerns regarding this SLA or the provision of services by Alia Wheat, please contact us at [slasupport@alia-wheat.com](mailto:slasupport@alia-wheat.com) or by phone at 0800 11 79. Our customer support team is available 24 hours a day, 7 days a week.
+
+Approved and Effective as of: April 1, 2023.
+
+Signed,
+Bozan Czajkowski
+CEO, Alia Wheat

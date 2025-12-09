@@ -1,0 +1,51 @@
+PROJECT PLAN
+
+Project Title: Advanced Veterinary Data Analytics Platform
+
+Prepared by: Hristovski
+
+Project Summary:
+The objective of this project is to design and implement an Advanced Veterinary Data Analytics Platform for Broad run veterinary service. The platform will enable enhanced data analysis for improved animal care and streamlined operational efficiency. The project will follow a stage-gate process with strict adherence to the sensitivity and privacy of the data handled.
+
+Project Manager: Stoyan Tsarknias Pharaoh Christensen
+Contact Information: (318) 073-6028, leoconrad7@davis-moses.ly
+Address: 535 Hartford Avenue, Merino, Rhode Island 02909, United States of America
+
+Key Stakeholders:
+- Dušan Knezevic Jovan (Broad run veterinary service)
+- Viktorija Močibob Aljinović (Technology Partner)
+- Kevin (Data Security Consultant)
+
+Project Milestones:
+1. Project Kick-off – May 5, 2023
+2. Requirement Analysis Completion – June 15, 2023
+3. Platform Design Approval – July 20, 2023
+4. Development Phase Start – August 1, 2023
+5. Mid-project Review – September 25, 2023
+6. User Testing Phase – November 10, 2023
+7. Project Completion and Roll-Out – January 20, 2024
+
+Project Budget: A detailed budget document is available upon request and is classified as RESTRICTED.
+
+Resource Allocation:
+- Software Development Team: Contracted from Viktorija Močibob Aljinović.
+- Data Security Measures: Overseen by Kevin, with quarterly audits.
+- Project Management: Managed by Stoyan Tsarknias Pharaoh Christensen.
+
+Risk Management:
+- Data Breach: Implement top-grade security protocols.
+- Project Delay: Regular review meetings to keep the project on track.
+- Technology Obsolescence: Incorporate a flexible design to allow for future updates.
+
+Communication Plan:
+- Internal Updates: Bi-weekly meetings with key stakeholders.
+- Stakeholder Reports: Monthly report distributions.
+
+Access to this Project Plan is limited to individuals directly involved with the Advanced Veterinary Data Analytics Platform project. Unauthorized distribution or duplication is strictly prohibited. All participants must comply with data handling and privacy policies as per Broad run veterinary service standards.
+
+Please refer to Project Document Control ID #RST-3242 for further information on this document.
+
+Authorization Signature (Project Manager): ___________________
+Date: __________
+
+END OF DOCUMENT

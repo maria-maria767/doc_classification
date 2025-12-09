@@ -1,0 +1,66 @@
+Subject: Sensitive Information Sharing Guidelines
+
+Dear Employees,
+
+As we continue to promote a culture of trust and confidentiality within our organization, it is essential that we maintain the appropriate level of information security. In order to achieve this goal, we have developed the following guidelines for sensitive information sharing:
+
+1. External Sharing: The sharing of sensitive information with external parties should always be approved by a senior manager. Recipients must be bound by a confidentiality agreement and the information should be shared using secure methods such as encrypted email or courier service.
+2. Internal Sharing: Within the organization, sensitive information should only be shared on a need-to-know basis. All employees are required to sign a confidentiality agreement to ensure that they understand the importance of keeping sensitive information confidential.
+3. Digital Storage: Sensitive information should be stored electronically in secure systems with access restricted to authorized personnel only. Passwords should be complex and changed regularly to prevent unauthorized access.
+4. Physical Storage: Physical copies of sensitive information should be stored in locked cabinets or filing cabinets with access restricted to authorized personnel only.
+
+Examples of sensitive information include:
+
+* Personal information of employees, customers or partners, such as addresses, emails and phone numbers.
+* Financial information, including bank account details, credit card information and financial projections.
+* Confidential business strategies, tactics, and plans.
+* Legal documents, such as contracts and non-disclosure agreements.
+
+Violations of these guidelines may result in disciplinary action, up to and including termination of employment.
+
+If you are unsure whether a document or piece of information is sensitive or should be shared, please consult with your supervisor or the HR department before proceeding.
+
+Thank you for your attention to this matter.
+
+Sincerely,
+
+Georgios Gjurićik Hristina
+CEO, Maretti Lighting
+
+cc: Kirce Dzherov Ljupka, Borčkie Konečkini Sukhmani Fatima Blackwell Hall
+CFO, Maretti Lighting
+
+---
+
+CONFIDENTIAL
+
+Subject: Employee Information Sharing Guidelines
+
+Dear Employees,
+
+As a organization, we are committed to protecting the privacy of our employees and maintaining the highest standards of confidentiality. In order to do so, the following guidelines for sharing employee information have been established:
+
+1. Employees are prohibited from sharing personal information about their colleagues with unauthorized parties, both within and outside of the organization.
+2. Access to employee information should be limited to authorized personnel only, and all employees should be aware of the sensitive nature of this information.
+3. employee information should be stored electronically in secure systems with access restricted to authorized personnel only.
+4. Physical copies of employee information should be stored in locked cabinets or filing cabinets with access restricted to authorized personnel only.
+
+Examples of employee information include:
+
+* Personal information, such as addresses, emails, and phone numbers.
+* Payroll information, including salary and benefits information.
+* Performance reviews and personnel files.
+* Medical information, including health insurance claims and disability accommodations.
+
+Violations of these guidelines may result in disciplinary action, up to and including termination of employment.
+
+If you have any questions about these guidelines or believe that they may have been violated, please contact the HR department immediately.
+
+Thank you for your attention to this matter.
+
+Sincerely,
+
+Kirce Dzherov Ljupka
+CFO, Maretti Lighting
+
+cc: Borč

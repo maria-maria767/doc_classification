@@ -1,0 +1,44 @@
+Purchase Order
+Request for Approval
+
+Date: 2022-09-12
+
+Sensitivity Level: Restricted
+
+To: Authorized Purchasing Agent
+From: Makenzie, Procurement Specialist
+
+Subject: Purchase Order Approval Request
+
+Dear [Authorized Purchasing Agent],
+
+I am writing to request approval for the purchase of the following items:
+
+Item Name Qty Unit Price Total
+Hewlett-Packard 8 GB RAM 10 $45.00 $450.00
+Microsoft Office Pro 1 $250.00 $250.00
+Dell OptiPlex 790 Desktop 3 $600.00 $1,800.00
+
+Total: $2,450.00
+
+Vendor: Tech Depot Inc.
+Address: Targowa, Turobin, województwo lubelskie
+Phone: 1-835-055-6217
+Email: [rr9637@young-baker.co](mailto:rr9637@young-baker.co)
+
+The vendor has agreed to a 10% discount on the total order if we can provide payment within 30 days. The payment method we will be using is a purchase order with an invoice.
+
+I have checked with the necessary departments, and there are no budget restrictions for this request.
+
+Approval is required for this purchase order to proceed. Please sign and date below to indicate your approval.
+
+Thank you for your prompt attention to this matter.
+
+Sincerely,
+Makenzie, Procurement Specialist
+
+---
+
+Approval:
+Authorized Purchasing Agent
+Date: 2022-09-12

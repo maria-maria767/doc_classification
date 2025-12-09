@@ -1,0 +1,55 @@
+INVOICE
+
+Bill To:
+State Route 116 rd. 9329
+Hinesburg, Vermont
+
+From:
+Cofidis Retail
+28 Fairlawn Lane
+Lexington, MA 02420-2219
+
+Date:
+2023-04-25
+
+---
+
+Description Qty Unit Price Total
+----------------------------------
+
+----------------------------------
+
+1 Apparel Item A 1 50.00 50.00
+1 Apparel Item B 1 75.00 75.00
+1 Apparel Item C 1 100.00 100.00
+
+Subtotal 3 225.00
+Tax 0 18.50
+Total 3 243.50
+
+----------------------------------
+
+Payment Terms: Net 30
+Payment Method: Check
+
+Invoice Number: 12345
+
+Contact:
+Name: Abhiram Langford
+Title: Sales Manager
+Phone: +1-290-533-8863
+Email: [bd@kurtoic.hr](mailto:bd@kurtoic.hr)
+
+---
+
+Please make check payable to Cofidis Retail and mail to:
+Cofidis Retail
+28 Fairlawn Lane
+Lexington, MA 02420-2219
+
+Thank you for your business!
+
+Sincerely,
+Abhiram Langford
+Sales Manager
+Cofidis Retail

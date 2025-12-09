@@ -1,0 +1,43 @@
+MEMORANDUM
+
+To: All Department Heads
+From: Jane Doe, VP of Operations
+Date: April 1, 2023
+Subject: New Email Retention Policy
+
+Dear Colleagues,
+
+As part of our initiative to improve data management and compliance with industry regulations, we are implementing a new company-wide Email Retention Policy. This policy is intended to streamline our email storage and ensure the proper handling of our electronic communication.
+
+Highlights of the Policy:
+
+1. Duration: All emails will be retained in our system for a period of two years from the date of reception or sending.
+
+2. Archiving: After two years, emails will be automatically archived on a secure company server, which is accessible by authorized personnel only. 
+
+3. Sensitive Information: Emails that contain sensitive or proprietary information must be flagged as such, so that they can be archived separately in a secure environment suitable for confidential data.
+
+4. Deletion: Emails that are not deemed necessary for legal or business reasons and are beyond the two-year retention period will be eligible for deletion.
+
+5. Access: Requests for access to archived emails must be submitted in writing to the IT department, specifying the reason for retrieval and the relevant dates of correspondence.
+
+6. Training: A mandatory training session on the new Email Retention Policy will be provided to all employees. This session will cover how to flag emails, the process for archival, and how to avoid accidental deletion of emails that need to be preserved.
+
+7. Compliance: Adherence to this policy is mandatory. Non-compliance with the Email Retention Policy may result in disciplinary action, up to and including termination of employment.
+
+Action Required:
+
+1. Please communicate this policy to your teams and ensure they understand the importance of compliance.
+
+2. Ensure that all your team members attend the scheduled training sessions.
+
+3. If you encounter any issues or have any concerns regarding this policy, please submit them in writing to the IT department by April 15, 2023.
+
+We appreciate your prompt attention to this matter and your commitment to maintaining the integrity and efficiency of our communication systems. Thank you for your cooperation.
+
+Best regards,
+
+Jane Doe
+VP of Operations
+
+[End of Document]

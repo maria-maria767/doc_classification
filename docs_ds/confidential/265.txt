@@ -1,0 +1,63 @@
+Purchase Order
+
+Bought From:
+Florovski
+Address:
+74.6204679
+City: nigeria
+Email: [nkapusta38@simic.com](mailto:nkapusta38@simic.com)
+Phone: +55 06 95387 0325
+
+Bought From:
+Pasarikova
+Address:
+3 Via Pontasso
+City: MORGAN CITY, LA
+Email: [c-p@clark.biz](mailto:c-p@clark.biz)
+Phone: 1-979-980-4725
+
+Bought From:
+Lesek
+Address:
+Rue des Coquelicots
+City: algeria
+Email: [p-b9@lucas-watkins.site](mailto:p-b9@lucas-watkins.site)
+Phone: 6543 77 2125
+
+Order Details:
+
+Item Quantity Unit Price Total
+-----------------------------
+
+Laptop 2 $1000 $2000
+Tablet 1 $500 $500
+Headphones 3 $150 $450
+
+Total Amount: $2950
+
+Payment Terms:
+
+Payment Method: Wire Transfer
+Bank Details:
+Bank Name: M&M Capital Management
+Account Name: Terence
+Account Number: 1234567890
+Routing Number: 123456789
+Swift Code: MMCMUS33
+
+Delivery Details:
+
+Shipping Address:
+Golovkin Mariyah Robbins
+Address:
+3 Via Pontasso
+City: MORGAN CITY, LA
+Email: [c-p@clark.biz](mailto:c-p@clark.biz)
+Phone: 1-979-980-4725
+
+Delivery Date: May 15, 2023
+
+Signature:
+
+Florovski
+Date: April 15, 2023

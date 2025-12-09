@@ -1,0 +1,41 @@
+Job Title: Software Development Engineer
+
+Location: North Pleasant Street, Amherst, Massachusetts
+
+Reports to: Director of Software Development
+
+Purpose:
+
+The Software Development Engineer will be responsible for designing, developing, and maintaining software applications for our organization. This person will work closely with our product and engineering teams to develop innovative solutions that meet the needs of our customers.
+
+Responsibilities:
+
+* Develop high-quality, scalable, and maintainable software applications using Java and Python languages.
+* Collaborate with cross-functional teams to gather and analyze requirements, design and test software applications.
+* Identify and address software bugs and performance issues.
+* Participate in code reviews to ensure software quality standards are met.
+* Contribute to the development of new features and functionality.
+* Keep up to date with industry trends and new technologies.
+
+Qualifications:
+
+* Bachelor's degree in Computer Science or related field.
+* Minimum of 5 years of experience in software development.
+* Proficiency in Java and Python languages.
+* Experience with software development methodologies such as Agile and Scrum.
+* Strong problem-solving and analytical skills.
+* Excellent communication and interpersonal skills.
+
+Contact Information:
+
+Name: Stoyan Tsarknias Zbyna
+Email: [stoyan.zbyna@munoz.store](mailto:stoyan.zbyna@munoz.store)
+Phone: 1816292913
+
+This job description is restricted and should only be shared with authorized individuals.
+
+Signature:
+
+---
+
+(Authorized Signatory)

@@ -1,0 +1,43 @@
+MEMORANDUM
+
+To: All Department Heads
+From: Jane Smith, Director of Internal Operations
+Date: April 15, 2023
+Subject: New Protocols for Remote Access to Company Systems
+
+Dear Colleagues,
+
+In line with our ongoing commitment to cybersecurity and efficient management of company resources, we are implementing new protocols regarding remote access to our internal systems. These changes are intended to streamline processes and enhance security measures for all employees working remotely.
+
+**Implementation Date**
+The new protocols will take effect on May 1, 2023. All remote employees are expected to adhere to these protocols from the date of implementation.
+
+**New Protocols**
+
+1. **Secure Connection**: Remote access must be made through the company's VPN (Virtual Private Network) with multi-factor authentication to ensure a secure connection.
+
+2. **Access Restrictions**: Employees will be assigned access levels based on their role and necessity. The IT department will manage access restrictions to limit entry to sensitive areas of the company's system.
+
+3. **Remote Work Policy Acknowledgment**: All remote employees must sign an acknowledgment of the Remote Work Policy, which outlines the obligations and responsibilities of employees when accessing company systems offsite.
+
+4. **Regular Updates**: The IT department will initiate regular mandatory software updates to ensure that all remote systems are equipped with the latest security patches.
+
+5. **Digital Security Training**: Remote employees must complete a compulsory annual digital security training program. The first session will be conducted on May 20, 2023.
+
+6. **Reporting Incidents**: Any security breaches or suspicious activities must be reported to the IT security team immediately without delay.
+
+**Action Item**
+Departments are requested to provide a list of remote employees who will require access under the new system, along with their desired access level permissions, to the IT department by April 30, 2023.
+
+**Compliance**
+Adherence to these protocols is mandatory for all employees with remote access to company systems. Failure to comply may result in revocation of remote access privileges and/or disciplinary action.
+
+Should you have any questions or require further clarification on any of the points detailed above, please do not hesitate to contact the IT security team at security@companyname.com.
+
+Thank you for your cooperation in maintaining the integrity and security of our company systems.
+
+Best regards,
+Jane Smith
+Director of Internal Operations
+
+Attachment: Remote Work Policy Document

@@ -1,0 +1,47 @@
+INVOICE
+
+Invoice Number: 4589
+Invoice Date: April 12, 2023
+
+BILL TO:
+Chučkov Nedelčkio
+Washington Avenue, Seymour
+United States of America
+Email: cmaurer424@hotmail.com
+Phone: +91 (076) 518 45 67
+
+SHIP TO:
+Ludmila Sadowsky Lidka
+Via Roma, 27.9096697
+Cremona, Italy
+Email: bd@kurtoic.hr
+Phone: (07700)900315
+
+FROM:
+Downtown Development Association Of Lincolnton Inc
+22 North Aspen Street,
+Lincolnton, NC 28092
+United States of America
+Email: levi-vo788@terry.website
+Phone: +55 87 9 1031-9900
+
+DESCRIPTION OF SERVICES
+
+| Item Description                 | Quantity | Unit Price | Total Price |
+|-----------------------------------|----------|------------|-------------|
+| Consulting services for urban     | 50       | $200       | $10,000     |
+| development project               |          |            |             |
+| Strategic planning session        | 10       | $300       | $3,000      |
+| Follow-up report and analysis     | 1        | $1,500     | $1,500      |
+|-----------------------------------|----------|------------|-------------|
+| SUBTOTAL                          |          |            | $14,500     |
+| TAX (10%)                         |          |            | $1,450      |
+| TOTAL DUE                         |          |            | $15,950     |
+
+Payment is due within 30 days from the invoice date. Please make the payment to Downtown Development Association Of Lincolnton Inc, account number 54833521 at First National Bank.
+
+If you have any questions concerning this invoice, please contact Jordana Soposka at levi-vo788@terry.website or +55 87 9 1031-9900.
+
+Thank you for your business!
+
+This document is of sensitivity level "DIFFUSION INTERNAL" and should not be shared outside the organization. Unauthorized distribution or disclosure of this document's contents is prohibited.

@@ -1,0 +1,50 @@
+Contract Agreement
+
+This Contract Agreement ("Agreement") is entered into on [Date] (the "Effective Date") by and between Kestrel Technologies, a company organized and existing under the laws of the United States of America, with its principal place of business located at  Bayonne Avenue, Warwick, United States of America ("Company"), and Thelma, an individual residing at [Address], [City], [Country] ("Contractor").
+
+WHEREAS, Company desires to engage Contractor to perform certain services (the "Services") as set forth in this Agreement; and
+
+WHEREAS, Contractor desires to provide such Services to Company on the terms and conditions set forth in this Agreement.
+
+NOW, THEREFORE, in consideration of the mutual covenants and promises contained herein, and for other good and valuable consideration, the receipt and sufficiency of which is hereby acknowledged, the parties agree as follows:
+
+1. Services. Company engages Contractor to perform the Services as set forth in Exhibit A attached hereto.
+2. Term. The term of this Agreement shall be [Term] commencing on the Effective Date and ending on [End Date].
+3. Compensation. Company shall pay Contractor a total compensation of [Amount] for the Services rendered hereunder. Payment shall be made in accordance with the terms set forth in Exhibit B attached hereto.
+4. Representations and Warranties. Contractor represents and warrants that (a) Contractor has the legal right and authority to enter into this Agreement, (b) the execution, delivery, and performance of this Agreement by Contractor does not breach any agreement to which Contractor is a party or by which Contractor is bound, (c) the Services rendered by Contractor hereunder will be performed in a professional and workmanlike manner, and (d) Contractor will comply with all applicable laws, rules, and regulations in the performance of the Services.
+5. Confidentiality. Contractor acknowledges that Company may provide Contractor with confidential or proprietary information during the course of performing the Services. Contractor agrees to maintain the confidentiality of such information and to use it only in connection with the performance of the Services.
+6. Termination. Either party may terminate this Agreement for convenience at any time upon [Notice Period] written notice to the other party. Either party may terminate this Agreement for material breach by the other party upon [Notice Period] written notice specifying the breach.
+7. Governing Law. This Agreement shall be governed by and construed in accordance with the laws of the United States of America.
+8. Entire Agreement. This Agreement constitutes the entire agreement between the parties with respect to the subject matter hereof and supersedes all prior and contemporaneous agreements, whether written or oral, relating to the subject matter.
+
+IN WITNESS WHEREOF, the parties have executed this Agreement as of the Effective Date.
+
+Kestrel Technologies
+
+By: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+Name: Svyatoslav Zasarov Adelle
+
+Title: [Title]
+
+[Address]
+
+[City], [State] [Postal Code]
+
+[Email]
+
+[Phone]
+
+Thelma
+
+By: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+[Signature]
+
+[Address]
+
+[City], [State] [Postal Code]
+
+[Email]
+
+[Phone]

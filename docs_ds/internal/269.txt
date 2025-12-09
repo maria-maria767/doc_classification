@@ -1,0 +1,66 @@
+---
+
+**Company Policy and Procedure Document**
+
+**Policy Number:** 24-INT-2023
+
+**Effective Date:** April 1, 2023
+
+**Subject:** Employee Data Protection and Privacy
+
+**Policy Owner:** James Orr Smail, Chief Privacy Officer
+
+**Applicability:** This policy applies to all employees, contractors, and subsidiaries of Komarek GmbH.
+
+**Purpose:**
+The purpose of this Policy and Procedure document is to outline the responsibilities of Komarek GmbH and its employees with regard to the protection and privacy of company and employee information. This document is intended to ensure that all data handled by Komarek GmbH is processed correctly, legally, and with the utmost care.
+
+**Policy Statement:**
+Komarek GmbH is committed to safeguarding the privacy and security of employee and company data. The company recognizes that the confidential handling of internal data is critical to maintaining trust and upholding our reputation. As such, any information pertaining to company operations, employee personal data, or sensitive business strategies is to be classified as "DIFFUSION INTERNAL" and treated accordingly.
+
+**Procedures:**
+
+1. **Data Classification:**
+   All company data must be classified into one of four categories upon creation or receipt:
+   - Public
+   - Internal
+   - Confidential
+   - Restricted
+   This document is classified as "DIFFUSION INTERNAL" and is for internal company use only.
+
+2. **Data Access:**
+   - Employees shall only access data that is necessary for the performance of their job responsibilities.
+   - Unauthorized disclosure of "DIFFUSION INTERNAL" information is strictly prohibited.
+   - Requests for access to "DIFFUSION INTERNAL" information must be made to the Policy Owner or designated representative.
+
+3. **Data Handling and Storage:**
+   - Internal documents should be stored securely within the company’s network, in locations with controlled access.
+   - Paper copies containing sensitive information should be kept to a minimum and stored in locked filing cabinets when not in use.
+   - Disposal of documents should be done through shredding or other secure destruction methods.
+
+4. **Electronic Communication:**
+   - When transmitting "DIFFUSION INTERNAL" information electronically, employees must use company-approved methods such as encrypted emails or secure file transfer protocols.
+   - The use of personal email accounts (such as l.f@simunic.com.hr, ff10@yahoo.com, or e-o@gmail.com) for sending or receiving company-sensitive information is strictly forbidden.
+
+5. **Incident Reporting:**
+   - Any unauthorized access, disclosure, alteration, or destruction of "DIFFUSION INTERNAL" information must be immediately reported to the Policy Owner.
+   - Employees must promptly notify the company if they suspect a data breach or policy violation.
+
+6. **Training and Awareness:**
+   - All new employees are required to undergo data protection training upon onboarding.
+   - Regular refresher training will be conducted annually to ensure ongoing compliance and awareness.
+
+**Enforcement and Sanctions:**
+Failure to abide by this policy may result in disciplinary action, up to and including termination of employment. Compliance with this policy is mandatory for all employees and is crucial to protect the interests of Komarek GmbH.
+
+**Policy Owner Contact Information:**
+James Orr Smail
+Phone: 4744267886
+Email: e-o@gmail.com
+Address: Liliowa rd. on number 2, Kamionki, województwo wielkopolskie
+
+*This policy may be revised or updated without notice, and it is the responsibility of employees to stay informed about policy changes.*
+
+---
+
+*This is a "DIFFUSION INTERNAL" document and contains sensitive company information. Distribution or disclosure of its contents outside the intended internal recipients within Komarek GmbH is prohibited.*

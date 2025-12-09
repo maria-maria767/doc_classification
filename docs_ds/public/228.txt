@@ -1,0 +1,29 @@
+Company Document: Service Level Agreement (SLA)
+
+This Service Level Agreement (SLA) sets out the terms and conditions that apply to the provision of services by Softway medical to its customers. The SLA outlines the responsibilities of both Softway medical and its customers, and defines the levels of service that can be expected.
+
+Service Description:
+Softway medical provides medical software and hardware solutions to customers in the healthcare industry. The services include but are not limited to patient management systems, clinical decision support tools, and medical device integration.
+
+Service Levels:
+
+1. System Availability: Softway medical guarantees 99.9% system availability per year. System downtime is defined as the time when the system is unavailable for access or use by customers due to issues within Softway medical's infrastructure.
+2. Product Updates and Support: Softway medical commits to providing regular product updates and technical support to its customers. Customers will have access to a dedicated support team, available via email and phone during normal business hours.
+3. Response Time: Softway medical commits to responding to customer support requests within 24 hours of receiving the request.
+
+Customer Responsibilities:
+Customers are responsible for:
+
+1. Providing accurate and up-to-date contact information to Softway medical for communication purposes.
+2. Adhering to the terms and conditions of this SLA and Softway medical's product policies.
+3. Ensuring the security and confidentiality of their data and systems when using Softway medical's services.
+4. Notifying Softway medical of any changes in system usage or requirements that may impact service levels.
+
+Limitation of Liability:
+Softway medical shall not be liable for any indirect, special, or consequential damages arising out of or in connection with the use of its services.
+
+Governing Law:
+This SLA shall be governed by and construed in accordance with the laws of the United States.
+
+Contact Information:
+Customers can contact Softway medical's support team at [cmaurer424@hotmail.com](mailto:cmaurer424@hotmail.com) or (5281) 22 3798.

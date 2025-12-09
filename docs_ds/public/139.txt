@@ -1,0 +1,53 @@
+Company Document: Service Level Agreement
+
+This Service Level Agreement (SLA) is made between Simeon Toshev Vierka, Argir Dajo Ognyan, Kralevski (hereinafter referred to as "the Client"), and Maram (hereinafter referred to as "the Company").
+
+Scope
+--
+
+This SLA outlines the standards of service that the Company agrees to provide to the Client.
+
+Service Levels
+------
+
+The Company shall provide the following services to the Client:
+
+1. Software Development
+2. Technical Support
+3. Project Management
+
+Service Standards
+------------
+
+The standards of service that the Company agrees to meet are as follows:
+
+1. Software Development: The Company shall deliver software that is free of errors, meets the Client's specifications, and is delivered on time.
+2. Technical Support: The Company shall provide technical support to the Client within 24 hours of receiving a support request.
+3. Project Management: The Company shall provide regular project status updates to the Client and ensure that the project is delivered on time and within budget.
+
+Service Levels Guarantees
+-------------
+
+The Company guarantees that it shall meet the above-mentioned service levels. If the Company fails to meet these service levels, the Client shall receive a service credit equal to 5% of the Client's annual service fees for each incident where the service level is not met.
+
+Termination
+----
+
+Either party may terminate this agreement upon 30 days' written notice to the other party.
+
+Governing Law
+-----
+
+This SLA shall be governed by and construed in accordance with the laws of India.
+
+Signatures
+-----
+
+Simeon Toshev Vierka, Argir Dajo Ognyan, Kralevski
+
+Maram
+--
+
+Law office of josh kendrick, esq.
+
+Dive Otago

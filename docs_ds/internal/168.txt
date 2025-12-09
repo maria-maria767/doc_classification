@@ -1,0 +1,35 @@
+INVOICE
+
+Bill To:
+Duča Grabowsky Ljudmil
+Putikankuja, Vihti, Suomi
+
+From:
+Kire Daskalov Phillip
+9 Keplerstraße, Köln, Nordrhein-Westfalen 50823
+
+Date: April 12, 2023
+
+Invoice Number: 12345
+
+Description Qty Unit Price Total
+-------------------------------------
+
+Item 1 1 10.00 10.00
+Item 2 1 20.00 20.00
+Item 3 1 30.00 30.00
+
+Subtotal 31.00 31.00
+Tax 5.00 5.00
+Total 36.00 36.00
+
+Payment Terms: Net 30
+
+Thank you for your business!
+
+Sincerely,
+
+Kire Daskalov Phillip
+Maf mortgage services & maf background screening
+[cmaurer424@hotmail.com](mailto:cmaurer424@hotmail.com)
+(0246132492)

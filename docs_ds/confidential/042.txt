@@ -1,0 +1,51 @@
+------------------------
+INVOICE
+------------------------
+
+Invoice No: 57389-A
+Invoice Date: April 3, 2023
+
+BILL TO:
+Sutton
+Attn: Smiljan Milutinović Zdravko
+46 Hollow Lane
+Hempstead, NY 11756
+
+SHIP TO:
+Braelyn Roberson Moffitt
+17 Rue Watteeu - Watteeustraat
+Bruxelles / Brussel
+Région de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest 1000
+
+Payment Terms: Net 30
+Due Date: May 3, 2023
+
+ITEM DESCRIPTION                 QTY        UNIT PRICE     TOTAL
+---------------------------------------------------------------------------
+Web Design Services:             48h        $85.00/hr      $4,080.00
+Website Upgrade Plan
+(Advanced SEO Optimization)
+
+Graphic Design Services:         20h        $75.00/hr      $1,500.00
+Brand Identity Development
+
+Software Integration:            15h        $95.00/hr      $1,425.00
+Customer Relationship
+Management System (CRM)
+
+SUBTOTAL:                                                         $7,005.00
+SALES TAX (8.875%):                                              $621.69
+
+TOTAL DUE:                                                         $7,626.69
+
+Please make all checks payable to Sutton.
+
+If you have any questions concerning this invoice, contact:
+Georgios Gjurićik Daniel
+Email: thomas-cisneros3@gmail.com
+Phone: +1-838-271-3432
+
+Thank you for your business!
+
+------------------------
+This document is designated CONFIDENTIAL. Its disclosure or distribution is strictly limited to parties with authorized access. Any unauthorized review, use, disclosure, or distribution is prohibited. If you are not the intended recipient, please contact the sender by phone or email and destroy all copies of the original document.

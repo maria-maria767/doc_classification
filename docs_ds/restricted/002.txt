@@ -1,0 +1,49 @@
+INVOICE
+
+Utilityworks
+41 Spooner Street
+Plymouth, MA 02360-7310
+United States
+
+Invoice No.: 198576
+Invoice Date: April 12, 2023
+
+Bill To:
+Smiljan Milutinović Slavoljub
+98 Ronda d'Amèrica
+Vilanova i la Geltrú, 08800
+Catalunya
+
+Email: lcurtis6855@reese-warner.ly
+Phone: 4280 83 6131
+
+Description of Services:
+
+| Qty | Service/Product       | Unit Price | Total Price |
+|-----|-----------------------|------------|-------------|
+|  1  | Software License Fee  |  $899.99   |  $899.99    |
+|  4  | Technical Support     |  $199.99   |  $799.96    |
+|  1  | Installation Service  |  $499.99   |  $499.99    |
+|-----|-----------------------|------------|-------------|
+|     |                       | Subtotal   |  $2199.94   |
+|     |                       | Sales Tax  |  $176.00    |
+|     |                       | Total Due  |  $2375.94   |
+
+Payment Terms: Net 30
+Payment Due By: May 12, 2023
+
+Please make the check payable to Utilityworks.
+
+For electronic payments, use the following details:
+Bank Name: First Safeguard Bank
+Account Number: 4422559172
+Routing Number: 211371669
+
+If you have any questions concerning this invoice, please contact:
+Robert Pepper
+Email: m-jalusic@jakopec.biz
+Phone: 03-13936.424
+
+Thank you for your business!
+
+Note: This document contains sensitive information and is intended only for the use of the individual or entity named above. If you are not the intended recipient, you are hereby notified that any disclosure, copying, distribution, or taking any action in reliance on the contents of this information is strictly prohibited.

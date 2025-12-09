@@ -1,0 +1,60 @@
+CONTRACT AGREEMENT
+
+This Contract Agreement (hereinafter referred to as "Agreement") is made and entered into this day by and between Kestrel Technologies (hereinafter referred to as the "Contractor"), with its principal place of business located at Bayonne Avenue, Warwick, United States of America, and Studieforbundet Vuxenskolan (hereinafter referred to as the "Client"), with its principal office in Forlì-Cesena, Italy.
+
+1. Scope of Work
+The Contractor agrees to provide the Client with technical services and support as outlined in the attached Exhibit A, which is an integral part of this Agreement.
+
+2. Term of Agreement
+This Agreement shall commence on the date of the last signature below and continue in effect until completion of the services, unless terminated earlier by either party in accordance with the termination provisions set forth herein.
+
+3. Compensation
+For services rendered by the Contractor under this Agreement, the Client agrees to pay the sum outlined in Exhibit B. Payment shall be due within thirty (30) days of receipt of an invoice from the Contractor.
+
+4. Confidentiality
+Each party acknowledges that in the course of performing their responsibilities under this Agreement, they may be exposed to or acquire information that is proprietary to or confidential to the other party. Neither party shall disclose any such information to any third party without the prior written consent of the other party.
+
+5. Assignment
+Neither party may assign or transfer any rights or obligations under this Agreement without the prior written consent of the other party.
+
+6. Notices
+All notices and other communications hereunder shall be in writing and shall be deemed to have been duly given when delivered to the parties at the following addresses:
+
+To Contractor:
+Kestrel Technologies
+Bayonne Avenue, Warwick, United States of America
+Email: darkoveckovic1@semialjac.org
+Phone: (051) 2855-8330
+
+To Client:
+Studieforbundet Vuxenskolan
+Forlì-Cesena, Italy
+Email: s-snyder1@carey-hernandez.website
+Phone: +55 18 93839 5749
+
+7. Governing Law
+This Agreement shall be governed by and construed in accordance with the laws of the United States of America, without regard to its conflict of law provisions.
+
+8. Entire Agreement
+This Agreement, including all Exhibits, which are hereby incorporated by reference, contains the entire understanding of the parties and supersedes all previous verbal and written agreements between the parties concerning the subject matter hereof.
+
+IN WITNESS WHEREOF, the parties hereto have executed this Agreement as of the date first above written.
+
+For Kestrel Technologies:
+
+Svyatoslav Zasarov Adelle
+Title:
+Date:
+
+For Studieforbundet Vuxenskolan:
+
+Nathalie Krieger
+Title:
+Date:
+
+Note: This document contains sensitive information intended solely for use within Kestrel Technologies and Studieforbundet Vuxenskolan. Unauthorized distribution or use of this document is strictly prohibited.
+
+Exhibit A: (Description of Technical Services and Support)
+Exhibit B: (Payment Sum and Schedule)
+
+-END OF DOCUMENT-

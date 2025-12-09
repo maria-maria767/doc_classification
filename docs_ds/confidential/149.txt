@@ -1,0 +1,32 @@
+INVOICE
+
+Bill To:
+Olgica Theophanous Kelvin Crow
+28.1198117 or 8 Radnor Lane Morrisville New York 13408
+Pavia
+c.perez150@gmail.com
+2500233769
+Itab Recruitment
+
+From:
+Rostislav Perun Alfred
+Ziedoņa iela, Rīga, Vidzeme
+Forlì-Cesena
+[elaine.briggs@williams-martin.website](mailto:elaine.briggs@williams-martin.website)
+31 0020-5087
+Jon wolf photography
+
+Description Quantity Unit Price Total
+-------------------------------- ----- ----- --------
+
+Item 1 1 50.00 50.00
+Item 2 1 25.00 25.00
+Grand Total 2 75.00 75.00
+
+Payment Terms: Net 30
+
+Thank you for your business!
+
+Sincerely,
+Rostislav Perun Alfred
+Belgian Company bvba

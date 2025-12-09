@@ -1,0 +1,46 @@
+PROJECT PLAN: "Developing a New Pet Health App"
+
+Project Lead: Dušan Knezevic Jovan
+Project Manager: Hristovski
+
+Project Goals and Objectives:
+
+1. Develop a new pet health app that allows pet owners to easily track and manage their pet's health information, including vaccination records, medical history, and care instructions.
+2. Create a user-friendly interface that makes it easy for pet owners to input and access their pet's health information.
+3. Integrate features that allow pet owners to schedule appointments with their veterinarian, order prescription medication, and get reminders about upcoming vet visits and vaccinations.
+4. Ensure the app is secure and compliant with all medical privacy regulations.
+
+Project Timeline:
+
+1. Planning and design phase (2 months)
+2. Development and testing phase (4 months)
+3. Launch and marketing phase (1 month)
+
+Team Members:
+
+1. Project Lead: Dušan Knezevic Jovan ([darkoveckovic1@semialjac.org](mailto:darkoveckovic1@semialjac.org))
+2. Project Manager: Hristovski
+3. Software Developers: Stoyan Tsarknias, Pharaoh Christensen
+4. Pet Health Expert: Viktorija Močibob Aljinović
+5. Marketing and Launch Specialist: Kevin
+
+Key Stakeholders:
+
+1. Broad run veterinary service
+2. Sondrio city council
+3. Forlì-Cesena health department
+4. Huesca healthcare association
+
+Communication and Collaboration:
+
+1. Team members will communicate and collaborate through a project management platform, such as Asana or Trello.
+2. Key stakeholders will be updated regularly through email and phone calls, as needed.
+
+Risk Management:
+
+1. Possible data breaches or cybersecurity threats will be addressed through regular security audits and compliance checks.
+2. Unforeseen delays in development or testing will be managed through regular project status updates and contingency planning.
+
+Approval and Review:
+
+This project plan will be reviewed and approved by the project stakeholders in a restricted meeting to ensure sensitive information is kept confidential. Any changes to the project plan will be communicated to all stakeholders in a timely manner and reviewed for approval before implementation.

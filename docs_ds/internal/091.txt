@@ -1,0 +1,57 @@
+Product Specification Document
+
+Product Name: 
+BellMax Pro 3000 
+
+Product Code: 
+BMX-P3000-INT
+
+Manufacturer:
+Flack Automation Ltd.
+
+Manufacturer Address:
+17 Rue Watteeu - Watteeustraat
+Bruxelles / Brussel
+Région de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest 1000
+
+Point of Contact (PoC):
+Name: Spas Hospod Branik
+Email: sanja.matosic5@zagreb.hr
+Phone: (061) 7044 8995
+
+Product Description:
+The BellMax Pro 3000 is an advanced communication device designed to meet the diverse needs of corporate environments. With an emphasis on versatility, the product integrates seamlessly with multiple telecommunication platforms, offering superior sound quality and user-friendly functionality.
+
+Key Features:
+- High definition voice clarity with noise-canceling technology
+- 10-inch touchscreen display for easy navigation
+- Wireless connectivity with Bluetooth 5.0 and dual-band Wi-Fi
+- Compatible with various communication protocols, including SIP and VoIP
+- Customizable user interface with multi-language support
+- Advanced security features, including end-to-end encryption
+
+Technical Specifications:
+- Display: 10-inch IPS LCD, 1280x800 resolution
+- Connectivity: Bluetooth 5.0, Wi-Fi 802.11 a/b/g/n/ac (2.4G+5GHz)
+- Ports: 1x RJ-45 Ethernet, 2x USB Type-C, 1x HDMI out
+- Audio: Built-in dual stereo speakers, dual-microphone array with echo cancellation
+- Power Supply: AC 100-240V, 50/60 Hz, PoE optional
+- Operating Temperature: 0°C to 40°C
+
+Compliance:
+- Meets FCC, CE, and RoHS standards
+
+Sensitivity Level:
+This product specification contains sensitive information about Flack Automation Ltd.’s products and should be treated as "DIFFUSION INTERNAL." This document is intended for internal use only and must not be distributed outside the organization without proper authorization.
+
+Revision History:
+- Version 1.0: Initial release of product specifications (Date: YYYY-MM-DD)
+- Version 1.1: Minor updates to connectivity features (Date: YYYY-MM-DD)
+
+Document Control:
+- Document Owner: Gravesande Technology Division
+- Approved by: Angjelko Andonov Todor - Senior Product Manager
+- Approval Date: YYYY-MM-DD
+- Document Version: 1.1
+
+For any additional information or clarification regarding the BellMax Pro 3000, please contact the PoC listed above. Unauthorized distribution of this document or any information contained herein is strictly prohibited.

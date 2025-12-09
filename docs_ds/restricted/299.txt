@@ -1,0 +1,59 @@
+Financial Statement
+
+For the fiscal year ending December 31, 2022
+
+Balance Sheet
+
+Assets:
+
+Cash and cash equivalents: $5,000,000
+Investments: $10,000,000
+Accounts receivable: $8,000,000
+Inventory: $12,000,000
+Property and equipment: $20,000,000
+Total Assets: $55,000,000
+
+Liabilities:
+
+Accounts payable: $5,000,000
+Long-term debt: $10,000,000
+Total Liabilities: $15,000,000
+
+Equity:
+
+Common stock: $20,000,000
+Retained earnings: $15,000,000
+Total Equity: $35,000,000
+
+Net Worth: $40,000,000
+
+Statements of Income and Expenses
+
+Revenue: $20,000,000
+Cost of Goods Sold: $8,000,000
+Gross Profit: $12,000,000
+Operating Expenses: $6,000,000
+Net Income: $6,000,000
+
+Statements of Cash Flows
+
+Net Income: $6,000,000
+Adjustments for non-cash items: $2,000,000
+Net Cash Provided by Operating Activities: $8,000,000
+
+Investing Activities:
+Purchase of equipment: ($2,000,000)
+Purchase of investments: ($3,000,000)
+Net Cash Used in Investing Activities: ($5,000,000)
+
+Financing Activities:
+Repayment of long-term debt: ($1,000,000)
+Dividends paid: ($1,000,000)
+Net Cash Used in Financing Activities: ($2,000,000)
+
+Net Increase in Cash and Cash Equivalents: $1,000,000
+
+Cash and Cash Equivalents - Beginning of Year: $4,000,000
+Cash and Cash Equivalents - End of Year: $5,000,000
+
+Note: This is a sample financial statement for illustrative purposes only. The actual financial statement may vary based on the specific circumstances of the company.

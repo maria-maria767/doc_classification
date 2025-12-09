@@ -1,0 +1,23 @@
+Subject: Sensitive Information Sharing Guidelines
+
+Dear Employees,
+
+As part of our efforts to maintain the highest level of data security and privacy, we would like to remind all employees of the sensitive information sharing guidelines outlined below:
+
+1. Definition of Confidential Information: Confidential information is any data or information that is not publicly available and is marked as confidential or is otherwise identified as such. Examples include trade secrets, financial data, customer information, and sensitive business plans.
+2. Proper Handling of Confidential Information: All employees must treat confidential information with the utmost care and caution. Confidential information must be stored and transmitted securely, and only authorized personnel should have access to this information.
+3. Sharing Confidential Information: Sharing confidential information with unauthorized individuals is strictly prohibited. Any sharing of confidential information must be approved by a senior manager and must be done on a need-to-know basis only.
+4. Protecting Confidential Information: All employees must take reasonable steps to protect confidential information from unauthorized access, use, or disclosure. This includes logging off computers when not in use, avoiding use of personal devices for work-related matters, and properly disposing of confidential information when it is no longer needed.
+5. Penalties for Violations: Violations of these confidential information sharing guidelines may result in disciplinary action, including termination of employment.
+
+Please report any potential or actual breaches of these guidelines to your manager or the Information Security Officer immediately.
+
+Thank you for your attention to this important matter.
+
+Best regards,
+
+[Your Name]
+
+[Your Title]
+
+[Your Organization]

@@ -1,0 +1,91 @@
+------
+
+EMILY FINANCIAL STATEMENT
+FOR THE YEAR ENDED DECEMBER 31, 2022
+
+BALANCE SHEET
+As of December 31, 2022
+
+ASSETS
+Current Assets:
+Cash and cash equivalents                   $150,000
+Accounts receivable                          $85,000
+Inventory                                    $60,000
+Prepaid expenses                             $5,000
+Total Current Assets                         $300,000
+
+Property and Equipment:
+Land                                         $80,000
+Buildings                                    $220,000
+Less: Accumulated depreciation               ($40,000)
+Net Property and Equipment                   $260,000
+
+Intangible Assets:
+Patents                                      $20,000
+Trademarks                                   $10,000
+Total Intangible Assets                      $30,000
+
+Total Assets                                 $590,000
+
+LIABILITIES AND SHAREHOLDER'S EQUITY
+Current Liabilities:
+Accounts payable                             $45,000
+Short-term debt                              $35,000
+Accrued expenses                             $10,000
+Total Current Liabilities                    $90,000
+
+Long-Term Debt
+Mortgage payable                             $150,000
+Total Long-Term Debt                         $150,000
+
+Shareholder's Equity:
+Common stock                                 $300,000
+Retained earnings                            $50,000
+Total Shareholder's Equity                   $350,000
+
+Total Liabilities and Shareholder's Equity   $590,000
+
+INCOME STATEMENT
+For the Year Ended December 31, 2022
+
+Revenue:
+Net sales                                    $400,000
+Services                                     $75,000
+Total Revenue                                $475,000
+
+Expenses:
+Cost of goods sold                           $200,000
+Salaries and wages                           $100,000
+Rent                                         $25,000
+Depreciation Expense                         $10,000
+Utilities                                    $15,000
+Marketing                                    $20,000
+Research and Development                     $5,000
+General and Administrative Expenses          $30,000
+Total Expenses                               $405,000
+
+Operating Income                             $70,000
+
+Other Income (Expenses):
+Interest income                              $2,000
+Interest expense                             ($3,000)
+Total Other Income (Expenses)                ($1,000)
+
+Net Income before Taxes                      $69,000
+
+Provision for Income Taxes                   $20,700
+
+Net Income                                   $48,300
+
+------
+
+This document has been prepared for general release and is intended for widespread distribution. It has been classified as "PUBLIC" and hence can be shared without restrictions.
+
+For inquiries regarding this financial statement, please contact:
+
+Dimše Molerov, Chief Financial Officer
+Email: andrewharper334@gmail.com
+Phone: 0800 20 21
+Address: 483 Forge Road North Kingstown, Rhode Island 02852
+
+Emily Inc. is committed to transparency and accuracy in its financial reporting.

@@ -1,0 +1,55 @@
+COMPANY MEMORANDUM
+
+To: All Department Heads
+From: Kreso Lovrić Zdravko, VP of Operations
+Date: April 7, 2023
+Subject: Quarterly Energy Conservation Strategies
+
+Dear Team,
+
+As part of our ongoing commitment to sustainability and cost reduction, it's imperative that we implement a set of energy conservation tactics across all our departments. This internal strategy document outlines the approaches we will be adopting this quarter to meet our objectives.
+
+1. **Lighting Retrofit**:
+   Upgrade all existing lighting fixtures at our office on 296 Pequonnock Street Bridgeport, 06604 Connecticut, to LED technology. LED lights are more energy-efficient, and they also have a longer lifespan, reducing maintenance costs and the frequency of replacements.
+
+2. **Smart Thermostats**:
+   Install smart thermostats to optimize heating, ventilation, and air conditioning (HVAC) systems within the workplace. These thermostats will be scheduled to reflect occupancy hours, significantly reducing energy consumption during off-hours.
+
+3. **Power Management for Electronics**:
+   Implement an automated power management system for workstation electronics. Computers, monitors, and other devices should be programmed to transition to low-power states after periods of inactivity.
+
+4. **Process Optimization at Vbg Engineering - India**:
+   Vbg Engineering - India is tasked with reviewing the current manufacturing processes to identify areas where energy usage can be minimized without impacting productivity.
+
+5. **Green Commuting Plan**:
+   Encourage employees to participate in carpool initiatives, use public transportation, or consider cycling to work. We will be arranging a seminar led by Leylani Dičo Avramov, HR Specialist, to discuss the benefits and coordination of such a program.
+
+6. **Employee-Initiated Suggestions**:
+   Open a channel for employee suggestions regarding energy-saving practices. A reward system for the most effective ideas will be established, managed by Sebastian, Sustainability Coordinator.
+
+**Key Contacts**:
+- Energy Efficiency Inquiries: Kreso Lovrić Zdravko (kreso.lovric@company.com)
+- LED Installation Scheduling: Sebastian (sebastian@company.com)
+- Smart Thermostat Implementation: Zdravko (zdravko@company.com)
+- Vbg Engineering Process Review: Dičo Avramov Leylani (d.avramov@vbg-engineering.com)
+- Employee Suggestion Program: Sebastian (sebastian@company.com)
+
+**Mandatory Energy Conservation Meeting**:
+Please ensure at least one representative from each department attends the mandatory meeting on April 15, 2023, at 10 AM in the main conference room. We will discuss implementation plans in detail.
+
+Your cooperation in this crucial initiative is appreciated. Together, we can make a significant impact on both our environmental footprint and operational costs.
+
+Best Regards,
+
+Kreso Lovrić Zdravko
+VP of Operations
+
+Cc: Enviro-stewards inc.
+Approved by: Executive Committee
+
+**Document Control Information**:
+- Document ID: SAL2023/EC/Q2
+- Revision: Original
+- Date of Issue: April 7, 2023
+
+Please handle this document in accordance with the internal diffusion policies and ensure that it is not shared outside the designated audience within the organization.

@@ -1,0 +1,40 @@
+Purchase Order
+
+Between:
+
+Malčkiankov, Olgica Theophanous Djokotoe, Kiril Garvanov Sinisa
+Address:  -74.5647012 or State Route 116 rd. on number 9329 in Hinesburg, Vermont state or Trailer Park, Sodus Point, New York
+City: OILTON, OK or CHOKIO, MN or India
+Email: [adesilva6@pugh-bowman.net](mailto:adesilva6@pugh-bowman.net) or k.francic52@andrijevic.biz or [juliusrogers769@hotmail.com](mailto:juliusrogers769@hotmail.com)
+Phone: 1477 50 4146 or (059)2018343 or +55 01 9 9679-1276
+Organization: Wade or Braelyn Roberson Moffitt or Moana Aries Bess
+
+And:
+
+Organization: Wade or Braelyn Roberson Moffitt or Moana Aries Bess
+Address: -74.5647012 or State Route 116 rd. on number 9329 in Hinesburg, Vermont state or Trailer Park, Sodus Point, New York
+City: OILTON, OK or CHOKIO, MN or India
+Email: [adesilva6@pugh-bowman.net](mailto:adesilva6@pugh-bowman.net) or k.francic52@andrijevic.biz or [juliusrogers769@hotmail.com](mailto:juliusrogers769@hotmail.com)
+Phone: 1477 50 4146 or (059)2018343 or +55 01 9 9679-1276
+
+---
+
+This Purchase Order is between the above-mentioned parties for the following goods and services:
+
+1. Goods: [Description of goods]
+2. Services: [Description of services]
+
+The total amount due is [Total amount in USD or other currency].
+
+Please make payment to the following account:
+[Account number]
+[Bank name and branch]
+[Swift code]
+[Account holder name]
+
+Any questions or concerns regarding this Purchase Order should be directed to [Email address or phone number].
+
+Thank you for your cooperation.
+
+Sincerely,
+[Your Name]

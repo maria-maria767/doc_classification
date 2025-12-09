@@ -1,0 +1,58 @@
+Job Title: Software Development Engineer
+
+Job Summary:
+We are seeking a highly skilled and motivated Software Development Engineer to join our team. The successful candidate will be responsible for designing, developing, and maintaining software applications to meet the needs of our customers.
+
+Key Responsibilities:
+
+* Design and develop software applications using programming languages such as Java, Python, and C++.
+* Collaborate with cross-functional teams to identify, prioritize, and resolve technical issues.
+* Participate in code reviews and ensure that software applications meet high-quality standards.
+* Develop and maintain technical documentation.
+* Troubleshoot and debug software applications.
+* Participate in the design and implementation of software testing strategies.
+* Stay up-to-date with the latest software development trends and best practices.
+
+Qualifications:
+
+* Bachelor's or Master's degree in Computer Science, Engineering, or a related field.
+* At least 5 years of experience in software development.
+* Strong proficiency in at least one programming language (Java, Python, or C++).
+* Experience with software development methodologies such as Agile and Scrum.
+* Experience with software testing and debugging tools.
+* Excellent problem-solving and analytical skills.
+* Strong communication and interpersonal skills.
+
+Required Skills:
+
+* Programming languages: Java, Python, C++
+* Software development methodologies: Agile, Scrum
+* Testing and debugging tools
+* Problem-solving and analytical skills
+* Communication and interpersonal skills
+
+Preferred Qualifications:
+
+* Experience with AWS, Azure, or other cloud platforms.
+* Experience with machine learning and artificial intelligence.
+* Experience with web development frameworks such as Spring, Django, or Flask.
+
+Work Location:
+Vallourec Transportes E Serviços Ltda, Rua do Prado, 23, 4000-094 Porto, Portugal
+
+Reporting:
+This position reports to the Software Development Manager.
+
+Salary:
+Competitive salary based on experience and qualifications.
+
+Benefits:
+
+* Health, dental, and vision insurance.
+* 401(k) matching.
+* Paid time off and holidays.
+* Training and professional development opportunities.
+
+To apply, please submit your resume and cover letter to the following email: [nevaeh.nelson@munoz.store](mailto:nevaeh.nelson@munoz.store).
+
+We thank all applicants for their interest; however, only those selected for an interview will be contacted.

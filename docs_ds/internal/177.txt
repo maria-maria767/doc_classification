@@ -1,0 +1,37 @@
+INVOICE
+
+Bill To:
+Ludmila Sadowsky Lidka Chučkov
+27.9096697, -74.5042586
+Washington Avenue
+Seymour
+United States of America
+
+From:
+Jordana Soposka Nedelčkio
+Cliffs Car Care
+Email: [cmaurer424@hotmail.com](mailto:cmaurer424@hotmail.com)
+Phone: +55 87 9 1031-9900
+Organization: Downtown Development Association of Lincolnton Inc.
+
+---
+
+| Item | Description | Qty | Unit | Price | Amount |
+| --- | --- | --- | --- | --- | --- |
+| Oil Change | Oil Change Service | 1 |  | 55 | 55.00 |
+| Tire Rotation | Tire Rotation Service | 1 |  | 25 | 25.00 |
+| Coolant Flush | Coolant Flush Service | 1 |  | 75 | 75.00 |
+| Total |  |  |  |  | 155.00 |
+
+---
+
+Please make check payable to: Cliffs Car Care
+
+Thank you for your business!
+
+Sincerely,
+
+Jordana Soposka Nedelčkio
+Cliffs Car Care
++91 (076) 518 45 67
+[bd@kurtoic.hr](mailto:bd@kurtoic.hr)

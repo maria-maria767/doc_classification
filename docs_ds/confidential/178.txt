@@ -1,0 +1,40 @@
+Purchase Order
+
+Bought From:
+Florovski
+Quantity:
+10
+Item:
+Lesek
+Item
+Description:
+Golovkin
+Mariyah
+Robbins
+Model:
+Model
+
+Price:
+$100
+
+Delivery Address:
+74.6204679 or 3 Via Pontasso, Casella, Liguria 16015, IT
+
+Bill To:
+Pasarikova
+c/o M&M Capital Management
+Rue des Coquelicots, Chaumont-Gistoux, België - Belgique - Belgien
+
+Email:
+[npkapusta38@simic.com](mailto:npkapusta38@simic.com)
+
+Phone:
++55 06 95387 0325
+
+Shipping Instructions:
+Please ship items to the above delivery address.
+Thank you!
+
+Sincerely,
+
+Terence

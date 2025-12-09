@@ -1,0 +1,51 @@
+Invoice # 783920
+Invoice Date: April 12, 2023
+Due Date: May 12, 2023
+
+Bill To:
+Klara Nora Brooks Ingram
+State Route 116 Rd. on number 9329
+Hinesburg, Vermont
+
+Ship To:
+Magnum Enforcement Limited
+Woodcrest Drive
+Johnston, United States of America
+
+From:
+Cofidis Retail
+28 Fairlawn Lane
+Lexington, MA 02420-2219
+Phone: +1-290-533-8863
+Email: bd@kurtoic.hr
+
+Item Description                             Qty   Unit Price   Total
+----------------------------------------------------------------------
+Consulting Services - Marketing Strategy     20    $150.00     $3,000.00
+Graphic Design Services - Branding Package   1     $2,500.00   $2,500.00
+Web Development - E-commerce Setup           1     $4,000.00   $4,000.00
+
+Subtotal:                                                           $9,500.00
+Tax (8.5%):                                                         $807.50
+Total Due:                                                          $10,307.50
+
+Payment is due by May 12, 2023. Please make all checks payable to Cofidis Retail. For bank transfers and electronic payments, please use the provided account details:
+
+Account Name: Cofidis Retail
+Account Number: 44332211
+Routing Number: 091000022
+Bank: Vermont State Bank
+
+Remarks:
+- Payment after the due date will incur a 2.5% late fee per month on the outstanding balance.
+- If you have any questions about this invoice, please contact Abhiram Langford at xm@cabrera.site or call +1-290-533-8863.
+
+This document is CONFIDENTIAL and is intended only for the use of Magnum Enforcement Limited. If you are not the intended recipient, you are hereby notified that any review, dissemination, distribution, or duplication of this communication is strictly prohibited. If you have received this document in error, please notify the sender immediately and destroy all copies of the original message.
+
+Thank you for doing business with us.
+
+Sincerely,
+
+Abhiram Langford
+Account Manager
+Cofidis Retail

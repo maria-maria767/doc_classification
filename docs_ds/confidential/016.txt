@@ -1,0 +1,41 @@
+MEMORANDUM
+
+To: All Department Heads
+
+From: Jane Doe, Chief Executive Officer
+
+Date: April 15, 2023
+
+Subject: Implementation of New Data Security Protocols
+
+Purpose:
+The purpose of this memorandum is to introduce enhanced data security protocols to safeguard our proprietary and customer data. With recent increases in cyber threats, it is imperative that we take immediate steps to protect our digital assets.
+
+Action Required:
+1. By May 1, 2023, all departments must require two-factor authentication (2FA) for all employee logins to company systems.
+2. By June 1, 2023, all critical data must be encrypted both at rest and in transit.
+3. Customer data access should be audited, and access logs must be reviewed weekly by department leads.
+4. Department Heads are responsible for scheduling mandatory data security training for their teams to be completed by July 1, 2023.
+
+Implementation Guidelines:
+- IT department will provide 2FA setup instructions by April 20, 2023.
+- IT support will assist with the encryption process for each department. Schedule your session by contacting IT by May 15, 2023.
+- Regular audits on data access should be documented and reports sent to the Data Security Officer by COB every Friday.
+- The HR department will coordinate with external security consultants to facilitate security training sessions. Training dates will be communicated by April 30, 2023.
+
+Budget:
+Each department is allocated an additional $5,000 from the central budget to support the implementation of these security measures. Expenditure should be reported to the Finance Department with full documentation.
+
+Confidentiality Notice:
+This document contains confidential information. Unauthorized disclosure, copying, distribution, or taking any action based on the contents of this information is strictly prohibited. This memo is intended only for the addressed individuals or entity and may contain information that is privileged.
+
+Please confirm receipt of this memorandum and your department's commitment to implementing these new protocols by replying to this message with a signed acknowledgment form attached.
+
+For further information or clarification, please contact our Chief Security Officer, John Smith, at extension 5678 or via email at jsmith@company.com.
+
+Thank you for your prompt attention to this critical initiative.
+
+Jane Doe
+Chief Executive Officer
+
+Attachment: Acknowledgment Form (Please sign and return by April 22, 2023)

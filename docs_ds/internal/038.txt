@@ -1,0 +1,41 @@
+**MEMORANDUM**
+
+To: All Department Heads  
+From: Jane Doe, Chief Operating Officer  
+Date: April 5, 2023  
+Subject: Policy Updates on Remote Working Arrangements
+
+---
+
+**Purpose**  
+The purpose of this memorandum is to update all departmental leadership on the revised policy regarding remote working arrangements, in order to streamline operations and ensure consistency throughout the company. This memo is to be shared with employees within your respective departments, with the provision that they understand this information is for internal circulation only.
+
+**Background**  
+Given the changes in work environments necessitated by recent events, it has become increasingly important for our company to adapt to flexible work arrangements. In keeping with this, we have revised our policies to support a balance between on-site and remote work.
+
+**Policy Overview**  
+1. **Eligibility**: All employees with more than one year of service and in roles deemed suitable for remote work by the department head are eligible.
+2. **Application Process**: Eligible employees must submit a formal request via the HR portal. Requests are subject to approval based on departmental needs and individual performance.
+3. **Remote Work Schedule**: Approved employees may work remotely for a maximum of 3 days per week, with a mandatory in-office presence required on Mondays and Thursdays to ensure team cohesion.
+4. **Equipment**: The company will provide necessary equipment for a home office setup, subject to a maximum budget outlined in the remote work package.
+5. **Data Security**: Employees are required to adhere strictly to the company’s data protection policies, including the use of VPNs and secure Wi-Fi connections.
+6. **Performance Monitoring**: Department heads will be responsible for monitoring and evaluating the performance of remote workers, using the standard performance metrics set by HR.
+7. **Review**: Remote working privileges will be reviewed annually.
+
+**Implementation**  
+Please ensure that your department’s employees are briefed about these updates by April 20, 2023. All department heads are required to submit a list of employees who intend to request remote work by April 30, 2023. Training sessions for remote work best practices and data security will be conducted by the IT department in May. Attendance is compulsory for all employees who will be working remotely.
+
+**Compliance**  
+Non-compliance with the updated policy may result in a review of the employee's remote work eligibility and could lead to disciplinary action. 
+
+**Confidentiality**  
+This document contains sensitive information regarding company policy and should be handled as such. Divulging the content of this policy to individuals outside of the organization or failure to comply with the diffusion control protocol could result in disciplinary action.
+
+---
+
+Should you have any questions regarding the new policy or its implementation, please do not hesitate to contact HR or myself directly. We appreciate your cooperation in ensuring a smooth transition to this updated working arrangement.
+
+Best Regards,
+
+Jane Doe  
+Chief Operating Officer

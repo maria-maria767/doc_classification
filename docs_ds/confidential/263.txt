@@ -1,0 +1,35 @@
+Invoice
+
+Bill To:
+Adaleigh Cassandra Driscoll Francis
+17 Rue Watteeu - Watteeustraat, Bruxelles / Brussel, Région de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest 1000
+
+From:
+Braelyn Roberson Moffitt
+46 Hollow Lane, Hempstead, 11756 New York
+Email: [thomas-cisneros3@gmail.com](mailto:thomas-cisneros3@gmail.com)
+Phone: 4522042052
+
+Date: March 2, 2023
+
+Invoice Number: 00123
+
+Description Qty Unit Price Total
+----------------------------------
+
+Item 1 1 100 $100.00 $100.00
+Item 2 1 50 $50.00 $50.00
+Item 3 1 25 $25.00 $25.00
+------------------------------
+
+Total $225.00
+
+Payment Terms: Net 30
+
+Thank you for your business!
+
+Sincerely,
+Braelyn Roberson Moffitt
+
+Authorized Signature:
+---------------------

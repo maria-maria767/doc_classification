@@ -1,0 +1,88 @@
+Financial Statement for the Fiscal Year Ending December 31, 2022
+
+Prepared by:
+
+Bianca R BROWN
+15.3870438 Perley Street, Concord, New Hampshire 03301
+United States
+Phone: (07700)900752
+Email: [bianca.brown@sandriosrl.com](mailto:bianca.brown@sandriosrl.com)
+
+Reviewed by:
+
+Rodriguez
+92 Perley Street, Concord, New Hampshire 03301
+United States
+Phone: 1-835-055-6217
+Email: [rodriguez@incon.com](mailto:rodriguez@incon.com)
+
+Audited by:
+
+Elaine Briggs
+Andrew Arreola Parkinson
+Chandler Kale Sturgill Headley
+Cameron Parker Hiller
+Young-Baker.Co
+1812799437
+
+Table of Contents
+
+I. Balance Sheet
+| Assets | Liabilities | Equity |
+| --- | --- | --- |
+| Cash & Cash Equivalents | Accounts Payable | Shareholder's Equity |
+| Accounts Receivable | Loans Payable | Retained Earnings |
+| Inventory | Short-term Debt | |
+| Property, Plant & Equipment | Long-term Debt | |
+| Intangible Assets | Commitments & Contingencies | |
+| Prepaid Expenses | Total Liabilities & Equity | |
+
+II. Income Statement
+| Revenue | Cost of Goods Sold | Gross Profit |
+| --- | --- | --- |
+| Operating Expenses | Operating Income | |
+| Selling, General & Administrative | | |
+| Research & Development | | |
+| Depreciation & Amortization | | |
+| Total Expenses | | |
+| Operating Income | | |
+| Interest Income | Interest Expense | |
+| Other Income (Net) | | |
+| Total Non-Operating Income | Total Non-Operating Expense | |
+| Net Income Before Tax | | |
+| Income Tax Expense | | |
+| Net Income | | |
+
+III. Statement of Cash Flows
+| Cash Flows from Operating Activities | Cash Flows from Investing Activities | Cash Flows from Financing Activities |
+| --- | --- | --- |
+| Net Income | Purchase of Property, Plant & Equipment | Proceeds from Issuance of Common Stock |
+|  | Purchase of Intangible Assets | Repayment of Loans Payable |
+|  | Purchase of Investments | Repayment of Short-term Debt |
+|  | Changes in Accounts Receivable | Repayment of Long-term Debt |
+|  | Changes in Accounts Payable | Issuance of Long-term Debt |
+|  | Changes in Inventory | |
+|  | Changes in Prepaid Expenses | |
+|  | Taxes Paid | |
+|  | | |
+| Net Cash Provided by (Used in) Operating Activities | Net Cash Provided by (Used in) Investing Activities | |
+|  |  | |
+| Net Cash Provided by (Used in) Financing Activities | | |
+
+IV. Notes to Financial Statements
+
+1. Summary of Significant Accounting Policies
+2. Recently Issued Accounting Standard Updates
+3. Commitments and Contingencies
+4. Operating Segment Information
+5. Geographic Information
+6. Concentration of Credit Risk
+7. Leased Assets
+8. Fair Value Measurements
+9. Stockholders' Equity
+10. Earnings Per Share
+11. Employee Benefit Plans
+12. Property, Plant and Equipment
+13. Intangible Assets
+14. Goodwill and Other Acquired Intangible Assets
+15. Accounts Receivable and

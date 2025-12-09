@@ -1,0 +1,46 @@
+Project Plan: Cremona Project
+
+Introduction:
+This project plan outlines the steps to be taken for the completion of the Cremona Project. The project involves the development of a new software application for Bryant Services. The project team consists of Kire Daskalov Dimše (Project Manager), Bohuslav Pročaska Rosales (Lead Developer), and Sobieslaw Hrushovsky Emmie Gutierrez Carreon (Quality Assurance Specialist).
+
+Project Objectives:
+
+1. Develop a new software application for Bryant Services.
+2. Ensure the application is user-friendly and meets the needs of Bryant Services.
+3. Complete the project within the allocated budget and timeline.
+
+Project Timeline:
+
+| Task | Start Date | End Date |
+| --- | --- | --- |
+| Project Kickoff Meeting | 01/02/2023 | 01/03/2023 |
+| Requirements Gathering | 01/04/2023 | 02/15/2023 |
+| Design and Prototyping | 02/16/2023 | 03/31/2023 |
+| Development | 04/01/2023 | 05/31/2023 |
+| Testing and Quality Assurance | 06/01/2023 | 06/30/2023 |
+| Deployment and Training | 07/01/2023 | 07/31/2023 |
+| Project Closure Meeting | 08/01/2023 | 08/02/2023 |
+
+Project Team Roles and Responsibilities:
+
+* Kire Daskalov Dimše (Project Manager)
+	+ Project planning and coordination
+	+ Communication with stakeholders
+	+ Ensuring project milestones are met
+* Bohuslav Pročaska Rosales (Lead Developer)
+	+ Technology selection and architecture
+	+ Coding and development
+	+ Collaboration with the QA specialist
+* Sobieslaw Hrushovsky Emmie Gutierrez Carreon (Quality Assurance Specialist)
+	+ Development and execution of test cases
+	+ Ensuring the application is user-friendly and error-free
+	+ Collaboration with the lead developer
+
+Project Communication:
+
+* Regular team meetings will be held bi-weekly to discuss project progress and any issues or concerns.
+* The project manager will communicate with stakeholders on a monthly basis to provide updates and address any questions or concerns.
+* Email communication will be used for day-to-day communication between team members.
+
+Conclusion:
+The Cremona Project is an important endeavor for Bryant Services. The project team is committed to delivering a high-quality software application that meets the needs of Bryant Services. This project plan will be regularly reviewed and updated as needed to ensure the project is completed successfully.

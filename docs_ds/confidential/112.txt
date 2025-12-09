@@ -1,0 +1,52 @@
+Invoice No: 98433
+Invoice Date: April 12, 2023
+
+BILL TO:
+Vivienne Glaser Grayson
+28 Fairlawn Lane
+Lexington, MA 02420-2219
+United States of America
+Email: xm@cabrera.site
+Phone: +1-290-533-8863
+
+SHIP TO:
+Milanko Swiatkowski
+State Route 116 rd.
+No. 9329 
+Hinesburg, Vermont
+United States of America
+Email: bd@kurtoic.hr
+Phone: +1-290-533-8863
+
+FROM:
+Heath Marketing And Consulting
+Woodcrest Drive
+Johnston
+United States of America
+Email: b-m@gonzalez-thomas.org
+Phone: 25-61130.428
+
+DESCRIPTION OF SERVICES RENDERED
+-------------------------------------------------------------------------------
+| Qty | Description                              | Unit Price | Total Price   |
+-------------------------------------------------------------------------------
+|   5 | Marketing Strategy Consultation (Hours)  |    $120.00 |      $600.00   |
+|  20 | Social Media Ad Campaign Management      |     $30.00 |      $600.00   |
+| 200 | Custom Branded Content Creation          |      $8.50 |     $1700.00   |
+|   1 | Comprehensive Market Analysis Report     |   $1500.00 |     $1500.00   |
+-------------------------------------------------------------------------------
+                                                              SUBTOTAL: $4400.00
+                                                                 TAX (5%):  $220.00
+                                                         -------------------------
+                                                                  TOTAL: $4620.00
+
+TERMS & CONDITIONS
+Payment is due within 30 days from the date of invoice. Any payment received after the due date will incur a late fee of 1.5% per month on the remaining balance. Any queries regarding this invoice must be raised within 7 working days of invoice date.
+
+THANK YOU FOR YOUR BUSINESS!
+
+This document is CONFIDENTIAL and contains proprietary information and intellectual property of Heath Marketing And Consulting. Neither this document nor any of the information contained herein may be reproduced or disclosed under any circumstances without the express written permission of Heath Marketing And Consulting. Please be aware that any unauthorized use, dissemination, distribution, or copying of this communication is strictly prohibited. 
+
+AUTHORIZED SIGNATURE: __________________________________
+
+DATE: April 12, 2023

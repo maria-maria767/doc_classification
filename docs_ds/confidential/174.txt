@@ -1,0 +1,39 @@
+INVOICE
+
+Bill To:
+Braelyn Roberson Moffitt
+17 Rue Watteeu - Watteeustraat
+Bruxelles / Brussel
+Région de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest 1000
+
+From:
+Smiljan Milutinović Zdravko
+46 Hollow Lane
+Hempstead
+11756 New York
+
+Date: April 11, 2023
+
+Invoice #: 12345
+
+Description Qty Unit Price Total
+------------------------------------
+
+Item 1 1 50.00 50.00
+Item 2 1 25.00 25.00
+------------------------------------
+
+Subtotal 75.00
+
+Taxes 10.00
+
+Total 85.00
+
+Payment Terms:
+Net 30 days
+
+Contact Information:
+Email: [tg@stewart.site](mailto:tg@stewart.site)
+Phone: +1-838-271-3432
+
+Note: This invoice is for services rendered and materials supplied for the project "ABC". Payment is due within 30 days of the invoice date. Please remit payment to the above address or contact us if you have any questions or concerns regarding this invoice. Thank you for your business.

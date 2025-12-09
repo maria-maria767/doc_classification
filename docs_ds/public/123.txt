@@ -1,0 +1,47 @@
+Company Document: Service Level Agreement (SLA)
+
+This Service Level Agreement (SLA) sets out the terms and conditions that apply to the provision of services by Softway medical to its customers. The SLA outlines the responsibilities of both parties, the services provided, and the expected level of service.
+
+1. Services
+Softway medical will provide the following services to its customers:
+* The development and maintenance of software applications
+* The provision of technical support and troubleshooting services
+* The provision of regular updates and upgrades to software applications
+2. Service Levels
+Softway medical will strive to provide high-quality services to its customers. The expected level of service is as follows:
+* Response time: Softway medical will respond to all customer requests and inquiries within 24 hours of receipt.
+* Resolution time: Softway medical will resolve all customer issues within five business days of receipt.
+* Uptime: Softway medical guarantees 99.9% uptime for all software applications.
+3. Customer Responsibilities
+Customers are responsible for the following:
+* Providing accurate and complete information when requesting services.
+* Ensuring that all users have the necessary permissions and access to software applications.
+* Notifying Softway medical of any changes in the customer's systems or infrastructure that may affect the provision of services.
+4. Payment Terms
+Customers will be invoiced monthly for services rendered. Payment is due within 30 days of receipt of invoice.
+5. Termination
+Either party may terminate this SLA upon 30 days' written notice.
+6. Governing Law
+This SLA will be governed by and construed in accordance with the laws of the state of New York.
+
+Contact Information:
+
+* Velizar Cisek Kostya: [cmaurer424@hotmail.com](mailto:cmaurer424@hotmail.com) / +5281 22 3798
+* Malčkiankov: [maretti.lighting@gmail.com](mailto:maretti.lighting@gmail.com) / +03-13936.424
+* Andon Konstantinov Nedelcho: [a.r48@cooper-phillips.us](mailto:a.r48@cooper-phillips.us) / + (051) 8567-7487
+
+This SLA may be updated from time to time. Customers will be notified of any changes to the SLA.
+
+Approved and agreed upon by:
+
+Signed by:
+Date:
+
+-- Velizar Cisek Kostya
+Softway medical
+
+-- Malčkiankov
+Maretti Lighting
+
+-- Andon Konstantinov Nedelcho
+Elise Posey Sanderson

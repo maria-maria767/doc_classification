@@ -1,0 +1,68 @@
+--------------------------
+POLICY AND PROCEDURE
+--------------------------
+
+Document Title:
+Internet and Email Usage Policy
+
+Policy Number:
+IT-0023
+
+Effective Date:
+April 15, 2023
+
+Last Revision Date:
+N/A
+
+Approved by:
+James Orr Smail - Chief Information Officer
+
+1. Purpose
+This document establishes the policy for the use of the Internet and email within [Organization Name Here]. The policy aims to minimize risks to the company’s confidentiality, ensure the security of our digital assets, and establish procedures for proper conduct online.
+
+2. Scope
+This policy applies to all employees, contractors, and agents (hereinafter referred as "users") of [Organization Name Here] who have access to the company’s Internet and email resources.
+
+3. Policy
+3.1. Email Use
+Users are provided with company email accounts to enhance communication efficiency for business purposes. The use of the company email system is a privilege, not a right, and should be treated with professionalism.
+
+3.2. Internet Use
+The company provides access to the Internet as a resource for enhancing productivity and as a means of obtaining and disseminating business-related information.
+
+3.3. Prohibited Conduct
+Users should not use the company’s Internet/email for personal benefit, to disseminate defamatory material, to conduct activities in violation of the law, or to access potentially offensive material, including but not limited to pornographic, racist, or violent content.
+
+4. Procedure
+4.1. Email Management
+Users must adhere to the following procedures to ensure the proper use of email services:
+- Do not share your email password or allow others to use your email account.
+- Use secure means when transmitting sensitive or confidential information.
+- Archive important emails in accordance with the company’s data retention policy.
+
+4.2. Internet Access Management
+- The use of Internet should be limited to activities directly related to tasks assigned.
+- The IT Department may monitor Internet usage to ensure compliance with this policy.
+- Any attempt to bypass security protocols or network restrictions is strictly prohibited.
+
+5. Enforcement
+5.1. Violations of this policy may result in disciplinary action, up to and including termination of employment. Monitoring and enforcement will be conducted by the IT Department under the supervision of the CIO, James Orr Smail.
+
+6. Responsibilities
+All users are responsible for understanding and adhering to this policy. Department managers are responsible for ensuring that their team members comply with these procedures.
+
+7. Policy Review and Modification
+This policy shall be reviewed annually or as needed by the IT Department to remain compliant with legal requirements and technological changes. Any revisions must be approved by the CIO.
+
+8. Acknowledgment
+All users must sign an acknowledgment that they have received, read, and understood this policy and agree to abide by its terms.
+
+This policy is disseminated for INTERNAL DIFFUSION ONLY and shall not be shared outside of [Organization Name Here] without proper authorization.
+
+--------------------------
+End of Document
+--------------------------
+
+[Please insert [Organization Name Here] wherever applicable.]
+
+This document is sensitive and should be treated according to the established classification scheme. Unauthorized distribution is prohibited.

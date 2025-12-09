@@ -1,0 +1,40 @@
+Purchase Order
+
+Bought From: Nanochap electronics pty ltd.
+Order Date: 2023-06-08
+Payment Terms: Net 30
+
+P.O. #: 123456
+
+Bill To:
+Name: H PASIUKEVICH
+Address: Via C. Colombo, Premana, Lombardia
+City: NEWPORT, NC
+Email: [as@williams-thompson.xyz](mailto:as@williams-thompson.xyz)
+Phone: +55 (12) 9 0026-7733
+
+Ship To:
+Name: Andersen
+Address: 28.3564523
+City: PEQUOT LAKES, MN
+Email: [lcurtis6855@reese-warner.ly](mailto:lcurtis6855@reese-warner.ly)
+Phone: 31 0020-5087
+
+Description Qty Unit Price Total
+----------- ------ ------- -----
+
+Item 1 10 $100.00 $1,000.00
+Item 2 5 $200.00 $1,000.00
+
+Subtotal $1,000.00
+Taxes $50.00
+Total $1,050.00
+
+Payment Method: Wire Transfer
+Bank Name: Bank of America
+Account Name: H PASIUKEVICH
+Account Number: 1234-5678-9012-345
+Routing Number: 123456789
+Swift Code: BOFAUS3N
+
+Contact Person: Zhinzifova

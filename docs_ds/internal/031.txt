@@ -1,0 +1,47 @@
+MEMORANDUM
+
+To: All Department Heads
+From: Dicho Avramov Jacob, Office of the CEO
+Date: April 14, 2023
+Subject: Implementation of New Data Management Protocols
+
+Dear Team,
+
+As part of our ongoing commitment to enhance our internal data management and security procedures, we are implementing new protocols that will take effect immediately. This is an organization-wide initiative that requires the collaboration and adherence of every department. The protocols pertain to the handling, storing, and sharing of sensitive company information.
+
+Effective from the date of this memo, the following procedures must be adhered to:
+
+1. Data Classification:
+   All documents must be classified according to the company's data sensitivity guidelines before storing or sharing. The classifications are as follows:
+   - Public
+   - Internal (this memorandum falls under this category)
+   - Confidential
+   - Restricted
+
+2. Digital Storage:
+   All digital files must be stored on the company-specific secure drives. Personal drives, cloud storage services such as Dropbox or Google Drive, or any other unapproved mediums are not to be used for storing company documents.
+
+3. Data Sharing:
+   Internally classified documents may be shared within the organization but must not be sent outside of our corporate email system. Double-check recipient emails before sending sensitive information to avoid accidental disclosure.
+
+4. Physical Copies:
+   Physical copies of sensitive documents should be printed only when necessary. Printed documents must be stored in locked file cabinets, and shredded when no longer needed.
+
+5. Training:
+   All staff members are required to attend a mandatory training session on the new data management protocols provided by First Impressions Training Solutions Pvt. Ltd. The schedule for these sessions will be communicated by the HR department shortly.
+
+6. Compliance:
+   Adherence to these protocols is not optional. Periodic audits will be conducted by First Administrators, Inc., and failure to comply with the new data management protocols may result in disciplinary action.
+
+Should you have any questions regarding these new protocols, please contact Gavril Parličev Elisie from the Compliance Department at 11469/17 233 or via email at sanja.matosic5@zagreb.hr. Your cooperation in this critical matter is essential to ensure the integrity and security of our company data.
+
+Thank you for your immediate attention and action.
+
+Kind Regards,
+
+Dicho Avramov Jacob
+Office of the CEO
+X Medical Srl
+19 Via Le Macchie
+San Benedetto Val di Sambro 40048
+Emilia-Romagna

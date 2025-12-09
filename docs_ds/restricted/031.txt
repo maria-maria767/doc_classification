@@ -1,0 +1,85 @@
+Training Manual
+=================================================================
+
+**Magnum Enforcement Limited**
+
+**Handling Sensitive Information Training Manual**
+
+_Version 1.2_
+
+**Table of Contents**
+1. Introduction to Information Sensitivity
+2. Definitions of Classification Levels
+3. Personnel Authorized to Access Restricted Information
+4. Procedures for Accessing Restricted Documents
+5. Responsibilities When Handling Restricted Information
+6. Reporting Security Incidents
+7. Consequences of Mishandling Restricted Information
+8. Conclusion and Acknowledgment
+
+**Chapter 1: Introduction to Information Sensitivity**
+Welcome to Magnum Enforcement Limited's training on handling sensitive information. This manual outlines the standard procedures and protocols for dealing with information labeled as "RESTRICTED." All employees are required to strictly adhere to these guidelines to ensure the continued protection of sensitive organizational data.
+
+**Chapter 2: Definitions of Classification Levels**
+At Magnum Enforcement Limited, information is classified into four categories:
+- Public: Information that can be freely shared with anyone.
+- Internal: Information that is meant to be shared within the organization.
+- Confidential: Information that should only be shared with individuals who have the proper authorization.
+- Restricted: Information that is highly sensitive and should only be shared with a specific group of individuals who have a need-to-know basis.
+
+**Chapter 3: Personnel Authorized to Access Restricted Information**
+Access to RESTRICTED information is limited to individuals who have undergone a rigorous background check and have been granted specific clearance by the Security Department. The current list of authorized personnel includes:
+- Mojmir Nikolić
+- Madisyn
+- Duscha Velchevska
+- Brighton Wray
+
+**Chapter 4: Procedures for Accessing Restricted Documents**
+- To gain access to RESTRICTED documents, authorized personnel must present their security badge and sign a logbook provided by the Security Department.
+- Documents must be stored in a secure location when not in use and never left unattended.
+- Electronic documents must be accessed through the company's secure network, and two-factor authentication is required.
+
+**Chapter 5: Responsibilities When Handling Restricted Information**
+Employees must:
+- Maintain the confidentiality of restricted information.
+- Share restricted documents only with authorized personnel.
+- Properly dispose of restricted documents using shredders or other approved methods.
+- Ensure that unauthorized individuals do not view or access the restricted content.
+
+**Chapter 6: Reporting Security Incidents**
+Any suspected breach or exposure of RESTRICTED information must be reported immediately to the Security Department at +1-025-621-8280 or email jacob.britt@reynolds-owen.com.
+
+**Chapter 7: Consequences of Mishandling Restricted Information**
+Failure to comply with the guidelines set forth in this manual may result in disciplinary action, including termination of employment and legal consequences.
+
+**Chapter 8: Conclusion and Acknowledgment**
+Hereby, all authorized personnel affirm that they have received, read, and understood the procedures and responsibilities regarding the handling of RESTRICTED information as outlined in this Training Manual.
+
+**Acknowledgment**
+
+I, ________________ (print name), acknowledge that I have read and understood the RESTRICTED Handling Sensitive Information Training Manual and agree to adhere to its protocols.
+
+Signature: ___________________________
+
+Date: _________________
+
+**Distribution List**
+This manual is to be distributed to the following individuals:
+- Mojmir Nikolić
+- Madisyn
+- Duscha Velchevska
+- Brighton Wray
+
+**Document Control**
+Document Created by: Yeva
+Distribution Controlled by: Security Department
+Last Review Date: [Insert Last Review Date]
+Next Scheduled Review: [Insert Next Review Date]
+
+**Contact Information**
+For any inquiries related to this manual, please contact:
+Name: Brighton Wray
+Phone: (07700)900940
+Email: camillahassan69@phillips.us
+
+**End of Manual**

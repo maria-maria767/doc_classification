@@ -1,0 +1,32 @@
+ contract agreement
+
+This Contract Agreement (the "Agreement") is entered into on \_\_[date]__ by and between Argir Dajo Trendafil ("Supplier"), and Olga Jankovič Vlado ("Customer").
+
+WHEREAS, Supplier is engaged in the business of providing goods and services, and Customer desires to procure certain goods and services from Supplier;
+
+NOW, THEREFORE, in consideration of the mutual promises and covenants contained herein and other good and valuable consideration, the receipt and sufficiency of which is hereby acknowledged, the parties agree as follows:
+
+1. Services. Supplier shall provide to Customer the goods and services as set forth in the attachment hereto (the "Services").
+2. Payment. Customer shall pay Supplier the amount of \_\_[amount]___ USD ("Total Amount") as consideration for the Services. Payment shall be made in the following manner: \_\_[payment terms]__
+3. Confidentiality. Supplier agrees to keep confidential all information disclosed by Customer during the performance of the Services, and shall not use or disclose such information except as required by law or as authorized in writing by Customer.
+4. Termination. Either party may terminate this Agreement for convenience by giving thirty (30) days written notice to the other party. Either party may terminate this Agreement for cause by giving thirty (30) days written notice and providing the other party with a detailed explanation of the cause of termination.
+5. Governing Law. This Agreement shall be governed by and construed in accordance with the laws of Italy.
+6. Entire Agreement. This Agreement constitutes the entire agreement between the parties with respect to the subject matter hereof and supersedes all prior negotiations, representations, agreements, and understandings, whether written or oral.
+7. Modification. This Agreement may not be modified except in writing signed by both parties.
+8. Binding Effect. This Agreement shall be binding upon and inure to the benefit of both parties and their respective successors and assigns.
+9. Waiver. The failure of either party to enforce any provisions of this Agreement shall not be construed as a waiver or limitation of that party's right to subsequently enforce and compel strict compliance with every provision of this Agreement.
+10. Severability. If any provision of this Agreement is held to be invalid, illegal, or unenforceable under applicable law, such provision shall be enforced to the maximum extent possible, or, if incapable of enforcement, shall be deemed null and void, and the remaining provisions of this Agreement shall continue in full force and effect.
+11. Force Majeure. Neither party shall be liable for any failure or delay in performing its obligations under this Agreement due to circumstances beyond its reasonable control, including but not limited to, acts of God, war, terrorism, labor disputes, or any other cause beyond the reasonable control of the affected party.
+12. Notices. All notices, requests, and other communications under this Agreement shall be in writing and shall be deemed duly given upon personal delivery or when sent by registered or certified mail, return receipt requested, or when sent by email to the addresses specified in this Agreement or such other address as the parties may designate by notice to the other party.
+
+IN WITNESS WHEREOF, the parties hereto have executed this Agreement as of the date first above written.
+
+---
+
+Argir Dajo Trendafil Supplier
+
+---
+
+Olga Jankovič Vlado Customer
+
+Email: \_\_[email]

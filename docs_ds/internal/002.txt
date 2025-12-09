@@ -1,0 +1,65 @@
+MEMORANDUM
+
+TO: All Department Heads
+FROM: Gavril Parličev Boguljub, Chief of Operations
+DATE: April 3, 2023
+SUBJECT: Implementation of New Internal Communication Software
+
+INTRODUCTION
+
+As Taskpal continues to grow, the need for an efficient, scalable, and secure internal communication system has become paramount. We have evaluated several software solutions and have decided to implement Zone Chat—a tool designed to streamline our intra-company communications.
+
+SOFTWARE FEATURES
+
+Zone Chat provides the following key features that align with our operational needs:
+
+- End-to-end encryption for all messages ensuring confidentiality,
+- Employee directory for easy contact lookups and team segmentation,
+- Real-time file sharing with version control and permission-based access,
+- Integrated task management for collaborative project handling,
+- Video conferencing capabilities for remote team meetings.
+
+IMPLEMENTATION PHASES
+
+The software integration will take place in three phases:
+
+1. **Initial Setup and IT Training**
+- Date: April 10 - 17, 2023
+- IT Department leads the setup with direct support from Zone Chat representatives.
+- IT team members will undergo an intensive training program.
+
+2. **Departmental Orientation and Adoption**
+- Date: April 18 - May 2, 2023
+- Scheduled hands-on workshops for all department members.
+- Representatives from Zone Chat will provide tutorials and assist in the transfer of ongoing projects to the new platform.
+- Point of Contact: Patricia Jago Hamilton, IT Manager (Email: k.ghosh@nash-lane.net, Phone: 2170723665)
+
+3. **Company-wide Go-Live**
+- Date: May 3, 2023
+- Full transition to Zone Chat for everyday communication.
+- IT support will be readily available to address any issues during the transition.
+
+EXPECTED OUTCOMES
+
+- Improved efficiency in communication across different levels of the organization.
+- Increased protection of confidential information.
+- Enhanced collaboration leading to better project outcomes.
+
+ACTION ITEMS
+- Department Heads to coordinate with Patricia Jago Hamilton by April 7, 2023, to schedule departmental training sessions.
+- Employees to backup pertinent files currently in other communication tools by April 15, 2023.
+- IT personnel to assist in transferring stored files to Zone Chat securely and systematically.
+
+CONCLUSION
+
+Your cooperation and proactive involvement are crucial for the seamless implementation of Zone Chat. If you have any questions or concerns, please reach out to the IT Department or directly to me.
+
+Thank you for your attention to this important transition.
+
+Gavril Parličev Boguljub
+Chief of Operations
+Taskpal
+
+---
+
+This document is intended for internal distribution within Taskpal only. Its contents are not for external dissemination or public disclosure. Please handle it with the appropriate level of discretion.

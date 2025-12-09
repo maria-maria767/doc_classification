@@ -1,0 +1,84 @@
+Odysseycz
+183A Roermonder Straße
+Heinsberg, Nordrhein-Westfalen 52525
+Deutschland
+Phone: 5281 22 3798
+Email: jacob.britt@reynolds-owen.com
+
+POLICY AND PROCEDURE DOCUMENT
+
+Title: Internal Use of Company Resources
+
+Version: 1.2
+Effective Date: [Current Date]
+Approved by: Zhaklina Aleksandrova Charanjot, Head of Policy Development
+Review Cycle: Annually or as required by organizational changes
+
+1. PURPOSE
+
+The purpose of this Policy and Procedure document is to establish the guidelines for the acceptable use of Odysseycz's company resources by all employees to ensure consistent and responsible behavior within our work environment. Company resources include, but are not limited to, equipment, computer systems, software, electronic data, and communication networks.
+
+2. SCOPE
+
+This policy applies to all employees, contractors, and temporary personnel at Odysseycz who have access to company resources.
+
+3. POLICY DETAILS
+
+3.1. Acceptable Use
+Employees must:
+- Use company resources only for legitimate business purposes.
+- Ensure that their use does not compromise company standards or security.
+- Avoid the disclosure of sensitive information outside the internal environment.
+- Obtain proper authorization before extending access to internal resources to outsiders.
+
+3.2. Unacceptable Use
+The following actions are strictly prohibited:
+- Sharing sensitive or internal information with unauthorized persons or entities.
+- Using resources for personal gain or illegal activities.
+- Installing unauthorized software or hardware on company systems.
+
+4. PROCEDURES
+
+4.1. Resource Allocation
+- Department heads will authorize the allocation of company resources to employees.
+- Inventory control measures will be in place to track asset usage.
+
+4.2. Email and Communication
+- Email accounts provided by the company should be used primarily for business-related correspondence.
+- Emails containing sensitive information should be marked as 'DIFFUSION INTERNAL'.
+
+4.3. Data Security
+- Employees must follow established protocols for data protection, including password management and data encryption.
+- Hard copies of sensitive documents must be stored securely and shredded when no longer needed.
+
+4.4. Reporting Violations
+- Any misuse of company resources should be reported to the immediate supervisor or the Compliance Department.
+
+5. ENFORCEMENT
+
+Failure to comply with this policy may result in disciplinary action, up to and including termination of employment.
+
+6. POLICY REVIEW AND MODIFICATION
+
+This policy will be reviewed annually and modified as needed to ensure its relevance and efficiency.
+
+7. ACKNOWLEDGEMENT
+
+All Odysseycz employees are required to acknowledge that they have read, understood, and agreed to comply with the contents of this policy.
+
+The undersigned have read and understood the above policy and procedures:
+
+Employee Name: Dimše Molerov Bruno
+Signature: ____________________
+Date: __________________
+
+Employee Name: Bell
+Signature: ____________________
+Date: __________________
+
+This document is to remain within Odysseycz's internal operational sphere and is not to be disseminated outside this context without proper authorization. 
+
+Document Control: 
+Author: Zhaklina Aleksandrova Charanjot
+Editor: [Editor's Name]
+Approval: [Approver’s Name]

@@ -1,0 +1,61 @@
+INVOICE
+
+Beds & beats
+Edin Načev Velizar
+33 Heinestraße
+Sebnitz
+Sachsen 01855
+Germany
+Email: [jm98@schroeder-johnson.net](mailto:jm98@schroeder-johnson.net)
+Phone: 13674632415
+
+Iyla Clarence Hennessey Clapp
+56 Köppelsdorfer Straße
+Sonneberg
+96515 Thüringen
+Germany
+Email: [a-p@vip.hr](mailto:a-p@vip.hr)
+Phone: (07700)900940
+
+Armstrong
+Raskens väg
+Växjö
+Sweden
+Email: [mhowell5457@dawson.xyz](mailto:mhowell5457@dawson.xyz)
+Phone: 10940/ 46 479
+
+alcides & rosaura diniz (ARD) foundation
+Invoice #: 123456789
+Date: March 16, 2023
+
+---
+
+Description | Quantity | Unit | Price | Total
+---------------------------------------------------
+
+1x Bed Frame | 5 | €100 | €500 |
+
+2x Mattress | 5 | €200 | €400 |
+
+1x Pillow | 5 | €30 | €150 |
+
+---
+
+Subtotal | €1,050 |
+Tax | €42 |
+Total | €1,102 |
+
+---
+
+Payment Terms: Net 30
+Please make payment to:
+Beds & beats
+IBAN: DE125001055011043019848
+BIC: WELADEFFXXX
+
+Thank you for your business!
+
+Sincerely,
+
+Edin Načev Velizar
+Beds & beats

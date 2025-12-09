@@ -1,0 +1,75 @@
+-------------------------------------------------------------------------------------
+                            INVOICE
+-------------------------------------------------------------------------------------
+
+**INVOICE #**  1023
+**INVOICE DATE**:  April 15, 2023
+**DUE DATE**: May 15, 2023
+
+**BILL TO:**
+Olgica Theophanous
+8 Radnor Lane
+Morrisville, New York, 13408
+
+**SHIP TO:**
+Itab Recruitment
+Ziedoņa iela
+Rīga, Vidzeme
+
+**FROM:**
+Jon Wolf Photography
+28.1198117
+Pavia
+
+-------------------------------------------------------------------------------------
+
+**CONTACT INFORMATION** 
+
+**Jon Wolf Photography**
+**Phone**: 31 0020-5087
+**Email**: jletourneau@hickman.biz
+
+**Itab Recruitment**
+**Phone**: 2500233769
+**Email**: c.perez150@gmail.com
+
+-------------------------------------------------------------------------------------
+
+**DESCRIPTION OF SERVICES PROVIDED**
+
+Photography services for Itab Recruitment corporate event on April 1, 2023.
+
+**Item Description**           **Quantity**   **Unit Price**   **Total**
+Event Photography             1             $3,000.00       $3,000.00
+Post-Processing & Editing     1             $500.00         $500.00
+Digital Photo Album           1             $200.00         $200.00
+Travel & Accommodation        1             $750.00         $750.00
+
+**Subtotal**:                                           $4,450.00
+**Sale Tax (8.875%)**:                                 $394.94
+**Total Due**:                                        $4,844.94
+
+-------------------------------------------------------------------------------------
+
+**PAYMENT INSTRUCTIONS**
+
+Please make cheques payable to Jon Wolf Photography.
+Payment is due by May 15, 2023.
+Late payments may be subject to additional fees.
+
+**Bank Details for Wire Transfer** 
+[Account Information Redacted for Security]
+
+-------------------------------------------------------------------------------------
+
+**NOTE** 
+
+This document is classified as CONFIDENTIAL. Its contents should not be shared or discussed with unauthorized persons.
+
+Thank you for choosing Jon Wolf Photography for your corporate event. We look forward to doing business with you again.
+
+-------------------------------------------------------------------------------------
+
+Any inquiries regarding this invoice should be directed to the contact information listed above. Your prompt payment is appreciated.
+
+**END OF DOCUMENT**

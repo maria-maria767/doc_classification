@@ -1,0 +1,97 @@
+--- Financial Statement for the Fiscal Year Ending December 31, 2023 ---
+
+Company Name: Chandler Kale Sturgill Headley (CKSH)
+
+Address: 92 Perley Street, Concord, New Hampshire 03301
+
+I. Statement of Financial Position 
+
+ASSETS:
+
+Current Assets
+- Cash and cash equivalents: $3,000,000
+- Accounts receivable: $1,500,000
+- Inventory: $2,000,000
+- Prepaid expenses: $150,000
+Total Current Assets: $6,650,000
+
+Non-Current Assets
+- Property, plant, and equipment: $12,300,000
+- Intangible assets: $4,000,000
+- Long-term investments: $3,250,000
+Total Non-Current Assets: $19,550,000
+
+Total Assets: $26,200,000
+
+LIABILITIES and EQUITY:
+
+Current Liabilities
+- Accounts payable: $850,000
+- Short-term debt: $2,200,000
+- Accrued liabilities: $250,000
+- Deferred revenue: $400,000
+Total Current Liabilities: $3,700,000
+
+Long-Term Liabilities
+- Long-term debt: $5,600,000
+- Deferred tax liabilities: $1,350,000
+Total Long-Term Liabilities: $6,950,000
+
+Total Liabilities: $10,650,000
+
+Equity
+- Common Stock: $2,000,000
+- Retained earnings: $13,550,000
+Total Equity: $15,550,000
+
+Total Liabilities and Equity: $26,200,000
+
+II. Statement of Comprehensive Income 
+
+Revenue: 
+- Net sales: $14,000,000
+- Services income: $3,500,000
+Total Revenue: $17,500,000
+
+Costs and Expenses:
+- Cost of goods sold: $6,200,000
+- Operating expenses: $5,100,000
+- Depreciation and amortization: $700,000
+- Interest expense: $250,000
+Total Costs and Expenses: $12,250,000
+
+Profit Before Taxes: $5,250,000
+Income Tax Expense: $1,575,000
+
+Net Profit: $3,675,000
+
+III. Statement of Cash Flows
+
+Cash Flows from Operating Activities:
+- Net profit: $3,675,000
+- Adjustments for non-cash items: $700,000
+- Changes in working capital: ($500,000)
+Net Cash Provided by Operating Activities: $3,875,000
+
+Cash Flows from Investing Activities:
+- Capital expenditures: ($4,000,000)
+- Investments in long-term assets: ($1,000,000)
+Net Cash Used in Investment Activities: ($5,000,000)
+
+Cash Flows from Financing Activities:
+- Dividends paid: ($750,000)
+- Proceeds from issuance of stock: $500,000
+Net Cash Provided by (Used in) Financing Activities: ($250,000)
+
+Net Increase (Decrease) in Cash and Cash Equivalents: ($1,375,000)
+Cash and Cash Equivalents at Beginning of Period: $4,375,000
+Cash and Cash Equivalents at End of Period: $3,000,000
+
+IV. Notes to Financial Statements
+
+This summary financial statement is intended for public disclosure and provides a broad overview of CKSH's financial condition and results of operations for the fiscal year. For a complete and detailed understanding, the full financial statements with accompanying notes, which include accounting policies and other disclosures, should be referred.
+
+Prepared by:
+Financial Officer: Bianca R. Brown
+Authorized Signature: ___________
+Date: March 31, 2023

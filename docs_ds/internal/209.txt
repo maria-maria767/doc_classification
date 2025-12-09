@@ -1,0 +1,41 @@
+------------------------------------------------
+INTERNAL MEMORANDUM
+
+To: All Department Heads
+From: Jane Doe, Chief Operating Officer
+Date: April 1, 2023
+Subject: Implementation of a New Expense Reporting System
+
+------------------------------------------------
+
+Effective May 1, 2023, our company will be adopting a new digital expense reporting system designed to streamline the submission, approval, and reimbursement processes associated with employee expenses. We have partnered with ExpensiTrack, a leading provider of expense management solutions, to deploy this new platform across all departments. This transition reflects our ongoing commitment to efficiency and fiscal responsibility.
+
+Key Features of the New System:
+- User-friendly mobile and web applications for on-the-go reporting
+- Automated expense policy compliance checks
+- Real-time expense report tracking
+- Direct integration with our accounting software
+- Quick reimbursement processing
+
+Action Required:
+1. All department heads are required to attend a mandatory training session on April 15 or April 22. Please RSVP to the HR Department by April 5, indicating your preferred date.
+2. Department heads are responsible for ensuring their team members complete the online training module by April 30.
+3. Ensure that all pending expense reports under the current system are submitted and approved by April 25 to facilitate a smooth transition.
+
+Support:
+- Technical support will be provided by the IT department. Please submit any queries or issues via the internal IT support portal.
+- Questions regarding policy and procedure may be directed to the Finance Department at finance@ourcompany.com.
+
+We appreciate your cooperation in adopting this new expense reporting system. With your help, we aim to reduce processing times, increase visibility into company expenditures, and enhance overall operational efficiency.
+
+Please retain this document within our organization and ensure that it is not disseminated outside the designated internal channels.
+
+Best Regards,
+
+Jane Doe
+Chief Operating Officer
+Our Company, Inc.
+
+------------------------------------------------
+
+This document is for internal use only and should not be shared with external parties. Violation of this policy may result in disciplinary action.

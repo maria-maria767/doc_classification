@@ -1,0 +1,50 @@
+Invoice Number: INV-2023-7986
+Date: April 15, 2023
+
+BILL TO:
+Filimena Tunteva Miah Merritt
+Suffolk Street
+Wanskuck, Rhode Island, USA
+
+SHIP TO:
+Iskren Cabarkapa Ljupčo Boskovski
+Chaussée de Ninove - Ninoofsesteenweg
+Molenbeek-Saint-Jean - Sint-Jans-Molenbeek
+België - Belgique - Belgien
+
+INVOICE DETAILS:
+From:
+Nanochap Electronics Pty Ltd.
+-15.4214313
+Forlì-Cesena
+Italy
+Email: leoconrad7@davis-moses.ly
+Phone: +02 21 6336-0954
+
+Description of Goods/Services:
+1. NanoTech Chipset Model X12 - Qty: 10, Unit Price: $150.00, Total: $1,500.00
+2. EcoSmart Microcontroller F22 - Qty: 15, Unit Price: $90.00, Total: $1,350.00
+3. Adaptive Frequency Modulator T-9X - Qty: 5, Unit Price: $220.00, Total: $1,100.00
+
+SUBTOTAL: $3,950.00
+Sales Tax (10%): $395.00
+SHIPPING: $120.00
+TOTAL DUE: $4,465.00
+
+Payment Terms: Net 30 days
+Payment Instructions: Please make payments to Account Number 2984759302 (Nanochap Electronics Pty Ltd.) using wire transfer or available online payment methods.
+
+CONTACT:
+Account Manager: Mare Blazincic
+Email: mareblazincic71@yahoo.com
+Phone: 4718870537
+
+NOTES:
+- Payment received after 30 days from the invoice date will incur a late fee at the rate of 1.5% per month.
+- If you have any questions about this invoice, please contact our Account Manager, Mare Blazincic, before the due date.
+
+Please treat this document with confidentiality, as it contains sensitive information pertaining to pricing and product specifications.
+
+Thank you for doing business with Nanochap Electronics Pty Ltd.
+
+END OF DOCUMENT

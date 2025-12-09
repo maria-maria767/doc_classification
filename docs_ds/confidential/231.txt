@@ -1,0 +1,38 @@
+INVOICE
+
+Bill To:
+State Route 116 rd. 9329
+Hinesburg, Vermont
+
+From:
+Cofidis Retail
+28 Fairlawn Lane
+Lexington, MA 02420-2219
+
+Date:
+2023-04-25
+
+---
+
+Description Qty Unit Price Total
+----------------------------------
+
+----------------------------------
+
+1 Apparel Item A 1 80.00 80.00
+1 Apparel Item B 1 75.00 75.00
+1 Apparel Item C 1 60.00 60.00
+----------------------------------
+
+Grand Total: 235.00
+
+Payment Terms: Net 30
+
+Contact:
+XM Cabrera
+Email: [xm@cabrera.site](mailto:xm@cabrera.site)
+Phone: +1-290-533-8863
+
+---
+
+Note: Please remit payment to the address above or call the phone number above to arrange a different method of payment. Thank you for doing business with Cofidis Retail.

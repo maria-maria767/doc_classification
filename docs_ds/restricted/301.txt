@@ -1,0 +1,35 @@
+Job Description: Confidential and Restricted
+
+Job Title: Senior Data Analyst
+
+Location: North Pleasant Street, Amherst, Massachusetts
+
+Company: Allen-Bryan
+
+Reports to: Director of Data Analysis
+
+Job Summary:
+The Senior Data Analyst will be responsible for analyzing and interpreting complex data sets to support strategic decision-making for the company. This role requires a high level of attention to detail, strong analytical skills, and the ability to communicate complex information to both technical and non-technical stakeholders.
+
+Responsibilities:
+
+* Analyze large and complex data sets to identify trends, patterns, and insights
+* Develop and maintain statistical models to forecast future trends and inform business decisions
+* Create reports and visualizations to effectively communicate findings to stakeholders
+* Collaborate with cross-functional teams to understand business needs and identify opportunities for data-driven decision-making
+* Develop and maintain data quality standards to ensure accuracy and completeness of data sets
+* Keep up-to-date with industry trends and best practices in data analysis and visualization
+
+Qualifications:
+
+* Bachelor's degree in a quantitative field such as statistics, mathematics, or computer science
+* 5+ years of experience in data analysis, with a focus on statistical modeling and forecasting
+* Proficiency in statistical software such as R or Python
+* Strong communication and presentation skills, with the ability to explain complex data to non-technical stakeholders
+* Experience working with large and complex data sets
+* Familiarity with data visualization tools such as Tableau or Power BI
+
+Clearance:
+This position requires a background check and the ability to obtain a security clearance.
+
+Note: This job description is restricted to authorized employees only and should not be shared with anyone outside of the company.

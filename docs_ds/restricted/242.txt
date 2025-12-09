@@ -1,0 +1,26 @@
+Confidential Information Sharing Agreement
+
+This Confidential Information Sharing Agreement ("Agreement") is entered into by and between Sobieslaw Hrushovsky Dusizska ("Disclosing Party") and Jovevski ("Receiving Party") (together, the "Parties") for the purpose of protecting and maintaining the confidentiality of certain confidential information ("Confidential Information") that is shared between the Parties.
+
+1. Definition of Confidential Information. Confidential Information means any non-public information that is disclosed by the Disclosing Party to the Receiving Party, whether in written, oral, electronic, or any other form, and that is designated as confidential or that a reasonable person would understand to be confidential under the circumstances.
+2. Exclusions. Confidential Information does not include information that (a) is already known to the Receiving Party at the time of disclosure, (b) is publicly available or becomes publicly available through no fault of the Receiving Party, (c) is obtained by the Receiving Party from a third party who has the right to disclose it, (d) is required to be disclosed by law, or (e) is independently developed by the Receiving Party without reference to or use of the Confidential Information.
+3. Obligations of the Receiving Party. The Receiving Party agrees to use the Confidential Information only for the purpose of the Parties' business relationship and to keep the Confidential Information strictly confidential. The Receiving Party agrees not to disclose the Confidential Information to any third party without the prior written consent of the Disclosing Party, except to its employees, agents, or subcontractors who have a need to know such Confidential Information and who are bound by confidentiality obligations at least as restrictive as those contained herein. The Receiving Party shall use commercially reasonable efforts to protect the Confidential Information from unauthorized access, use, or disclosure.
+4. Term. This Agreement shall remain in effect until the Receiving Party no longer receives any Confidential Information, or until the Disclosing Party sends the Receiving Party written notice releasing it from its obligations under this Agreement.
+5. Remedies. The Parties agree that any violation of this Agreement may cause irreparable harm to the Disclosing Party for which monetary damages may not be an adequate remedy. Accordingly, the Disclosing Party shall be entitled to seek injunctive relief and/or any other equitable remedies available under law to enforce the provisions of this Agreement.
+6. Governing Law. This Agreement shall be governed by and construed in accordance with the laws of the state of New York, without regard to its conflict of laws principles.
+7. Entire Agreement. This Agreement constitutes the entire agreement between the Parties with respect to the subject matter hereof and supersedes all prior agreements and understandings, whether written or oral, relating to the same subject matter.
+
+IN WITNESS WHEREOF, the Parties have executed this Agreement as of the date first above written.
+
+Disclosing Party: Sobieslaw Hrushovsky Dusizska
+
+Receiving Party: Jovevski
+
+By: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+Name: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+Title: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+Address: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+City, State, Zip Code: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+Email: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+Phone: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_

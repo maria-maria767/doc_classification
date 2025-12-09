@@ -1,0 +1,56 @@
+PURCHASE ORDER
+
+Purchase Order Number: 4501-PMX23
+
+Date: April 5, 2023
+
+BILL TO:
+Terence M&M Capital Management
+74 Rue des Coquelicots,
+Chaumont-Gistoux,
+België - Belgique - Belgien
+
+SHIP TO:
+Lesek Golovkin
+3 Via Pontasso,
+Casella, Liguria 16015,
+Italy
+
+Vendor Contact:
+Mariyah Robbins
+Email: c-p@clark.biz
+Phone: 1-979-980-4725
+
+Buyer Contact:
+Florovski Pasarikova
+Email: nkapusta38@simic.com
+Phone: +55 06 95387 0325
+
+Order Details:
+1. Item Number: PS2342Q
+   Description: Industrial Water Pumps
+   Quantity: 10
+   Unit Price: $450.00
+   Total Price: $4,500.00
+
+2. Item Number: BC7765M
+   Description: High-Efficiency Solar Panels
+   Quantity: 25
+   Unit Price: $280.00
+   Total Price: $7,000.00
+
+Subtotal: $11,500.00
+Shipping & Handling: $750.00
+Tax (8%): $920.00
+TOTAL: $13,170.00
+
+Payment Terms: Net 30 days
+Delivery Date: June 11, 2023
+
+Authorized Signature:
+_____________________
+Sasha Webber Brooks
+Procurement Officer
+Terence M&M Capital Management
+
+This Purchase Order contains proprietary and confidential information of Terence M&M Capital Management and is disclosed solely for the purpose of the supplier satisfying the requirements as outlined in this Purchase Order. Unauthorized use, distribution, or duplication of this document or the information contained herein is strictly prohibited.

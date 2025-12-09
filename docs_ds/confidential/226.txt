@@ -1,0 +1,49 @@
+INVOICE
+
+Beds & beats
+Edin Načev Velizar
+33 Heinestraße
+Sebnitz
+Sachsen 01855
+Germany
+Email: [jm98@schroeder-johnson.net](mailto:jm98@schroeder-johnson.net)
+Phone: 13674632415
+
+Iyla Clarence Hennessey Clapp
+56 Köppelsdorfer Straße
+Sonneberg
+96515 Thüringen
+Germany
+Email: [a-p@vip.hr](mailto:a-p@vip.hr)
+Phone: (07700)900940
+
+Armstrong
+Raskens väg
+Växjö
+Sweden
+Email: [mhowell5457@dawson.xyz](mailto:mhowell5457@dawson.xyz)
+Phone: 10940/ 46 479
+
+alcides & rosaura diniz (ARD) foundation
+Invoice #: 1234567
+Date: April 16, 2023
+
+Description Qty Unit Price Subtotal
+-----------------------------------
+
+Bed 1 1 500.00 500.00
+Bed 2 1 550.00 550.00
+Bed 3 1 600.00 600.00
+Total 3 1650.00 1650.00
+
+Payment Terms: Net 30
+
+Please make payment to:
+alcides & rosaura diniz (ARD) foundation
+Bank Name: Santander Bank
+Account Name: Edin Načev Velizar
+Account Number: 234-5678-9012-3456
+Routing Number: 111000024
+Swift Code: PANIBUS33XXX
+
+Thank you for your business!

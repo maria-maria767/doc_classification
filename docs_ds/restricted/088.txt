@@ -1,0 +1,72 @@
+----------------------------------------
+Job Description: IT Security Analyst
+----------------------------------------
+
+Job Title: IT Security Analyst
+
+Department: Information Technology Security Department
+
+Reports to: Chief Information Security Officer (CISO)
+
+Location: Crandola Valsassina, Lombardia
+
+Purpose of the Position:
+The IT Security Analyst is responsible for the implementation, maintenance, and auditing of the company's information security systems to ensure the confidentiality, integrity, and availability of electronic information assets.
+
+Essential Duties and Responsibilities:
+- Monitor the company's networks for security breaches and investigate violations when they occur
+- Install and use software, such as firewalls and data encryption programs, to protect sensitive information
+- Prepare reports that document security breaches and the extent of the damage caused
+- Conduct risk assessments and security audits, and recommend enhancements to IT management
+- Design and implement company-wide best security practices and policies
+- Offer technical support and guidance to staff in securing their data and information
+
+Knowledge and Skills Required:
+- Bachelor's degree in Computer Science, Information Technology or related field, or equivalent work experience
+- Professional certification such as Certified Information Systems Security Professional (CISSP) or Certified Information Security Manager (CISM)
+- In-depth understanding of various operating systems, databases, and networks
+- Ability to manage, diagnose, and mitigate network vulnerabilities
+- Familiar with advanced persistent threats and cyber crime tactics
+- Excellent problem-solving and analytical skills
+- Strong attention to detail with an ability to work under pressure
+
+Supervisory Responsibilities:
+- No direct reports
+
+Work Environment:
+- Office setting in Crandola Valsassina, Lombardiawith occasional visits to satellite locations within the region
+- Standard office hours with occasional need for after-hours or weekend work
+
+Physical Requirements:
+- Must be able to sit for prolonged periods of time in front of a computer
+
+Direct Reports:
+- None
+
+Confidentiality:
+This position will have access to highly sensitive company information and is expected to maintain the highest level of confidentiality and discretion at all times.
+
+Sensitivity Classification:
+This job description is restricted and is not to be shared outside the authorized personnel list as approved by the CISO and Human Resources Department.
+
+For further inquiries or submission of applications, please contact the Human Resources at:
+Email: kaia.vance75@allen-bryan.online
+Phone: (061) 8148 7386
+
+Acknowledgment:
+This job description has been approved by the Human Resources Department and the Chief Information Security Officer (CISO). All inquiries and applications must adhere to the confidentiality agreement signed upon employment.
+
+Issued by:
+Human Resources Department
+
+Date of Issue:
+[Insert Date]
+
+Document Control Number:
+[Insert Control Number]
+
+This document remains the property of [Organization's Name] and shall be returned upon request or if the receiver has no continued authorized use for such information. This document may not be reproduced without express written consent from [Organization's Name].
+
+----------------------------------------
+End of Document
+----------------------------------------

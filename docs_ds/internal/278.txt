@@ -1,0 +1,32 @@
+Répartition des tâches pour le projet "Nouveau site web pour Enviro-stewards inc."
+
+Liste des tâches:
+
+1. Dičo Avramov Leylani: Conception du design du site web
+2. Sebastian: Développement de la partie front-end
+3. Kreso Lovrić Zdravko: Développement de la partie back-end
+
+Calendrier:
+
+* Début du projet: 1er juin 2023
+* Date limite pour la livraison: 1er septembre 2023
+
+Critères de qualité:
+
+* Le site web doit être facile à utiliser et à naviguer pour les utilisateurs finaux.
+* Le site web doit être optimisé pour les moteurs de recherche (SEO).
+* Le site web doit être compatible avec les différents navigateurs web (Chrome, Firefox, Safari, etc.).
+* Le site web doit être sécurisé et protégé contre les attaques externes.
+
+Moyens:
+
+* Outils de conception: Adobe XD, Sketch, Figma
+* Outils de développement: HTML, CSS, JavaScript, PHP, MySQL
+* Outils de déploiement: Git, GitHub, Netlify
+
+Communication:
+
+* Les membres du projet communiqueront régulièrement par e-mail (e-o@gmail.com) pour suivre la progression et discuter des problèmes éventuels.
+* Les réunions de l'équipe auront lieu chaque semaine pour discuter de la progression et des problèmes éventuels. Ces réunions auront lieu par visioconférence.
+
+N'hésitez pas à contacter Dičo Avramov Leylani (macthompson@jones.store) si vous avez des questions ou des préoccupations concernant le projet.

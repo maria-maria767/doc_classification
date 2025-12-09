@@ -1,0 +1,91 @@
+FINANCIAL STATEMENT
+For the Year Ended December 31, 2022
+
+ANDREW ARREOLA PARKINSON
+
+BALANCE SHEET
+As at December 31, 2022
+
+ASSETS
+Current Assets:
+Cash and cash equivalents                $32,000
+Accounts receivable (Note 3)             $13,500
+Prepaid expenses                         $2,300
+
+Non-current Assets:
+Property, Plant and Equipment            $87,000
+Less: Accumulated depreciation           ($22,000)
+
+Total Non-current Assets                 $65,000
+
+Total Assets                             $112,800
+
+LIABILITIES AND EQUITY
+Current Liabilities:
+Accounts payable                         $7,500
+Accrued liabilities                      $4,100
+
+Total Current Liabilities                $11,600
+
+Equity:
+Owner's capital                          $90,000
+Retained earnings                        $11,200
+
+Total Equity                             $101,200
+
+Total Liabilities and Equity             $112,800
+
+INCOME STATEMENT
+For the Year Ended December 31, 2022
+
+Revenue
+Service revenue                          $150,000
+
+Expenses
+Salaries and wages                       $45,000
+Rent                                     $18,000
+Utilities                                $6,500
+Depreciation                             $4,500
+Miscellaneous expenses                   $1,250
+
+Total Expenses                           $75,250
+
+Net Income                               $74,750
+
+RETAINED EARNINGS STATEMENT
+For the Year Ended December 31, 2022
+
+Retained Earnings, January 1             $36,450
+Net Income for the year                  $74,750
+
+Total                                   $111,200
+
+Dividends                                ($100,000)
+
+Retained Earnings, December 31           $11,200
+
+Notes to Financial Statements
+Note 1: Accounting Policies
+Andrew Arreola Parkinson adopts the accrual basis of accounting.
+
+Note 2: Cash and Cash Equivalents
+Cash includes bank balances and cash on hand.
+
+Note 3: Accounts Receivable
+Accounts receivable are stated net of any allowance for doubtful accounts.
+
+This financial statement has been prepared in accordance with generally accepted accounting principles for public release and does not include sensitive or internal information related to Andrew Arreola Parkinson.
+
+Prepared by:
+[Controller's Name]
+Controller, Andrew Arreola Parkinson
+
+For any inquiries related to this document, please contact:
+Email: jacob.britt@reynolds-owen.com
+Phone: 1-835-055-6217
+
+Address: 92 Perley Street, Concord, New Hampshire 03301
+
+Date: January 20, 2023
+
+This document is a public financial summary intended for general information purposes only. The sensitivity level of this document has been set to "PUBLIC" indicating its availability for distribution without restriction.

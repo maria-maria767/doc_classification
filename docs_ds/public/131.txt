@@ -1,0 +1,38 @@
+Company Document: Service Agreement
+
+This Service Agreement ("Agreement") is entered into on [Date] (the "Effective Date") by and between Multiskin, with a registered address at 6/A Via Giovanni Amendola, Verona 37138, Veneto, Italy ("Company"), and Olive, with a registered address at 6 Burwell Street, Saylesville, Rhode Island 02865, US ("Client").
+
+1. Services
+The Company shall provide the Client with maintenance services for the Company's products ("Products") used by the Client. The services shall include, but not be limited to, the following:
+* Providing technical support and assistance
+* Troubleshooting any issues with the Products
+* Updating and upgrading the Products as needed
+2. Term and Termination
+This Agreement shall commence on the Effective Date and shall continue for a period of [Number] years, unless terminated earlier in accordance with the provisions of this Agreement. Either party may terminate this Agreement by giving written notice to the other party if the other party breaches any material provision of this Agreement and fails to cure such breach within [Number] days of receipt of written notice thereof.
+3. Payment
+The Client shall pay the Company a fee of [Amount] per year for the services provided under this Agreement. The fee shall be paid annually in advance, on the anniversary of the Effective Date.
+4. Confidentiality
+The parties agree to maintain the confidentiality of all proprietary and confidential information disclosed by either party during the term of this Agreement.
+5. Governing Law
+This Agreement shall be governed by and construed in accordance with the laws of the State of [State].
+
+IN WITNESS WHEREOF, the parties have executed this Agreement as of the date first above written.
+
+---
+
+Simeon Toshev Eleanore Adam Terry
+Company Representative Client Representative
+
+[Signature] [Signature]
+
+---
+
+Jordana Soposka Malaya Coy Crooks
+Witness 1 Witness 2
+
+[Signature] [Signature]
+
+---
+
+Basile
+Notary Public

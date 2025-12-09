@@ -1,0 +1,40 @@
+Invoice
+
+Invoice #: 00123456
+
+Bill To:
+Smiljan Milutinović Slavoljub
+41 Spooner Street
+Plymouth, MA 02360-7310
+United States
+
+From: Utilityworks
+123 Main Street
+Huesca, Spain
+Email: [utilityworks@example.com](mailto:utilityworks@example.com)
+Phone: 0246132492
+
+---
+
+Description Qty Unit Price Total
+----------------------------------
+
+Electricity (kWh) 100 $0.12 $12.00
+Water (m3) 5 0.05 0.25
+Gas (m3) 7 0.03 0.21
+Sewer (m3) 3 0.02 0.06
+Total $14.52
+-----------
+
+Taxes:
+VAT 20% $2.90
+
+Total Amount Due: $17.42
+
+Terms: Net 30
+
+Payment Method: Credit Card
+
+---
+
+This invoice is restricted to the individuals listed above and should not be shared with anyone outside of the Utilityworks organization.

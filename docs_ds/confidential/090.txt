@@ -1,0 +1,72 @@
+[Company Letterhead]
+
+Memo
+
+Date: [Current Date]
+
+To: [Department Name]
+From: [Your Name], [Your Title]
+Subject: Updated Security Protocols
+
+Attention All Team Members,
+
+This memo is intended to brief the department on the newly updated security protocols that have been approved by the executive board on [Approval Date]. 
+
+Effective immediately, the following protocols must be adhered to by all staff:
+
+1. Access Control:
+    a. All entry points to the server room are now equipped with biometric scanners. Identification badges are insufficient for access.
+    b. Employees must re-register their biometric data by [Due Date].
+
+2. Data Encryption:
+    a. All sensitive data, including client information, must be encrypted using the new 256-bit encryption standard.
+    b. IT will conduct encryption audits bimonthly.
+
+3. Remote Work:
+    a. When working remotely, employees must use the company-provided VPN and verify their connection via two-factor authentication.
+    b. File transfers must be limited to our secure cloud platform. Usage of third-party services is strictly prohibited.
+
+4. Password Policy Updates:
+    a. Passwords must now be changed every 60 days.
+    b. Passwords must contain a minimum of 12 characters, including upper and lower case letters, numbers, and symbols.
+
+5. Client Information Handling:
+    a. All documents containing client data must be classified and handled according to their sensitivity level.
+    b. Physical documents must be stored in locked cabinets when not in use; electronic files must be stored in their designated secure network drive.
+
+6. Incident Reporting:
+    a. In the event of any security incident, it is mandatory to report it to the IT Security Officer within an hour of detection.
+
+Compliance with these updated security protocols is crucial to maintain the integrity and confidentiality of our company's and clients' sensitive data.
+
+A detailed description of each protocol and training modules are available on the intranet. All employees are required to review the materials and acknowledge their understanding by [Acknowledgement Due Date].
+
+Please be reminded that failure to comply with these protocols may result in disciplinary action. Security is a shared responsibility, and your cooperation is key to ensuring the safety of our operations.
+
+For any questions or concerns regarding these changes, please reach out to the IT department or your direct supervisor.
+
+Thank you for your prompt attention to this matter.
+
+Best regards,
+
+[Your Signature]
+[Your Name]
+[Your Position]
+
+[Attachment: Detailed Security Protocols]
+
+End of Memo
+
+Distribution List:
+    - [List names/titles of the individuals receiving the document]
+
+Copy: 
+    - [Any additional team/department]
+
+Document Control Information:
+- Version: 1.0
+- Author: [Your Name]
+- Approved By: [Approver’s Name]
+- Date of Approval: [Approval Date]
+- Effective Date: [Effective Date]
+- Review Date: [Next Review Date]

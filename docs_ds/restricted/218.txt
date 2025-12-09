@@ -1,0 +1,65 @@
+Invoice # 789456123
+Date: April 8, 2023
+Due Date: May 8, 2023
+
+Berley Security Systems
+B83, Krumpendorf am Wörthersee
+Kärnten, Austria
+
+INVOICE TO:
+Public Catalyst Group Corporation
+222 Goodwill Road
+Montgomery, New York 12549
+United States of America
+
+For the Attention of: Andon Konstantinov Etienne
+Email: jm98@schroeder-johnson.net
+Phone: 751-538-3494
+
+DESCRIPTION OF SERVICES
+
+SERVICES RENDERED:
+1. Installation of Advanced Security Surveillance System
+2. Two-Year Extended Service Warranty
+3. Monthly Security Monitoring Service (Annual Contract)
+
+QUANTITY | UNIT PRICE | TOTAL
+----------------------------------------
+1        | $18,250.00 | $18,250.00
+1        |  $2,000.00 |  $2,000.00
+12       |  $75.00/mo |  $900.00
+
+SUBTOTAL: $21,150.00
+TAX (8.5%): $1,797.75
+TOTAL AMOUNT DUE: $22,947.75
+
+PAYMENT INSTRUCTIONS:
+Please make all payments to the order of Berley Security Systems.
+Bank transfers should be sent to:
+Berley Security Systems
+Account: 123-456789-01
+Swift/BIC Code: BSSYATW1XXX
+Please include the invoice number in the payment details.
+
+TERMS & CONDITIONS:
+- Payment is due within 30 days from the invoice date.
+- A late payment fee of 2% per month will be applied to all overdue balances.
+- Any dispute regarding this invoice must be raised within 15 days from the invoice date.
+
+----------------------------------------------------
+For inquiries regarding this invoice, please contact
+Vasil Mončev Blahoslav, Accounts Receivable
+Email: leo-forrest3962@mitchell-sexton.com
+Phone: (07700)900891
+
+AUTHORIZED SIGNATORY
+Vasil Mončev Blahoslav
+Berley Security Systems
+
+----------------------------------------------------
+Thank you for choosing Berley Security Systems. We appreciate your business and look forward to serving you again.
+
+NOTICE:
+This document contains information that is RESTRICTED and is intended only for the use of the designated recipient(s). Unauthorized use, disclosure, or copying of this document or of the information contained in it is strictly prohibited and may be unlawful. If you have received this document in error, please notify the sender immediately and destroy the original transmission.
+
+END OF DOCUMENT

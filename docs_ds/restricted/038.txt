@@ -1,0 +1,61 @@
+-----------------------------------------------------
+INVOICE #00275
+-----------------------------------------------------
+
+Issued Date: April 6, 2023
+Due Date: April 20, 2023
+
+Bill To:
+Andon Konstantinov Etienne
+B83, Krumpendorf am Wörthersee
+Kärnten
+
+Ship To:
+Public Catalyst Group Corporation
+222 Goodwill Road
+Montgomery, New York 12549
+United States of America
+
+From:
+berley security systems
+Hohenhorst, Neuenhaus
+Deutschland
+
+Invoice Total: $7,250.00
+
+Description                    Quantity  Unit Price  Total
+-----------------------------------------------------------
+Security System Installation       1     $4,500.00   $4,500.00
+Annual Maintenance Contract        1     $2,000.00   $2,000.00
+Additional Sensors                 5       $150.00     $750.00
+
+Subtotal                                                  $7,250.00
+Sales Tax (8.25%)                                           $598.13
+-----------------------------------------------------------
+Total Due                                                  $7,848.13
+-----------------------------------------------------------
+
+Payment Instructions:
+Please make all checks payable to berley security systems.
+Payment is due within 14 days from the date of the invoice. Late payment may result in additional charges.
+
+For any inquiries regarding this invoice, please contact:
+Vasil Mončev Blahoslav
+Email: jm98@schroeder-johnson.net
+Phone: (07700)900891
+
+Wire Transfer Details:
+Bank Name: Deutsche KreditBank
+Account Number: 0912387456
+IBAN: DE89 7007 0000 0912 3874 56
+BIC: DEUTDEMMXXX
+
+Remarks:
+If payment is not received by due date, a 5% late fee will be applied to the total amount due for every week of delay.
+
+Thank you for your business. We appreciate prompt payment of your invoice to maintain a good working relationship.
+
+-----------------------------------------------------
+Please retain this invoice for your records.
+This is a restricted document and should be shared only with individuals directly involved in the payment and accounting process.
+-----------------------------------------------------

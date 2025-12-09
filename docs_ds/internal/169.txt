@@ -1,0 +1,70 @@
+Contract Agreement
+
+This Contract Agreement ("Agreement") is entered into on [Date] (the "Effective Date") by and between Kestrel Technologies, a [Type of Organization] with its principal place of business at [Address] (the "Company"), and Svyatoslav Zasarov Adelle (hereinafter referred to as "Adelle"), Thelma, and Nathalie Krieger (collectively referred to as "Contractor").
+
+RECITALS
+
+A. The Company desires to engage Contractor to perform certain services related to [Description of Services].
+
+B. Contractor desires to provide such services to the Company.
+
+AGREEMENT
+
+1. Services. Contractor shall provide the services described in Exhibit A (the "Services"), which is attached hereto and incorporated herein by reference.
+2. Compensation. In consideration for the Services, the Company shall pay Contractor a total compensation of [Amount] (the "Compensation").
+3. Term. The term of this Agreement shall commence on the Effective Date and shall continue until the completion of the Services, unless earlier terminated in accordance with the provisions of this Agreement.
+4. Representations and Warranties. Contractor represents and warrants that:
+
+A. Contractor has the necessary qualifications, experience, and skills to perform the Services.
+
+B. The Services will be performed in a professional and workmanlike manner.
+
+C. Contractor will comply with all applicable laws and regulations in the performance of the Services.
+
+1. Confidentiality. Contractor agrees to maintain the confidentiality of all confidential information disclosed to Contractor in connection with the Services and to use such confidential information only for the purpose of performing the Services.
+2. Independent Contractor. Contractor shall be an independent contractor and shall not be considered an employee of the Company. Contractor shall be solely responsible for all taxes, insurance, and other expenses related to the performance of the Services.
+3. Termination. Either party may terminate this Agreement at any time upon written notice to the other party. Upon termination, Contractor shall be entitled to receive the Compensation earned through the date of termination.
+4. Dispute Resolution. Any disputes arising out of or in connection with this Agreement shall be resolved through mediation and, if necessary, arbitration in accordance with the laws of the State of [State].
+5. Entire Agreement. This Agreement constitutes the entire agreement between the parties with respect to the subject matter hereof and supersedes all prior negotiations, understandings, and agreements between the parties.
+6. Modification. This Agreement may not be modified except in writing signed by both parties.
+7. Governing Law. This Agreement shall be governed by and construed in accordance with the laws of the State of [State].
+
+IN WITNESS WHEREOF, the parties have executed this Agreement as of the Effective Date.
+
+Kestrel Technologies
+
+By: [Authorized Signatory]
+
+Title: [Title]
+
+Address: [Address]
+
+City: [City]
+
+State: [State]
+
+Zip Code: [Zip Code]
+
+Phone: [Phone Number]
+
+Email: [Email Address]
+
+Contractor
+
+Svyatoslav Zasarov Adelle
+
+Thelma
+
+Nathalie Krieger
+
+Address: [Address]
+
+City: [City]
+
+State: [State]
+
+Zip Code: [Zip Code]
+
+Phone: [Phone Number]
+
+Email: [Email Address]

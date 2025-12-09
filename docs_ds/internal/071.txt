@@ -1,0 +1,49 @@
+INVOICE
+
+Invoice Number: 2023-WWPC-0001
+Invoice Date: April 15, 2023
+
+Bill To:
+West Wimbledon Physiotherapy Clinic
+Putikankuja
+Vihti, Suomi
+
+Ship To:
+West Wimbledon Physiotherapy Clinic
+Putikankuja
+Vihti, Suomi
+
+Payment Terms: Net 30
+Due Date: May 15, 2023
+
+Description of Products/Services:
+- Consultation Services
+- Physiotherapy Equipment
+- Therapy Room Rental
+
+Quantity | Description            | Unit Price | Amount
+---------------------------------------------------------------
+10       | Initial Consultations  | €100.00    | €1,000.00
+5        | Physiotherapy Machine  | €750.00    | €3,750.00
+30       | Therapy Room Days      | €200.00    | €6,000.00
+---------------------------------------------------------------
+Subtotal                         |            | €10,750.00
+Value Added Tax (VAT) 24%        |            | €2,580.00
+---------------------------------------------------------------
+Total Due                        |            | €13,330.00
+
+Please make your payment to the following bank account:
+Maf Mortgage Services & MAF Background Screening
+9 Keplerstraße
+Köln, Nordrhein-Westfalen 50823
+Account Number: DE12345678901234567890
+SWIFT/BIC Code: MAFBDEFFXXX
+
+If you have any questions regarding this invoice, please contact:
+Kire Daskalov Phillip
+Email: cmaurer424@hotmail.com
+Phone: 0246132492
+
+Thank you for your business!
+
+This document contains sensitive business information intended for internal use only. Unauthorized distribution, copying, or disclosure is not permitted.

@@ -1,0 +1,60 @@
+Invoice No: 5843-7889
+
+Date of Issue: [Insert Date here]
+
+Bill To:
+Andon Konstantinov Etienne
+B83, Krumpendorf am Wörthersee
+Kärnten
+
+Ship To:
+Vasil Mončev Blahoslav
+Hohenhorst, Neuenhaus
+Deutschland
+
+Invoice Summary:
+- Provision of Professional Security Services
+
+- Security Consultation
+- Security System Implementation
+- Periodic Maintenance
+
+Description: Services rendered in accordance with the terms agreed upon in the contract for professional security solutions provided by Berley Security Systems, for the period ending [insert period date].
+
+Charges:
+1. Security Consultation Fee: €[insert amount]
+2. Security System Implementation: €[insert amount]
+3. Periodic Maintenance Fee (Quarterly): €[insert amount]
+
+Subtotal: €[insert subtotal]
+Tax (VAT 20%): €[insert tax amount]
+TOTAL DUE: €[insert total due]
+
+Please remit payment to:
+Corbett McDonald & Associates
+222 Goodwill Road
+Montgomery, New York 12549
+United States of America
+
+Bank details for wire transfer:
+[Bank Name]
+[Bank Address]
+Account Number: [insert account number]
+Routing Number: [insert routing number]
+
+Payment Terms: [Insert payment terms here, e.g., Net 30 days]
+
+For any inquiries regarding this invoice, please contact:
+Radivoje Rybakov Richard
+Email: jm98@schroeder-johnson.net
+Phone: 7515383494
+
+Due Date for Payment: [Insert due date]
+
+Thank you for choosing Berley Security Systems for your security needs. We look forward to our continued partnership.
+
+Please note, this document is RESTRICTED, unauthorized disclosure or use of this information is prohibited. 
+
+Berley Security Systems
+Authorized Signature: _____________________
+Date: [Insert Date]

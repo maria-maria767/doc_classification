@@ -1,0 +1,99 @@
+---
+
+**FINANCIAL STATEMENT**
+
+For the Year Ended December 31, 2022
+
+**Company Name:** Bynum Enterprises
+
+**Address:** 483 Forge Road North Kingstown, Rhode Island 02852
+
+**Phone:** 4522042052
+
+**Email:** j.s@dyer-combs.us
+
+---
+
+**BALANCE SHEET**
+
+_As of December 31, 2022_
+
+**ASSETS**
+- **Current Assets:**
+  - Cash: $150,000
+  - Accounts Receivable: $80,000
+  - Inventory: $120,000
+  - Prepaid Expenses: $30,000
+  - Total Current Assets: $380,000
+
+- **Non-current Assets:**
+  - Property, Plant, and Equipment: $600,000
+  - Less: Accumulated Depreciation: $120,000
+  - Net Property, Plant, and Equipment: $480,000
+  - Intangible Assets: $50,000
+  - Total Non-current Assets: $530,000
+
+- **Total Assets:** $910,000
+
+**LIABILITIES AND EQUITY**
+- **Current Liabilities:**
+  - Accounts Payable: $60,000
+  - Short-term Loans: $100,000
+  - Accrued Liabilities: $20,000
+  - Total Current Liabilities: $180,000
+
+- **Long-term Liabilities:**
+  - Long-term Debt: $250,000
+  - Total Long-term Liabilities: $250,000
+
+- **Total Liabilities:** $430,000
+
+- **Owner’s Equity:**
+  - Contributed Capital: $300,000
+  - Retained Earnings: $180,000
+  - Total Owner’s Equity: $480,000
+
+- **Total Liabilities and Owner’s Equity:** $910,000
+
+---
+
+**INCOME STATEMENT**
+
+_For the Year Ended December 31, 2022_
+
+**Revenues**
+- Net Sales: $800,000
+- Other Income: $10,000
+- Total Revenues: $810,000
+
+**Expenses**
+- Cost of Goods Sold: $500,000
+- Selling, General and Administrative Expenses: $180,000
+- Depreciation Expense: $20,000
+- Interest Expense: $15,000
+- Total Expenses: $715,000
+
+**Net Income Before Taxes:**
+- Income before Taxes: $95,000
+
+**Provision for Income Taxes:**
+- Income Taxes: $20,000
+
+**Net Income:**
+- Net Income after Taxes: $75,000
+
+---
+
+This financial statement has been prepared for public disclosure and reflects the financial position and results of operations for Bynum Enterprises as of and for the year ended December 31, 2022. 
+
+For further information please contact the Bynum Enterprises finance department through the provided contact information.
+
+ Prepared by:
+
+ Akira Walls  
+ Chief Financial Officer  
+ Bynum Enterprises
+
+---
+
+This document is classified as PUBLIC and may be shared without restriction.

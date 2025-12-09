@@ -1,0 +1,59 @@
+CONTRACT AGREEMENT
+
+This Contract Agreement (the "Agreement") is entered into on this day by and between Kestrel Technologies, a company incorporated under the laws of the United States, with its principal place of business at Bayonne Avenue, Warwick, United States of America (hereinafter referred to as the "Client") and Trusturk A.Ş., a company established in accordance with the laws of Bergamo, Italy, with its principal place of business located in Forlì-Cesena, Italy (hereinafter referred to as the "Service Provider").
+
+WHEREAS, the Client is desirous of engaging the Service Provider to perform certain services as outlined in this Agreement; and
+
+WHEREAS, the Service Provider is willing to undertake the delivery of said services under the terms and conditions set forth herein;
+
+NOW, THEREFORE, in consideration of the mutual covenants and promises herein and for other good and valuable consideration, the sufficiency and receipt of which are hereby acknowledged, the Client and the Service Provider agree as follows:
+
+1. SERVICES
+   The Service Provider agrees to provide the services (the "Services") described in Exhibit A attached hereto and made a part of this Agreement.
+
+2. TERM
+   This Agreement shall commence on the effective date of signing and shall continue in effect for a period of one (1) year unless otherwise terminated in accordance with the provisions herein.
+
+3. COMPENSATION
+   For the Services rendered by the Service Provider under this Agreement, the Client shall pay the Service Provider in accordance with the payment schedule and terms outlined in Exhibit B attached hereto.
+
+4. CONFIDENTIALITY
+   Both parties acknowledge that during the term of this Agreement, each may obtain confidential information regarding the other party's business. Both the Client and the Service Provider agree to treat all such information and the terms of this Agreement as confidential and to take all necessary precautions against disclosure of such information to unauthorized third parties during and after the term of this Agreement.
+
+5. POINTS OF CONTACT
+   The primary points of contact for the Client shall be Svyatoslav Zasarov Adelle, and for the Service Provider, Nathalie Krieger.
+
+6. NOTICES
+   All notices, requests, consents, and other communications hereunder shall be in writing, shall be mailed by registered or certified mail, postage prepaid, or otherwise delivered by hand or by messenger, addressed to the respective parties at the above-stated addresses.
+
+7. COMPLETE AGREEMENT
+   This Agreement constitutes the entire agreement between the Client and the Service Provider, and it supersedes any prior understanding or representation of any kind preceding the date of this Agreement.
+
+8. AMENDMENTS
+   Any amendments to this Agreement shall be made in writing and signed by both parties.
+
+IN WITNESS WHEREOF, the parties have executed this Agreement as of the date first above written.
+
+CLIENT:
+Name: Svyatoslav Zasarov Adelle
+Title: [Client Title here]
+Company: Kestrel Technologies
+Address: Bayonne Avenue, Warwick, United States of America
+Phone: +55 18 93839 5749
+Email: s-snyder1@carey-hernandez.website
+
+SERVICE PROVIDER:
+Name: Nathalie Krieger
+Title: [Service Provider Title here]
+Company: Trusturk A.Ş.
+Address: [Service Provider Address in Forlì-Cesena here]
+Phone: (051) 2855-8330
+Email: nevaeh.nelson@munoz.store
+
+EXHIBITS A & B are not included for brevity and would typically detail specific services to be provided and the payment schedule/terms.
+
+[Signature Page Follows]
+
+(Signatures of the authorized representatives of the Client and Service Provider here)
+
+Please note that the missing details such as exact address for Trusturk A.Ş. and the titles of the signatories should be filled in with accurate information. Also, Exhibits A & B must be drafted to outline the specifics of the services and payment terms which were not provided in the request.

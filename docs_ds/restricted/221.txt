@@ -1,0 +1,117 @@
+____________________________________________________________
+
+**PRODUCT SPECIFICATION DOCUMENT**
+
+**Product Name:** AlphaStream Router 3000
+
+**Company:** Evr Media Spa
+
+**Product Code:** ASR-3K-2023
+
+**Specification Document Number:** EVR-ASR-2023-0327-R
+
+**Prepared by:** Filimena Tunteva Leylani
+
+**Date Issued:** 2023-04-01
+
+**Authorized by:** Cvitko Jankovič Vivienne Glaser Grayson, Product Manager
+
+**Contact Information:**  
+Email: tucker-goode@gonzales.info  
+Phone: +1-838-271-3432  
+Address: Hannover Road, Sprague, United States of America
+
+**1. Introduction**
+This document specifies the technical and operational characteristics of the AlphaStream Router 3000 designed and manufactured by Evr Media Spa. The purpose of these specifications is to detail the product's design for compliance, manufacturing, and product validation.
+
+**2. Product Overview**
+The AlphaStream Router 3000 (ASR-3000) is a high-performance routing device intended for medium to large enterprise networks. It supports advanced features such as gigabit Ethernet connectivity, Virtual Private Network (VPN) capabilities, firewall protection, and quality of service (QoS) management. 
+
+**3. Technical Specifications**
+
+- **Physical Dimensions:** 
+  - Height: 44 mm (1U rack unit)
+  - Width: 423 mm
+  - Depth: 300 mm
+  - Weight: 4.2 kg
+
+- **Hardware Features:** 
+  - CPU: Quad-core 1.5 GHz
+  - Memory: 8 GB DDR4 RAM
+  - Storage: 128 GB SSD
+
+- **Connectivity:**
+  - 12 x 1 GbE RJ-45 ports
+  - 4 x 10 GbE SFP+ ports
+  - 2 x USB 3.0 ports for external connectivity
+
+- **Power Supply:** 
+  - AC Input: 100–240V AC, 50–60 Hz
+  - Power Consumption: Maximum 150 W
+
+- **Environmental Requirements:**
+  - Operating Temperature: 0°C to 40°C
+  - Non-operating Temperature: -20°C to 70°C 
+  - Humidity: 10% to 90% non-condensing
+
+**4. Features and Capabilities**
+
+- High-capacity, high-performance routing for scalable enterprise networks
+- Advanced QoS for traffic prioritization and optimized bandwidth usage
+- Comprehensive security features including an integrated firewall, intrusion prevention, and VPN support
+- User-friendly management interface with both CLI and GUI options
+- Support for IPv4/IPv6, OSPF, BGP, and MPLS networking standards
+
+**5. Compliance and Standards**
+
+The ASR-3000 complies with industry standards including IEEE 802.3, IEEE 802.1Q, and safety standards such as UL, CE, and FCC part 15.
+
+**6. Availability**
+
+- **Product Release Date:** 2023-05-15
+- **End of Sale Date:** 2028-05-15
+
+**7. Manufacturing Site**
+
+Evr Media Spa Manufacturing Facility
+Via Guerrino Vandi, Rimini, Emilia-Romagna
+
+**8. Packaging**
+
+The ASR-3000 will be packaged using ESD protective materials and shipped in reinforced boxes compliant with ISTA standards.
+
+**9. Recommended Accessories** 
+
+- Rack mount kit: RMK-3000
+- 10 GbE SFP+ transceivers: SFP-10G-SR
+- Console cable kit: CON-CBL-KIT01
+
+**10. Warranty and Support**
+
+The product comes with a 5-year warranty including 24/7 technical support and advanced hardware replacement.
+
+**11. Notes**
+
+The contents of this document are subject to change without notice as a result of continuous product improvement. Any modifications to this document or product after the date of issue are required to be circulated and acknowledged by the authorized personnel.
+
+**12. Document History and Version Control**
+
+- **Version 1.0** – 2023-04-01 – Initial release.
+
+**13. Distribution List**
+
+- Reece
+- Salem Terrace Technical Department
+- Yaritza Godoy Augustine, Director of Procurement
+
+**14. Approval Signature**
+
+_____________________________
+Cvitko Jankovič Vivienne Glaser Grayson, Product Manager
+Date: 2023-04-01
+
+____________________________________________________________
+
+**NOTE: This document contains proprietary and sensitive information of Evr Media Spa which must not be disclosed to unauthorized persons. Access to this document is strictly limited to those listed in the distribution list. Unauthorized distribution or copying of this document is prohibited and may be punishable by law.**
+
+____________________________________________________________

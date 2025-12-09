@@ -1,0 +1,92 @@
+Financial Statement for the Fiscal Year Ending December 31, 2022
+
+Andrew Arreola Parkinson
+President and CEO
+
+15.3870438 Perley Street
+Concord, New Hampshire 03301
+United States
+Phone: (07700)900752
+Email: [jacob.britt@reynolds-owen.com](mailto:jacob.britt@reynolds-owen.com)
+
+Chandler Kale Sturgill Headley
+Chief Financial Officer
+
+Via della Querce, 13
+50145 Sondrio
+Italy
+Phone: 1-835-055-6217
+Email: [elaine.briggs@williams-martin.website](mailto:elaine.briggs@williams-martin.website)
+
+Board of Directors
+
+R BROWN
+Como
+Italy
+Phone: 1812799437
+
+Rodriguez
+Forlì-Cesena
+Italy
+
+The financial statements for the fiscal year ending December 31, 2022, are presented below. These statements have been prepared in accordance with Generally Accepted Accounting Principles (GAAP).
+
+Balance Sheet
+
+Assets:
+Cash and Cash Equivalents: $5,000,000
+Investments: $3,000,000
+Total Assets: $8,000,000
+
+Liabilities:
+Accounts Payable: $1,000,000
+Loans Payable: $2,000,000
+Total Liabilities: $3,000,000
+
+Stockholders' Equity:
+Common Stock: $5,000,000
+Retained Earnings: $0
+Total Stockholders' Equity: $5,000,000
+
+Total Liabilities and Stockholders' Equity: $8,000,000
+
+Income Statement
+
+Revenue: $6,000,000
+Cost of Goods Sold: $3,000,000
+Gross Profit: $3,000,000
+
+Operating Expenses:
+Salaries and Wages: $800,000
+Rent and Utilities: $200,000
+Marketing and Advertising: $500,000
+Total Operating Expenses: $1,500,000
+
+Operating Income: $1,500,000
+Interest Expense: $100,000
+Net Income Before Taxes: $1,400,000
+Income Tax Expense: $400,000
+Net Income: $1,000,000
+
+Statement of Cash Flows
+
+Cash Flows from Operating Activities:
+Net Income: $1,000,000
+Adjustments to Reconcile Net Income to Net Cash Provided by Operating Activities:
+Depreciation: $100,000
+Change in Accounts Receivable: $100,000
+Change in Inventories: $50,000
+Change in Accounts Payable: ($100,000)
+Change in Loans Payable: ($100,000)
+Net Cash Provided by Operating Activities: $1,050,000
+
+Cash Flows from Investing Activities:
+Purchase of Investments: ($1,000,000)
+Net Cash Used in Investing Activities: ($1,000,000)
+
+Cash Flows from Financing Activities:
+Net Cash Provided by Financing Activities: $1,000,000
+
+Net Increase (Decrease) in Cash: $100,000
+Cash at Beginning of Year: $5,000,000
+Cash at End of Year: $5,000,000

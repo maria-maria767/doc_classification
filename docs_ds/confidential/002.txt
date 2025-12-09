@@ -1,0 +1,39 @@
+MEMORANDUM
+
+TO: All Department Heads
+FROM: [CEO/Your Name]
+DATE: [Today's Date]
+SUBJECT: Updated Employee Internet Usage Policy
+
+Dear Team,
+
+As part of our ongoing commitment to maintaining a secure and productive work environment, we have updated our Employee Internet Usage Policy. The new policy takes effect immediately and includes the following key changes:
+
+1. Enhanced Security Measures:
+   - All internet traffic will now be monitored and logged for security purposes.
+   - The use of Virtual Private Networks (VPNs) without prior authorization from IT is strictly prohibited.
+
+2. Restricted Websites:
+   - Access to social media platforms during work hours is to be limited to business-related activities only.
+   - Streaming services, personal email, and other non-work-related sites are not to be used during work hours, except during breaks.
+
+3. Use of Company Equipment:
+   - The use of company-provided devices for personal activities should be minimal and non-disruptive to work duties.
+
+4. Data Protection:
+   - Employees are reminded to exercise caution when transmitting sensitive data over the internet.
+   - Use of personal cloud storage services for storing company data is prohibited without express permission from IT.
+
+Please ensure that the members of your departments are informed of these changes and understand the importance of compliance with our Internet Usage Policy. Any breaches of policy will be subject to review and could lead to disciplinary action.
+
+We appreciate your cooperation in this matter. For any questions or further clarification, please contact the IT department.
+
+Thank you for your attention to this important update.
+
+Best regards,
+
+[Your Name]
+[CEO]
+[Your Company Name]
+
+Attachments: Internet Usage Policy Document (Updated_Version.pdf)

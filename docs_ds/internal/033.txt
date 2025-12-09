@@ -1,0 +1,53 @@
+PURCHASE ORDER
+
+Date: [Current Date]
+
+PO Number: [PO-001234]
+
+Vendor Information:
+Company Name: Neat Cleaners
+Contact Person: Stacy Stein
+Address: 38 Hubertusgasse, Gemeinde Laa an der Thaya, Niederösterreich 2136
+Phone: 4318720678
+Email: a-p@vip.hr
+
+Billing Information:
+Company Name: First Administrators, Inc.
+Contact Person: O H KHAN
+Address: 46 Hollow Lane, Hempstead, 11756 New York
+Phone: 2509264626
+Email: ff10@yahoo.com
+
+Shipping Information:
+Company Name: Arizona RBI
+Contact Person: O H KHAN
+Address: Sugar River Trail, Claremont, United States of America
+Phone: +91 (076) 518 45 67
+Email: k-zitnjak@vip.hr
+
+Order Details:
+Item No. | Description | Quantity | Unit Price | Total
+001 | Office Chairs, Model X100 | 10 | $150.00 | $1,500.00
+002 | Desk Lamps, Model L-Desk | 20 | $30.00 | $600.00
+003 | Water Dispensers, Model AquaPure | 3 | $120.00 | $360.00
+
+Subtotal: $2,460.00
+Tax (8%): $196.80
+Shipping & Handling: $100.00
+Grand Total: $2,756.80
+
+Special Instructions:
+- Please ensure that all items are packaged securely to prevent damage during shipping.
+- Delivery is required by [Desired Delivery Date].
+- Contact the shipping department at Arizona RBI upon dispatch.
+
+Authorization:
+Purchaser Signatory: _________________________
+Title: Procurement Officer
+Date: ______________________________________
+
+Please confirm receipt of this purchase order and estimated delivery date by return email or phone call. Thank you for your prompt attention to this order.
+
+This document contains proprietary information intended only for internal use within the purchasing company, First Administrators, Inc. Unauthorized distribution or use of this document, or the information contained herein, is strictly prohibited.
+
+[End of Document]

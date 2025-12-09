@@ -1,0 +1,40 @@
+INVOICE
+
+Bill To:
+Filimena Tunteva
+Suffolk Street, Wanskuck, Rhode Island
+
+From:
+Nanochap electronics pty ltd.
+
+Date: 05/05/2023
+
+Invoice Number: 123456
+
+Items Quantity Unit Price Total
+----------------------------------
+
+1 500 € 500 € 2500 €
+2 250 € 250 € 625 €
+3 100 € 100 € 100 €
+Total: 3100 €
+
+Payment Terms: Net 30
+
+Payment Method: Wire transfer
+Bank Name: Bank of America
+Account Number: 1234567890
+Routing Number: 121000248
+Swift Code: BOFAUS3N
+
+Contact Person: Iskren Cabarkapa
+Email: [cabarkapa@nanochap.com](mailto:cabarkapa@nanochap.com)
+Phone: +02 21 6336-0954
+
+Please make payments to the above account and notify us once payment has been made.
+
+Thank you for your business.
+
+Sincerely,
+Filimena Tunteva
+Nanochap electronics pty ltd.

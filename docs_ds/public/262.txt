@@ -1,0 +1,56 @@
+---
+
+Purchase Order
+
+Purchase Order Number: 2023-PO-0874
+
+Date: April 15, 2023
+
+Vendor Details:
+Organization: Moana Aries Bess
+Address: 9329 State Route 116 rd., Hinesburg, Vermont
+Phone: +1 (059) 201-8343
+Email: adesilva6@pugh-bowman.net
+
+Buyer Details:
+Organization: Wade
+Address: Trailer Park, Sodus Point, New York
+Phone: 1477 50 4146
+Email: juliusrogers769@hotmail.com
+
+Ship To:
+Braelyn Roberson Moffitt
+9329 State Route 116 rd., Hinesburg, Vermont
+
+Bill To:
+Wade
+Trailer Park, Sodus Point, New York
+
+Payment Terms: Net 30
+
+Delivery Date: May 10, 2023
+
+Item No. | Description | Quantity | Unit Price | Total
+--- | --- | --- | --- | ---
+1 | Office Chairs - Model X100 | 20 | $150.00 | $3,000.00
+2 | Standing Desks - Adjustable | 10 | $350.00 | $3,500.00
+3 | Multipurpose Printers - M200 | 5 | $450.00 | $2,250.00
+4 | Workstation Laptops - LTXpro | 15 | $1,200.00 | $18,000.00
+
+Subtotal: $26,750.00
+Sales Tax (7%): $1,872.50
+Total Due: $28,622.50
+
+Authorized Signature: _______________________________
+
+Please confirm receipt of this purchase order and the expected delivery date as soon as possible.
+
+Thank you for your prompt attention to this order.
+
+---
+
+Note to Internal Staff: Please ensure that the shipment is received and inspected upon arrival, and coordinate with accounting for payment processing.
+
+For any inquiries regarding this Purchase Order, please contact our purchasing department at juliusrogers769@hotmail.com or call us at 1477 50 4146.
+
+This document is designated as PUBLIC and is accessible to all. It contains no confidential information and is intended for general release and widespread distribution.

@@ -1,0 +1,62 @@
+Financial Statement for the Fiscal Year Ending December 31, 2022
+
+Prepared by:
+
+Dimše Molerov, Chief Financial Officer
+Akira Walls, Vice President of Finance
+Ezekiel Erica Jenkinson, Director of Accounting
+Czeslaw Swiatkowski, Controller
+Milan, Accounting Manager
+
+Address:
+c/o Bynum
+Via C. Colombo, Premana, Lombardia
+Email: [j.s@dyer-combs.us](mailto:j.s@dyer-combs.us)
+Phone: 0800 20 21
+
+Organization: Emily
+
+Balance Sheet as of December 31, 2022:
+
+Assets:
+Cash and cash equivalents $1,200,000
+Accounts receivable $500,000
+Inventory $300,000
+Prepaid expenses $100,000
+Total Current Assets $2,100,000
+Property and equipment $400,000
+Total Assets $2,500,000
+
+Liabilities:
+Accounts payable $300,000
+Accrued expenses $200,000
+Total Current Liabilities $500,000
+Long-term debt $500,000
+Total Liabilities $1,000,000
+
+Stockholders' Equity:
+Common stock $1,000,000
+Retained earnings $500,000
+Total Stockholders' Equity $1,500,000
+Total Liabilities and Stockholders' Equity $2,500,000
+
+Income Statement for the Fiscal Year Ending December 31, 2022:
+
+Revenue:
+Sales $2,000,000
+Total Revenue $2,000,000
+
+Expenses:
+Cost of goods sold $800,000
+Operating expenses $400,000
+Total Expenses $1,200,000
+
+Income from operations $800,000
+Interest income $50,000
+Total Income $850,000
+
+Income before taxes $850,000
+Income tax expense $200,000
+Net income $650,000
+
+This financial statement is being made available to the public for informational purposes only. The information presented is an overview of the company's financial position and performance for the year ending December 31, 2022.

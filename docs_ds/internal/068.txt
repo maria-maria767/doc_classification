@@ -1,0 +1,54 @@
+---------------------------------------
+RESUME
+---------------------------------------
+
+Personal Information:
+Name: Paul Fowler
+Address: -74.5372657, Via per Ronco, Olginasio, Lombardia
+City: Wilson, OK
+Email: tg@stewart.site
+Phone: 1-835-055-6217
+
+Objective:
+Highly skilled IT professional with over 8 years of experience in database management and software development seeking to leverage expertise as a Senior Database Administrator at Db tuning tecnologia. Proficient in optimizing database performance, ensuring data security, and managing complex data migrations.
+
+Experience:
+Senior Database Administrator, Imstek
+Wilson, OK
+May 2017 – Present
+
+- Oversee database management for large-scale enterprise systems, ensuring optimal performance.
+- Develop and implement data recovery plans, ensuring business continuity.
+- Conduct performance tuning of database systems, reducing lag by 30%.
+- Manage user access and maintain database security.
+
+Database Administrator, Isaac Da Costa Fonds
+Wilson, OK
+June 2012 – April 2017
+
+- Administered SQL database systems, supervised backups, and implemented disaster recovery solutions.
+- Implemented security measures, successfully preventing data breaches.
+- Provided routine maintenance and troubleshooting for database-related issues.
+
+Education:
+Master of Science in Computer Science
+Wilson State University, Wilson, OK
+September 2008 – May 2012
+
+Certifications:
+- Microsoft Certified Database Administrator (MCDBA)
+- Certified Information Systems Security Professional (CISSP)
+
+Skills:
+- Database Management
+- Performance Tuning
+- Data Security and Encryption
+- SQL Server Integration Services (SSIS)
+- SQL Server Reporting Services (SSRS)
+- Disaster Recovery Planning
+
+References:
+Available upon request.
+
+---------------------------------------
+This document is intended for internal company use only. Do not share outside of the authorized channels.

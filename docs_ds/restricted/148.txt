@@ -1,0 +1,45 @@
+Project Plan: Cremona Project
+
+Project Name: Cremona Project
+Project Manager: Kire Daskalov Dimše
+
+Project Objectives:
+
+* Develop a software solution for the Cremona organization.
+* Deliver the solution within 12 months.
+* Ensure the software meets the organization's specific requirements.
+
+Scope of the Project:
+
+* The project will involve the development of a software solution for the Cremona organization.
+* The solution will be developed using the latest technologies and industry standards.
+* The solution will be designed to meet the specific requirements of the organization.
+
+Team Members:
+
+* Kire Daskalov Dimše - Project Manager
+* Bohuslav Pročaska Rosales - Lead Developer
+* Sobieslaw Hrushovsky Emmie Gutierrez Carreon - Developer
+
+Timeline:
+
+* Phase 1: requirement gathering and design (3 months)
+* Phase 2: development (6 months)
+* Phase 3: testing and deployment (3 months)
+
+Budget:
+
+* The budget for the project is $500,000.
+
+Risks and Assumptions:
+
+* The project may face risks associated with the availability of resources and the timely delivery of the solution.
+* The project assumes that the organization will provide all necessary resources for the successful completion of the project.
+
+Contact Information:
+
+* Kire Daskalov Dimše - [d-l742@yahoo.com](mailto:d-l742@yahoo.com)
+* Bohuslav Pročaska Rosales - l.f@simunic.com.hr
+* Sobieslaw Hrushovsky Emmie Gutierrez Carreon - 1291486624
+
+Only authorized personnel should access this document.

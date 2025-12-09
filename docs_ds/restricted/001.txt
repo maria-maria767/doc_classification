@@ -1,0 +1,48 @@
+MEMORANDUM
+
+To: Project Ares Team Members
+From: Jane Doe, Project Manager
+Date: April 1, 2023
+Subject: Protocol Updates for Secure Data Handling
+
+Purpose:
+The purpose of this memorandum is to outline immediate updates to our secure data handling protocols for Project Ares, effective immediately. Due to the sensitive nature of the data involved in Project Ares, we are enhancing our security measures to further safeguard our information.
+
+New Protocol Measures:
+1. Data Encryption: All digital files pertaining to Project Ares must now be encrypted using the AES-256 encryption standard. Encryption keys must be stored separately from the data files. 
+
+2. Access Control: Access to Project Ares data is now restricted to personnel on the approved access list which is managed by our security officer, John Smith. Requests for access changes must be submitted in writing to the security manager.
+
+3. Transfer of Data: Data transfer outside the company's secure intranet is prohibited unless it is encrypted and sent through approved secure file transfer protocols. All transfers must be logged and monitored.
+
+4. Paper Documents: All printed materials must be stored in a secure, locked filing cabinet when not in use. Documents must be shredded when no longer needed.
+
+5. External Communication: References to Project Ares in emails, phone calls, or other forms of communication outside the designated team are strictly forbidden without prior authorization from upper management.
+
+6. Password Updates: All account passwords associated with Project Ares must be changed immediately and subsequently on a 45-day cycle. Passwords must conform to the company's complexity standards.
+
+7. Briefings: Team members will undergo a mandatory briefing on these updates and general information handling practices on April 5, 2023, at 10:00 a.m. in Conference Room B.
+
+Non-Compliance:
+Non-compliance with these protocols may lead to disciplinary action up to and including termination, as well as potential legal consequences due to the breach of company policy and data protection laws.
+
+Acknowledgment:
+All Project Ares team members are required to acknowledge receipt and understanding of this memorandum by signing and returning the attached acknowledgment form to the Project Manager by the close of business on April 4, 2023.
+
+Conclusion:
+Our adherence to these updated secure data handling protocols is critical in maintaining the integrity and security of Project Ares. Your cooperation and strict compliance are expected and appreciated.
+
+For any questions or clarifications, please contact the Project Management Office at PMO@company.com.
+
+Attachments:
+1. Acknowledgment Form
+2. Approved Access List
+3. Procedures for Encrypting Data Files
+4. Secure File Transfer Protocol Guidelines
+5. Updated Password Policy
+
+Thank you for your immediate attention to this matter.
+
+Jane Doe
+Project Manager
+Project Ares

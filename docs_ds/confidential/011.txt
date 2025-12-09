@@ -1,0 +1,50 @@
+MEMORANDUM
+
+To: Santiago, Chief Operations Officer
+From: Miloš Gajic Clifford, Project Manager
+Date: April 13, 2023
+Subject: Implementation of New Security Protocols
+
+I. Introduction
+As part of our ongoing commitment to safeguarding our company’s sensitive information and the privacy of our clients, this memorandum outlines the newly developed security protocols. All employees are required to adhere to these guidelines with immediate effect.
+
+II. New Security Measures
+We have updated our digital security infrastructure to include the following enhancements:
+
+1. Two-Factor Authentication (2FA) for all company accounts.
+2. End-to-end encryption for internal and client communications.
+3. Regular cybersecurity training for all employees.
+4. Implementation of secure VPN access for remote work.
+
+III. Physical Security Upgrades
+The physical security at our main office, located at 6 Burwell Street, Saylesville, Rhode Island 02865, us, will also be heightened:
+
+1. Installation of biometric access control at all entry points.
+2. Introduction of visitor management system with photo-ID badges.
+3. Reinforcement of surveillance systems including the placement of new cameras in critical areas.
+
+IV. Compliance and Enforcement
+Staff must ensure strict compliance with these security measures. The Security Department, headed by Cvitko Jankovič Shaw, will conduct random checks to enforce compliance. Any breaches or non-compliance issues should be reported to the Security Department immediately.
+
+V. Training Schedule
+An initial training session on these protocols will be held on April 25, 2023, at our Mantova Office. Attendance is mandatory for all employees. Please confirm your availability with your department coordinator by April 18, 2023.
+
+VI. Contact Information
+Should you have any questions, please direct them to the IT Department:
+- Email: sara.nguyen@hansen-ortiz.site
+- Phone: (019)2018265
+
+VII. Conclusion
+It is crucial that we all understand and follow these protocols diligently to protect our company and our clients. Your cooperation and compliance are appreciated in maintaining the highest level of security.
+
+Please sign and return the attached acknowledgment form confirming that you have read and understood the contents of this memorandum.
+
+[The remainder of this document is restricted to authorised personnel only.]
+
+Thank you,
+Miloš Gajic Clifford
+Project Manager
+
+[Attachment: Acknowledgment Form]
+
+Note: This document contains confidential information and is intended solely for the use of the individuals or entities addressed. Any review, dissemination, or copying of this document or its attachments by others is strictly prohibited. If you have received this document in error, please notify the sender immediately and destroy all copies of this communication and any attachments.

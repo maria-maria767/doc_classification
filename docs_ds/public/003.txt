@@ -1,0 +1,62 @@
+---
+
+# Product Specification Document
+
+## Product Name: VisionPlus Eyewear v2.1
+
+### Manufacturer
+eyes of the world optical
+Hauptstraße
+Feldkirchen an der Donau, Österreich
+
+### General Contact
+Customer Support Email: e-o@gmail.com
+Phone: (051) 8567-7487
+
+### Product Description
+VisionPlus Eyewear v2.1 is the latest innovation from eyes of the world optical, offering our clients state-of-the-art eyewear solutions that combine style with functionality. Our product is designed for a wide demographic seeking both corrective lenses and protection from digital screen light.
+
+### Features
+- Blue light filtering technology to reduce eye strain from digital screens
+- Anti-reflective, scratch-resistant coating
+- Lightweight, durable frame material
+- Flexible arms for comfort fit
+- Prescription lens compatibility
+- UV400 protection
+- Available in multiple colors and designs
+
+### Specifications
+
+#### Dimensions
+- Lens Width: 52 mm
+- Lens Height: 40 mm
+- Bridge Width: 18 mm
+- Arm Length: 140 mm
+
+#### Weight
+- Weight (without lens): 22 g
+
+#### Material
+- Frame: Eco-friendly bio-acetate
+- Lens: Polycarbonate
+
+#### Standards Compliance
+- Meets ANSI Z80.3-2010, EN ISO 12312-1:2013, and AS/NZS 1067:2003(A1:2009) standards
+
+### Packaging Contents
+- VisionPlus Eyewear v2.1
+- Microfiber cleaning cloth
+- Protective carrying case
+- Product information booklet
+
+### Warranty
+- 24-month warranty from date of purchase against manufacturing defects
+
+### Target Distribution
+- Eyewear retailers
+- Optometry and ophthalmology clinics
+- Online eyewear stores
+
+---
+
+This document and its content are intended for public disclosure and share no sensitive, internal, confidential, or restricted information. For any inquiries regarding this product, please contact the General Contact provided above.

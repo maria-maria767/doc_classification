@@ -1,0 +1,59 @@
+PURCHASE ORDER
+
+Date: [Current Date]
+
+Purchase Order Number: 2023-PO-5748
+
+Biller Information:
+Company Name: Moana Aries Bess
+Address: State Route 116 rd, Number 9329
+City: Hinesburg
+State: Vermont
+Email: k.francic52@andrijevic.biz
+Phone: (059)2018343
+
+Ship To:
+Company Name: Braelyn Roberson Moffitt
+Address: Trailer Park, Sodus Point
+City: New York
+Email: adesilva6@pugh-bowman.net
+Phone: +55 01 9 9679-1276
+
+Order Details:
+
+| Item No. | Description                   | Quantity | Unit Price | Total Price |
+|----------|-------------------------------|----------|------------|-------------|
+| 001      | Office Chairs – Model KX12    | 15       | $89.99     | $1,349.85   |
+| 002      | Desk Lamps – Lumiolex Spectra | 20       | $45.50     | $910.00     |
+| 003      | Workstation Desks – FlexSpace | 10       | $299.99    | $2,999.90   |
+| 004      | Whiteboard Easels – WriteOn   | 5        | $119.95    | $599.75     |
+| 005      | File Cabinets – Guardian Lock | 8        | $229.00    | $1,832.00   |
+
+Subtotal: $7,691.50
+Sales Tax (6%): $461.49
+Shipping & Handling: $150.00
+Total Due: $8,302.99
+
+Payment Details:
+Please make all payments to Moana Aries Bess.
+Payment is due within 30 days of receipt of the invoice.
+Acceptable methods of payment include wire transfer and company check.
+
+Terms & Conditions:
+- All goods shall be delivered within 30 days of the order date.
+- Any discrepancies in the shipment must be reported within 5 business days of receipt.
+- Returns of defective items must be made within 15 days of delivery.
+- Moana Aries Bess reserves the right to cancel orders that do not comply with the agreed terms.
+
+Authorized Signature:
+_______________________________
+[Authorized Signatory Name]
+Title: [Title]
+Date: [Date of Authorization]
+
+For any assistance regarding this purchase order,
+please contact our purchasing department at (059)2018343 or via email at k.francic52@andrijevic.biz
+
+Thank you for your business!
+
+Please confirm receipt of this purchase order and expected delivery date via email or phone.

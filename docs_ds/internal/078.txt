@@ -1,0 +1,67 @@
+--------------------------
+**RESUME**
+--------------------------
+
+**Personal Information**
+
+Name: Panayot Karanov Veronika  
+Address: Via per Ronco, Olginasio, Lombardia  
+City: Wilson, OK  
+Email: scann@shepard-reed.com  
+Phone: +91 (076) 518 45 67  
+
+**Objective**
+
+As a dedicated professional with extensive experience in the technology sector, I aim to leverage my skills in database management and software development to contribute meaningfully to the innovative projects at Imstek.
+
+**Education**
+
+- Master of Computer Science  
+  Isaac Da Costa Fonds  
+  Graduated: June 2018
+
+**Work Experience**
+
+Db tuning tecnologia  
+Senior Database Administrator, July 2018 - Present  
+- Optimized database performance through fine-tuning and indexing strategies.  
+- Implemented comprehensive backup and disaster recovery solutions to ensure data integrity.  
+- Spearheaded the migration of databases to new hardware without disrupting services.
+
+Imstek  
+Software Developer, May 2015 - June 2018  
+- Developed and maintained internal software tools resulting in a 20% increase in workflow efficiency.  
+- Led a team of 5 developers to create a scalable web application, managing the project from conception to deployment.  
+- Implemented security protocols to protect sensitive data within company software solutions.
+
+**Skills**
+
+- Database Management  
+- Performance Tuning  
+- Disaster Recovery  
+- Web Application Development  
+- Team Leadership  
+- Data Security  
+
+**Professional Affiliations**
+
+- Member of the International Association of Database Professionals  
+- Regular attendee of the Annual Technology Innovation Conference  
+
+**Certifications**
+
+- Certified Database Administrator (CDBA)  
+- Certified Information Systems Security Professional (CISSP)
+
+**Languages**
+
+- English: Fluent  
+- Italian: Intermediate  
+
+**References**
+
+References available upon request.
+
+--------------------------
+
+Please Note: This document contains sensitive company information. Its dissemination is restricted to internal personnel only. Unauthorized sharing of this document is prohibited.

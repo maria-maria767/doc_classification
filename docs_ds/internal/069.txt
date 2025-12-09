@@ -1,0 +1,46 @@
+Invoice No: INV-4759-9034
+Date: April 12, 2023
+
+BILL TO:
+Name: Jordana Soposka Nedelčkio
+Organization: Downtown Development Association Of Lincolnton Inc
+Address: Washington Avenue, Seymour, United States of America
+Email: levi-vo788@terry.website
+Phone: (07700)900315
+
+SHIP TO:
+Name: Ludmila Sadowsky Lidka
+Organization: Cliffs car care
+Address: 27.9096697, Brescia
+Email: cmaurer424@hotmail.com
+Phone: +55 87 9 1031-9900
+
+INVOICE DETAILS:
+Item Number | Description | Quantity | Unit Price | Total
+0001 | Professional Services | 10 hours | $150.00 | $1,500.00
+0002 | Custom Development | 3 hours | $200.00 | $600.00
+0003 | Support & Maintenance | 1 month | $250.00 | $250.00
+
+Subtotal: $2,350.00
+Tax (10%): $235.00
+TOTAL: $2,585.00
+
+PAYMENT TERMS:
+Please make payment within 30 days of the invoice date. Late payments may incur further charges.
+
+PAYMENT METHODS:
+- Bank Transfer (Preferred)
+- Check
+
+Bank Details for Transfer:
+Account Name: Downtown Development Association Of Lincolnton Inc
+Bank Name: Cremona Bank and Trust
+Routing Number: 123456789
+Account Number: 987654321
+
+For inquiries regarding this invoice, please contact Ludmila Sadowsky Lidka at (07700)900315 or via email at cmaurer424@hotmail.com.
+
+Thank you for your business with us.
+
+NOTICE:
+This document contains sensitive company information intended only for the internal use within the client and service provider organizations. Unauthorized distribution, copying, or use of this document or the information contained herein is strictly prohibited and may be unlawful.

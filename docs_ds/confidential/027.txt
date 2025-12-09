@@ -1,0 +1,42 @@
+MEMORANDUM
+
+To: All Department Heads
+From: Jane Doe, Chief Operations Officer
+Date: April 1, 2023
+Subject: Implementation of New Data Encryption Policy
+
+Dear Team,
+
+As part of our ongoing commitment to protect our company’s digital assets and the privacy of our clients, we are implementing a new data encryption policy, effective immediately. This policy is mandatory for all departments and employees of our organization.
+
+Policy Overview:
+1. All sensitive data, including but not limited to customer information, employee records, and proprietary research, must be encrypted using AES-256 encryption standard.
+2. Any data transit internally or externally must also be encrypted. For internal transfers, use the secure company network drives. For external transfers, use the approved encrypted email system or secure file transfer services.
+3. All devices used for company business must have full-disk encryption enabled. This includes desktop computers, laptops, tablets, and smartphones.
+4. Employees are required to use company-provided encrypted USB drives for transporting any data outside of our secure network.
+5. It is the responsibility of each department head to ensure compliance with this policy and to conduct a monthly audit of their department’s adherence.
+
+Implementation Steps:
+1. IT department will provide training sessions on the new encryption protocols and assist with the installation of necessary software.
+2. Departmental audits will begin on May 1st and will be conducted on the first Monday of each month.
+3. Non-compliance will be addressed promptly and may result in disciplinary action, up to and including termination of employment.
+
+Exception Procedure:
+If you believe certain data or devices should be exempt from this policy, a formal request must be submitted to the IT Security Manager for review. All requests must outline the rationale for the exemption and any proposed alternative security measures.
+
+Confidentiality Notice:
+This document is intended for the named recipients only and may contain confidential and proprietary information. Unauthorized distribution, copying, or use of this document or the information contained herein is strictly prohibited.
+
+Your prompt attention to this policy is appreciated. Please ensure that your department understands and complies with these new requirements.
+
+If you have any questions regarding this policy or need further clarification, feel free to reach out to Sarah Smith, IT Security Manager, at extension 805 or via email at ssmith@ourcompany.com.
+
+Thank you for your cooperation in maintaining the security and integrity of our company’s data.
+
+Best regards,
+
+Jane Doe
+Chief Operations Officer
+Our Company Name
+
+**END OF DOCUMENT**

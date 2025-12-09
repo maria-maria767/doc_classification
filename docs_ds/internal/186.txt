@@ -1,0 +1,34 @@
+INVOICE
+
+Bill To:
+Ludmila Sadowsky Lidka Chučkov
+27.9096697,-74.5042586 Washington Avenue, Seymour, United States of America
+Cremona
+
+From:
+Jordana Soposka Nedelčkio
+levi-vo788@terry.website
++(91) 76 518 45 67
+
+Cliffs car care
+Organization: Downtown Development Association Of Lincolnton Inc
+Bill To Address: 27.9096697,-74.5042586 Washington Avenue, Seymour, United States of America
+Bill To City: Lugo
+Bill To Country: United States of America
+
+Item Quantity Unit Description Unit Price Total
+----- --------- ----------- ----------- -------
+
+1 1200.0 GBP Body repair and painting 1200.00 GBP 1200.00 GBP
+1 500.0 GBP Car wash and detailing 500.00 GBP 500.00 GBP
+
+Total 1700.00 GBP Total 1700.00 GBP
+
+Please make check payable to Jordana Soposka Nedelčkio and mail to:
+
+27.9096697,-74.5042586 Washington Avenue, Seymour, United States of America
+Cremona
+
+Lugo
+
++91 (076) 518 45 67

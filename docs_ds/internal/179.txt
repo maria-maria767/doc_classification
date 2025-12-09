@@ -1,0 +1,36 @@
+INVOICE
+
+Bill To:
+Duča Grabowsky Ljudmil
+Putikankuja, Vihti, Suomi
+
+From:
+Kire Daskalov Phillip
+9 Keplerstraße, Köln, Nordrhein-Westfalen 50823
+
+Date: April 14, 2023
+
+Invoice Number: 12345
+
+Description Qty Unit Price Total
+-------------------------------------
+
+Service 1 1 100.00 100.00
+Service 2 1 50.00 50.00
+-------------------------------------
+
+Subtotal 150.00
+Taxes 0.00
+Total 150.00
+
+Payment Terms: Net 30
+
+Contact Info:
+Email: [leilanithomas9@gmail.com](mailto:leilanithomas9@gmail.com)
+Phone: (051) 3866-0935
+
+Organization: Price decision
+
+Thank you for your business!
+
+Kire Daskalov Phillip

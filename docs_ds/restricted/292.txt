@@ -1,0 +1,38 @@
+Purchase Order
+Request for Approval
+
+Date: 2022-09-12
+
+Sensitivity Level: Restricted
+
+To: Authorized Purchasing Agent
+From: Makenzie, Procurement Specialist
+
+Subject: Purchase Order Approval Request
+
+Dear [Authorized Purchasing Agent],
+
+I am writing to request approval for the purchase of the following items:
+
+Item Name Qty Unit Price Total
+HID USB Flash Drives 25 $8.99 $224.75
+Wireless Mouse 5 $15.99 $79.95
+
+Vendor: Logitech
+Address: In der Granz, Truden im Naturpark - Trodena nel Parco Naturale, Trentino-Alto Adige/Südtirol
+Email: [sshackelford94@gmail.com](mailto:sshackelford94@gmail.com)
+Phone: +55 (12) 9 0026-7733
+
+Please review the attached purchase order and let me know if any changes or approvals are needed. I look forward to your response.
+
+Thank you.
+
+Best regards,
+
+Makenzie
+Procurement Specialist
+Vehicleservicepros.Com
+State Route 116 rd. on number 9329
+Hinesburg, Vermont state
+Email: [rr9637@young-baker.co](mailto:rr9637@young-baker.co)
+Phone: 1-835-055-6217

@@ -1,0 +1,78 @@
+Product Specification Document Number: RS-2023-1957
+
+Product Name: XTRACore Processor Chip
+
+Manufacturer: Evr Media Spa
+
+Product Reference Code: XTRACore-5824
+
+Specification Authored By: Filimena Tunteva Leylani
+
+Document Creation Date: April 10, 2023
+
+Specification Effective Date: April 15, 2023
+
+Authorized Recipients:
+1. Filimena Tunteva Leylani, Lead R&D Engineer, (Contact: tucker-goode@gonzales.info)
+2. Cvitko Jankovič Vivienne Glaser Grayson, Project Lead, (Contact: +1-838-271-3432)
+3. Reece, Quality Assurance Manager, (Contact: rr9637@young-baker.co)
+
+1. Product Overview:
+The XTRACore Processor Chip (Model XTRACore-5824) is a proprietary central processing unit designed by Evr Media Spa for high-performance computing applications. The chip features advanced microarchitecture techniques for superior data processing, encryption, and energy efficiency.
+
+2. Physical Characteristics:
+- Dimensions: 11mm x 11mm
+- Weight: 0.0032 kg
+- Terminal Finish: Organic Solderability Preservatives (OSP)
+- Packaging: 24-layer High Density Interconnect (HDI) PCB
+
+3. Electrical Specifications:
+- Core Count: 16
+- Base Clock Speed: 3.4 GHz
+- Boost Clock Speed: 4.8 GHz
+- Thermal Design Power (TDP): 95 W
+- Supply Voltage (VCC): 1.35V
+- L3 Cache: 32MB
+
+4. Operational Parameters:
+- Operating Temperature: 0°C to 85°C
+- Storage Temperature: -40°C to 125°C
+- Humidity: 5% to 95%, non-condensing
+- RoHS Compliant: Yes
+
+5. Performance Features:
+- Instruction Set Extensions: SSE4.2, AVX2, and FMA3
+- Secure Hash Algorithm extensions for advanced cryptography
+- Integrated memory controller supporting DDR4-3200 memory
+- Dynamic Overclocking Technology for workload-optimized performance
+
+6. Compatibility:
+- Socket Compatibility: FCLGA4189
+- System Motherboard: Must support XTRACore-5824 BIOS update.
+- OS Compatibility: Windows, Linux, Unix
+
+7. Quality Assurance:
+- Tested and validated under ISO 9001 Quality Management System
+- 200 hours of burn-in testing at Max TDP
+- ESD Sensitivity Level 1
+
+8. Environmental and Regulatory Compliance:
+- REACH SVHC compliant
+- CE Marking
+- WEEE Compliant
+
+9. Package Content:
+- XTRACore Processor Chip
+- Heatsink and cooling fan assembly
+- Installation Guide
+- Warranty and Support Information Packet
+
+10. Warranty
+- Standard 3-year limited warranty, subject to terms and conditions as stated in the warranty information packet.
+
+11. Ordering Information:
+- Product must be ordered via secured organizational procurement channel.
+- SKU: XTRACore-5824-RESTRICTED
+
+12. Dissemination Control:
+This document contains proprietary and business-sensitive information that is strictly restricted to authorized personnel as thoroughly listed in the 'Authorized Recipients' section. Distribution or copying of this document or the disclosed information within, unless explicitly permitted by the above-listed personnel or an authorized representative of Evr Media Spa, is strictly prohibited and may result in disciplinary action up to and including termination of employment, legal action, or other penalties. All recipients must safeguard this document against unauthorized disclosure, alteration, or destruction.

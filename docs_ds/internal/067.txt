@@ -1,0 +1,86 @@
+---
+
+**Policy and Procedure: Handling of Internal Documentation**
+
+1. Policy Statement
+
+1.1. This policy establishes the guidelines for handling, managing, and distributing documents with the sensitivity level "DIFFUSION INTERNAL" within [Organization Name, e.g., bms auto haus].
+
+1.2. The purpose is to maintain the integrity and confidentiality of internal documents while ensuring they are accessible to authorized personnel as necessary for the operation of the organization.
+
+2. Scope
+
+2.1. This policy applies to all employees, contractors, and business partners of [Organization Name] who handle internal documentation. 
+
+3. Definitions
+
+3.1. "DIFFUSION INTERNAL" refers to the sensitivity classification designated to documents meant solely for circulation within the [Organization Name] and should not be shared externally.
+
+4. Responsibilities
+
+4.1. All employees are responsible for understanding and adhering to this policy.
+
+4.2. The Information Security Officer (ISO), currently Traiko Kocpjan Elisie, is responsible for enforcement and providing guidance on the policy.
+
+5. Procedure for Handling "DIFFUSION INTERNAL" Documents
+
+5.1. Creation
+
+5.1.1. All documents marked as "DIFFUSION INTERNAL" must be created using the company’s official templates.
+
+5.1.2. Documents must be clearly marked with "DIFFUSION INTERNAL" in the header and footer.
+
+5.2. Storage
+
+5.2.1. Electronically stored documents must be saved in designated secure folders accessible only to employees with the necessary permissions.
+
+5.2.2. Physical documents are to be stored in secured filing cabinets in locked offices, with access limited to authorized personnel.
+
+5.3. Distribution
+
+5.3.1. Internal documents may be distributed via company email or the internal document management system.
+
+5.3.2. Email distribution must be limited to within [Organization Name] email domains. Emails should not be forwarded to external parties.
+
+5.4. Access
+
+5.4.1. Access to documents is restricted based on job function and the necessity-to-know principle.
+
+5.4.2. Permissions for access should be regularly reviewed and updated by the department heads.
+
+5.5. Disposal
+
+5.5.1. Documents should be disposed of securely when no longer needed, according to the data retention policy.
+
+6. Breach of Policy
+
+6.1. Any unauthorized distribution of "DIFFUSION INTERNAL" documents may result in disciplinary action up to and including termination of employment.
+
+6.2. Suspected breaches of this policy should be reported immediately to the ISO.
+
+7. Training
+
+7.1. Employees will receive training on this policy upon hire and at least annually thereafter.
+
+7.2. Refresher sessions will be provided as necessary to ensure continued understanding and compliance.
+
+8. Policy Review
+
+8.1. This policy will be reviewed annually by the ISO to adapt to any changes in legal, regulatory, or business requirements.
+
+9. Contact Information
+
+9.1. For questions or to report policy violations, please contact the Information Security Officer by email at e-o@gmail.com or by phone at 4744267886.
+
+---
+
+This policy has been approved by:
+
+James Orr Smail
+[Title, e.g., Head of Organizational Compliance]
+[Organization Name, e.g., bms auto haus]
+Date of Approval: [Insert Date]
+
+Document Control ID: [Unique Identification Number]
+Effective Date: [Insert Date]
+Next Review Date: [Insert Date one year from the Effective Date]

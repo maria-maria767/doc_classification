@@ -1,0 +1,62 @@
+Financial Statement for the Fiscal Year Ending December 31, 2022
+
+Prepared by:
+
+Bianca R BROWN
+Chief Financial Officer
+Rodriguez
+Auditor
+
+Address:
+13 Viuzzo della Querce
+Firenze Toscana 50145
+Italy
+Email: [jacob.britt@reynolds-owen.com](mailto:jacob.britt@reynolds-owen.com)
+Phone: +39 07700900752
+
+Organization: Andrew Arreola Parkinson
+
+Statement of Financial Position
+
+As at December 31, 2022
+
+| Assets | Liabilities and Equity |
+| --- | --- |
+| Cash and cash equivalents | Current liabilities |
+| Accounts receivable | Non-current liabilities |
+| Inventory | Total liabilities |
+| Property, plant and equipment | Total equity |
+| Intangible assets |  |
+| Total assets |  |
+|  |  |
+
+The total assets of the company for the year ending December 31, 2022, were $10,000,000, consisting of cash and cash equivalents of $2,000,000, accounts receivable of $3,000,000, inventory of $4,000,000, property, plant and equipment of $1,000,000, and intangible assets of $2,000,000. The total liabilities and equity of the company were $10,000,000, consisting of current liabilities of $1,000,000 and non-current liabilities of $3,000,000, and total equity of $6,000,000.
+
+Statement of Comprehensive Income
+
+For the year ending December 31, 2022
+
+| Revenue | Expenses | Net income |
+| --- | --- | --- |
+| Sales | Cost of goods sold | Gross profit |
+| General and administrative expenses | Research and development expenses | Operating income |
+| Other income (expense), net | Interest expense | Other income (expense), net |
+| Income before taxes | Income tax expense | Net income |
+|  |  |  |
+
+The company's revenue for the year ending December 31, 2022, was $10,000,000, consisting of sales of $8,000,000 and other income of $2,000,000. The cost of goods sold was $4,000,000, and general and administrative expenses were $2,000,000. The company's operating income was $2,000,000, consisting of gross profit of $4,000,000 and other income of $2,000,000, less research and development expenses of $1,000,000 and interest expense of $500,000. The company's net income was $1,500,000, consisting of operating income of $2,000,000, less other income (expense), net of $500,000 and income tax expense of $500,000.
+
+Statement of Cash Flows
+
+For the year ending December 31, 2022
+
+| Cash flows from operating activities | Cash flows from investing activities | Cash flows from financing activities |
+| --- | --- | --- |
+| Net income | Property, plant and equipment purchases | Proceeds from issuance of long-term debt |
+| Adjustments to reconcile net income to net cash provided | Intangible assets purchases | Repayment of long-term debt |
+| by operating activities | Changes in accounts receivable | Payment of dividends |
+| Changes in accounts payable | Changes in inventory |  |
+| Changes in accrued expenses | Changes in prepaid expenses |  |
+|  |  |  |
+
+The company's net c

@@ -1,0 +1,65 @@
+---
+
+**PURCHASE ORDER**
+
+Issued: April 1, 2023
+
+**Purchase Order Number:** 232-8754
+
+**Nanochap Electronics Pty Ltd.**   
+28.3564523  
+India  
+Email: as@williams-thompson.xyz  
+Phone: +55 18 93839 5749  
+
+**Vendor Information:**  
+
+**Helgeson 3D Design**  
+Premana, Via C. Colombo  
+Lombardia  
+Email: lcurtis6855@reese-warner.ly  
+Phone: 31 0020-5087  
+
+**Shipping Information:**   
+
+**AVL in Sweden**  
+PEQUOT LAKES, MN  
+Email: leo-forrest3962@mitchell-sexton.com  
+Phone: +55 (12) 9 0026-7733  
+
+---
+
+**Order Details:**
+
+| Item No. | Description                     | Quantity | Unit Price | Total Price |
+|----------|---------------------------------|----------|------------|-------------|
+| 87634    | High Precision Capacitors 100μF | 5000     | $0.50      | $2500.00    |
+| 87635    | Microprocessor Zx200            | 200      | $120.00    | $24000.00   |
+| 87636    | PCB for Model XZ-3              | 300      | $25.00     | $7500.00    |
+|          |                                 |          | **Subtotal**| **$36500.00** |
+|          |                                 |          | **Tax (8%)**| **$2920.00** |
+|          |                                 |          | **Shipping**| **$150.00**  |
+|          |                                 |          | **Total**   | **$39570.00**|
+
+---
+
+**Order Placed By:**
+H Pasiukevich  
+Procurement Officer  
+Nanochap Electronics Pty Ltd.  
+Phone: +55 18 93839 5749  
+Email: as@williams-thompson.xyz  
+
+**Special Instructions:**  
+- Ensure all components are in compliance with spec sheet 12-A.  
+- Use anti-static packaging for all electronic components.  
+- Delivery must occur no later than May 20, 2023.
+
+**Terms and Conditions:**  
+Payment to be made within 30 days upon delivery and inspection of goods received in satisfactory condition.
+
+---
+
+This document is intended for internal use only and should not be distributed outside of Nanochap Electronics Pty Ltd. without proper authorization.
+
+---

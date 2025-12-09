@@ -1,0 +1,52 @@
+---------------------------------------------------------
+INVOICE
+---------------------------------------------------------
+
+Invoice Number: 4458679
+Invoice Date: April 15, 2023
+
+BILL TO:
+-------------
+Organization: Downtown Development Association Of Lincolnton Inc
+Attn: Ludmila Sadowsky
+Address: Washington Avenue, Seymour, United States of America
+Email: bd@kurtoic.hr
+Phone: (07700)900315
+
+SHIP TO:
+-------------
+Name: Jordana Soposka Nedelčkio
+Address: 27.9096697, Brescia
+Email: cmaurer424@hotmail.com
+Phone: +55 87 9 1031-9900
+
+INVOICE DETAILS:
+------------------
+Quantity   Description             Unit Price    Amount
+1          Annual Membership Fee   $1,200.00     $1,200.00
+3          Event Sponsorship       $500.00       $1,500.00
+
+SUBTOTAL:                                                    $2,700.00
+SALES TAX (8%):                                              $216.00
+TOTAL AMOUNT DUE:                                            $2,916.00
+
+PAYMENT INSTRUCTIONS:
+----------------------------------------
+Please make all checks payable to Downtown Development Association Of Lincolnton Inc.
+
+Direct Bank Transfer:
+Bank Name: Cliffs Car Care Bank
+Account Number: 5647382910
+Routing Number: 080990112
+
+For any inquiries regarding this invoice, please contact Lidka Chučkov at levi-vo788@terry.website or call +91 (076) 518 45 67.
+
+Payment is due within 30 days of the invoice date. Late payments may result in additional charges.
+
+Thank you for your prompt attention to this invoice and for your continued support of the Downtown Development Association Of Lincolnton Inc.
+
+---------------------------------------------------------
+END OF INVOICE
+---------------------------------------------------------
+
+This document contains sensitive information intended only for the use within Downtown Development Association Of Lincolnton Inc. Unauthorized distribution or use of this document is strictly prohibited.

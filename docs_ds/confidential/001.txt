@@ -1,0 +1,56 @@
+MEMORANDUM
+
+TO: Dalia Kostadinova, Chief Technology Officer, Vbg Engineering - India
+FROM: Peggy S. Clark, Internal Auditor, Vbg Engineering - India
+DATE: April 14, 2023
+SUBJECT: Results of Internal Security Audit – Q1 2023
+
+Dear Dalia Kostadinova,
+
+Following the scheduled quarterly internal security audit, I am presenting the confidential findings and recommendations for your review and immediate action.
+
+I. Executive Summary:
+
+The audit examined the current security measures within the software development department of Vbg Engineering - India pertaining to project Titan. While the department maintains strong encryption and access control measures, several areas require attention to minimize vulnerability to data breaches and intellectual property theft.
+
+II. Areas of Concern:
+
+1. Data Encryption Standards:
+
+Although encryption is used, the audit revealed that upgrading to AES-256-bit encryption for all project-related data is pending. The current AES-128-bit encryption is not in line with the best practices for sensitive project data.
+
+2. Access Control:
+
+There is a consistent use of strong passwords; however, several team members of project Titan have access levels that exceed their project roles. This unnecessary privilege escalation poses a potential internal risk.
+
+3. Incident Response Plan:
+
+The existing Incident Response Plan lacks detailed protocols for different types of security breaches, potentially delaying the response time in case of an actual incident.
+
+III. Recommendations:
+
+1. Update the data encryption method to AES-256-bit for enhanced security protocols within the next 30 days.
+
+2. Review and adjust access controls immediately to ensure the principle of least privilege. All team members should have their access rights strictly aligned with their current responsibilities.
+
+3. Revise and expand the Incident Response Plan to include specific actions for varied scenarios. Conduct a team briefing and a walk-through simulation within the next 45 days.
+
+IV. Conclusion:
+
+Implementing these recommendations will significantly bolster our security posture. A follow-up audit is recommended upon completion of the outlined responses. Please acknowledge receipt of this memo and confirm your action plan by April 21, 2023.
+
+V. Contact Details:
+
+Internal Auditor: Peggy S. Clark
+Email: c-p@clark.biz
+Phone: (07700)900940
+
+Confidentiality Notice: This document is intended for the sole use of the individual or entity to whom it is addressed. If you are not the intended recipient, you are notified that any disclosure, copying, distribution, or taking any action in reliance on the contents of this information is strictly prohibited.
+
+Please contact the Internal Audit department with any questions regarding this memorandum.
+
+Yours sincerely,
+
+Peggy S. Clark
+Internal Auditor
+Vbg Engineering - India

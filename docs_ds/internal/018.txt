@@ -1,0 +1,41 @@
+MEMORANDUM FOR STAFF
+
+Subject: Scheduled IT Maintenance – April 15th, 2023
+
+Date: April 7th, 2023
+
+Dear Team,
+
+This memo is to inform you of the upcoming IT maintenance scheduled for Saturday, April 15th, 2023. The IT department will be conducting routine checks and updates to ensure the security and efficiency of our computer systems.
+
+1. **Maintenance Window**:
+   - Start: April 15th, 2023, at 8:00 PM.
+   - End: April 16th, 2023, at 2:00 AM.
+
+2. **Systems Affected**:
+   - Email servers
+   - Intranet portal
+   - File sharing services
+   - Remote access servers
+
+3. **Unavailable Services**:
+   During this period, the above-listed services will not be available. Please ensure that all work requiring these services is completed before the maintenance or scheduled for after the maintenance window.
+
+4. **Work In Progress**:
+   Any unsaved work in progress at the start of the maintenance window may be lost. Please save all documents and log out of all services before the maintenance begins.
+
+5. **Support Post-Maintenance**:
+   Should there be any issues or concerns following the maintenance, please contact the IT Helpdesk at extension 1010 or via email at helpdesk@[company].com.
+
+We understand the inconvenience that this may cause and appreciate your cooperation to help maintain and improve the quality of our IT infrastructure. Your understanding and support are essential to ensuring the success of this necessary maintenance work.
+
+Please note that this document is meant for internal circulation within [Your Company Name] ONLY and should not be shared with parties outside of this organization.
+
+Best regards,
+
+[Your Name]
+Director of IT Services
+[Your Company Email]
+[Your Company Phone Number]
+
+Attachment: IT Maintenance FAQs

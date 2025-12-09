@@ -1,0 +1,45 @@
+INVOICE
+
+Bill To:
+Olgica Theophanous Kelvin Crow
+28.1198117 or 8 Radnor Lane Morrisville New York 13408
+Pavia
+c.perez150@gmail.com
+2500233769
+Itab Recruitment
+
+From:
+Rostislav Perun Alfred
+Ziedoņa iela, Rīga, Vidzeme
+Forlì-Cesena
+[elaine.briggs@williams-martin.website](mailto:elaine.briggs@williams-martin.website)
+31 0020-5087
+Jon wolf photography
+
+Description Quantity Unit Price Total
+-------------------------------- ----- ----- --------
+
+Photography Services 1 1000 € 1000 €
+---------------------------------------------------------------------------
+
+Subtotal €1000.00
+Taxes €100.00
+Total €1100.00
+
+Payment Due Date: February 28, 2023
+
+Please make payment to:
+Rostislav Perun Alfred
+Ziedoņa iela, Rīga, Vidzeme
+
+Bank Name: Nordea Bank AB
+Account Number: 559099-103
+Swift Code: NDEAFIHH
+IBAN: LV34NDEA5590991030000
+
+Thank you for your business!
+
+Sincerely,
+
+Rostislav Perun Alfred
+Jon wolf photography

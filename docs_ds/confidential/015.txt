@@ -1,0 +1,53 @@
+MEMORANDUM
+
+To: Vasil Mončev Biser, Senior Project Manager
+From: Lilah, Head of Data Security
+Date: April 12, 2023
+Subject: Implementation Strategy for Sia Scania Latvia Contract
+
+Dear Vasil,
+
+As per our recent communications and following the established protocol within Inflexsys, I am outlining the proposed implementation strategy for the upcoming Sia Scania Latvia partnership. The contents of this memorandum are classified as CONFIDENTIAL and should not be shared with unauthorized individuals, either within or outside our organization.
+
+1. Project Overview:
+Sia Scania Latvia has entered into a contractual agreement with us to develop a proprietary data analytics model. The deliverable will be customized to Sia Scania Latvia’s specific requirements for supply chain optimization and forecast modeling.
+
+2. Team Composition:
+- Project Lead: Branka Prčal
+- Data Scientist: Mariyah Robbins
+- System Architect: To be appointed
+- Junior Analyst: To be recruited
+- IT Security Liaison: Elaine Briggs (elaine.briggs@williams-martin.website)
+
+3. Schedule and Milestones:
+- Kick-Off Meeting: May 2, 2023
+- System Architecture Design completion: June 15, 2023
+- First Prototype Testing: July 27, 2023
+- Security Assessment: August 11, 2023
+- Beta Release to Client: September 1, 2023
+- Project Evaluation: October 17, 2023
+
+4. Resource Allocation:
+All necessary resources, including hardware and software licensing requirements, will be procured by June 1, 2023. Estimated budget details are appended in a separate document (Attachment A – Budget Plan [CONFIDENTIAL]).
+
+5. Risk Management:
+A comprehensive risk assessment will be conducted by the IT Security team led by Elaine Briggs. Mitigation strategies will adhere to Inflexsys protocols and guidelines established for data security.
+
+6. Communication Plan:
+All communication within the project team must be routed securely through our encrypted email system. External communications with Sia Scania Latvia representatives should also be encrypted and vetted by IT Security. Primary contact will be Kailynn Whitehurst (kailynn.whitehurst@rodriguez-waller.site) with the support of Sia Scania Latvia.
+
+7. Confidentiality Measures:
+Given the sensitive nature of the project’s data analytics model, the following measures will be taken to safeguard intellectual property and proprietary information:
+- Non-Disclosure Agreements for all project team members
+- Regular security training and updates for the duration of the project
+- Secure and audited access controls to project files and repositories
+
+Please acknowledge receipt of this memorandum and confirm your understanding of the CONFIDENTIAL classification. Ensure that you store and handle this document, and all related correspondence, in accordance with our company's security policies.
+
+For any questions or further clarification, please contact me directly at +55 01 9 9679-1276. 
+
+Best regards,
+
+Lilah
+Head of Data Security
+Inflexsys

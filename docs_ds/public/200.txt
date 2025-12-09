@@ -1,0 +1,57 @@
+Product Specification Document
+
+Product Name: ClearView Smart Glasses
+
+Manufacturer: Eyes of the World Optical
+
+Model Number: CVSG2023
+
+Product Description:
+The ClearView Smart Glasses are an innovative wearable technology designed to provide users with augmented reality experiences while offering the practical functionality of traditional eyewear. Equipped with advanced AR lenses, these smart glasses allow for the projection of information and media in the user’s field of vision, hands-free connectivity, and audio communication capabilities.
+
+Key Features:
+- High-resolution display integrated into the lenses for clear and bright image projection
+- Lightweight and durable frame, designed for comfort during extended wear
+- Intuitive touchpad on the sides for easy navigation through the interface
+- Built-in microphone and bone conduction speakers for clear audio communication
+- Wi-Fi and Bluetooth connectivity to sync with a variety of devices
+- Voice control functionality for hands-free operation
+- Customizable lenses with prescription support and UV protection
+- Robust battery life supporting up to 8 hours of continuous use
+
+Technical Specifications:
+- Display: 640 x 360-pixel resolution per eye
+- Field of View: 20 degrees diagonal
+- Camera: 5 Megapixel, capable of 1080p video recording
+- Sensors: Accelerometer, gyroscope, ambient light sensor
+- Connectivity: Wi-Fi 802.11ac, Bluetooth 5.0
+- Battery: 700mAh rechargeable Li-ion
+- Storage: 16GB internal storage
+- Audio: Bone conduction transducers
+- Compatibility: Android 5.0+, iOS 10.0+, Windows 10
+- Weight: 56 grams
+
+Package Contents:
+- 1 x ClearView Smart Glasses
+- 1 x Magnetic charging cable
+- 1 x Protective hard case
+- 1 x Microfiber cleaning cloth
+- User Manual
+
+Warranty Information:
+Eyes of the World Optical offers a standard 1-year manufacturer’s warranty covering defects in materials and workmanship.
+
+Product Support Contact:
+Corey Edmundo, Product Support Manager
+Email: n.baric@klanac.biz
+Phone: (051) 8567-7487
+
+Manufacturer Contact Information:
+Eyes of the World Optical
+Address: Hauptstraße, Feldkirchen an der Donau, Österreich
+Phone: 13614898962
+Email: e-o@gmail.com
+
+Date of Publication: April 10, 2023
+
+The information contained in this document is available for public release. Please refer to this document for any inquiries or details pertaining to the ClearView Smart Glasses specifications. If further assistance is required, please contact product support using the provided contact information.

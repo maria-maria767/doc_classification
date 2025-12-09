@@ -1,0 +1,58 @@
+**Human Resources Department: Employee Onboarding Checklist**
+
+Welcome to [Company Name]! This checklist is designed to ensure a smooth onboarding process for our new team member, [Employee’s Name]. Please handle this document with care and keep it secure at all times as it contains personal information.
+
+**Employee Information:**
+- Full Name: [Employee’s Name]
+- Position: [Job Title]
+- Start Date: [Start Date]
+- Department: [Department Name]
+  
+**Prior to First Day:**
+- [ ] Offer Letter Sent (Date: [Insert Date])
+- [ ] Signed Offer Letter Received (Date: [Insert Date])
+- [ ] Background Check Initiated (Date: [Insert Date])
+- [ ] Background Check Cleared (Date: [Insert Date])
+- [ ] IT Account Creation Request Submitted (Date: [Insert Date])
+- [ ] Workstation Setup Assigned (Date: [Insert Date])
+- [ ] Employee File Created (Date: [Insert Date])
+  
+**First Day:**
+- [ ] IT Login Information Provided
+- [ ] Email Account Activated
+- [ ] Security Badge Issued
+- [ ] Employee Handbook Delivered
+- [ ] Workplace Safety Training Scheduled
+  
+**First Week:**
+- [ ] Department Orientation Completed
+- [ ] Meeting with Direct Supervisor
+- [ ] Introduction to Team Members
+- [ ] Work Process Overviews
+- [ ] Initial Training Sessions
+  
+**First Month:**
+- [ ] Performance Goals Established
+- [ ] Feedback Session with Supervisor
+- [ ] Company Policy Review Session
+- [ ] Benefits Enrollment Completed
+- [ ] Payroll Information Verified
+
+**HR Follow-up:**
+- [ ] 30-Day Check-In Scheduled (Date: [Insert Date])
+- [ ] 90-Day Performance Review Scheduled (Date: [Insert Date])
+
+By following this checklist, we can ensure that [Employee’s Name] feels welcomed, informed, and prepared for their new role within [Company Name]. Please ensure that all steps are completed in full and recorded in the employee's personnel file.
+
+**Additional Notes:**
+- Any issues or delays in the above processes should be reported to HR immediately.
+- Personal data obtained during the onboarding process must be handled in accordance with our Privacy Policy and relevant data protection regulations.
+
+Prepared by: [HR Representative Name]
+Date: [Insert Date]
+
+Please acknowledge receipt and understanding of this confidential onboarding checklist by signing below:
+
+HR Representative Signature: ______________________ Date: _________
+
+Manager's Signature: ______________________ Date: _________

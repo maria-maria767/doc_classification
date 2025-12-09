@@ -1,0 +1,43 @@
+Invoice Number: 001-2023
+Invoice Date: April 6, 2023
+Due Date: April 20, 2023
+
+Biller: Braelyn Roberson Moffitt
+17 Rue Watteeu - Watteeustraat
+Bruxelles / Brussel
+Région de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest 1000
+Email: lmartinovic7@yahoo.com
+Phone: 4522042052
+
+Bill To: Georgios Gjurićik Daniel
+46 Hollow Lane
+Hempstead, 11756 New York
+
+Description of Services: Consulting services rendered as per agreement dated March 1, 2023, including market analysis and strategic development plan.
+
+Hours: 30
+Rate: $200 per hour
+Amount: $6,000
+
+Subtotal: $6,000
+Sales Tax (8.875%): $532.50
+Total Due: $6,532.50
+
+Payment Instructions: Please make all checks payable to Braelyn Roberson Moffitt. Payment is due within fourteen (14) days from the date of the invoice. Late payments may incur additional charges.
+
+Bank Details:
+Account Name: Braelyn Roberson Moffitt
+Bank: Sutton Bank
+Account No.: XXXXXXXX1234
+Routing No.: XXXXXXXX9876
+
+For any inquiries regarding this invoice, please contact:
+Lena Martinović
+Email: lmartinovic7@yahoo.com
+Phone: 4522042052
+
+Thank you for your business!
+
+---- End of Document ----
+
+Note: Please keep this document secure as it contains confidential information. Unauthorized disclosure or distribution is strictly prohibited.

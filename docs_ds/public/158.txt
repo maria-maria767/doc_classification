@@ -1,0 +1,29 @@
+Company Document: Service Level Agreement (SLA)
+
+This Service Level Agreement (SLA) sets out the terms and conditions that apply to the provision of services by our company (hereinafter "Provider") to our clients (hereinafter "Client"). The goal of this SLA is to establish a clear understanding of the services that the Provider will provide to the Client and the terms and conditions that govern these services. The SLA is a binding legal agreement between the Provider and the Client, and it should be read carefully before accepting it.
+
+1. Services
+The Provider will provide the following services to the Client:
+
+1.1. Hosting services
+The Provider will provide hosting services to the Client, including the provision of server space, network connectivity, and power. The Provider will ensure that the server is available 99% of the time, excluding scheduled maintenance periods.
+
+1.2. Technical support
+The Provider will provide technical support to the Client, including assistance with software and hardware issues. Technical support will be available via email and phone during business hours.
+
+2. Payment
+The Client will pay the Provider a monthly fee for the hosting services and technical support. The payment will be due on the first day of each month.
+
+3. Term and Termination
+This SLA will commence on the date of acceptance by the Client and will continue until terminated by either party. Either party may terminate this SLA by providing 30 days' written notice. Upon termination, the Client will receive a pro rata refund for any prepaid fees.
+
+4. Confidentiality
+The Provider will treat all information provided by the Client as confidential and will not disclose this information to any third party without the prior written consent of the Client.
+
+5. Limitation of Liability
+The Provider will not be liable for any indirect, consequential, special, or incidental damages arising out of or in connection with this SLA. The Provider's liability under this SLA will be limited to the amount paid by the Client under this SLA in the preceding twelve-month period.
+
+6. Governing Law
+This SLA will be governed by and construed in accordance with the laws of the jurisdiction in which the Provider is incorporated.
+
+By accepting this SLA, the Client acknowledges that it has read and understood the terms and conditions of this SLA and agrees to be bound by them. If the Client does not agree to the terms and conditions of this SLA, it should not accept it and should immediately contact the Provider.

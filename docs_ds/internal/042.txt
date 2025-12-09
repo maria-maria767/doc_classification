@@ -1,0 +1,47 @@
+PURCHASE ORDER
+
+Purchase Order Number: PO-2023-DI-48653
+Date: April 5, 2023
+
+Vendor Information:
+Nanochap Electronics Pty Ltd.
+Via C. Colombo,
+Premana, Lombardia
+Email: as@williams-thompson.xyz
+Phone: +55 18 93839 5749
+
+Billing Address:
+Helgeson 3D Design
+28.3564523
+PEQUOT LAKES, MN
+Email: lcurtis6855@reese-warner.ly
+Phone: 31 0020-5087
+
+Shipping Address:
+AVL in Sweden
+-75.170016
+NEWPORT, NC
+Email: leo-forrest3962@mitchell-sexton.com
+Phone: +55 (12) 9 0026-7733
+
+Order Details:
+Item No.   Description                   Quantity   Unit Price   Total
+001        3D Printer Extruder Model X   2          $550         $1100
+002        Precision Lathe Tool Set      1          $899         $899
+003        Soldering Station ZX-3000     4          $120         $480
+
+Subtotal:                                             $2479
+Tax (8.5%):                                                           $210.715
+Shipping:                                                            Incl.
+Total Amount Due:                                            $2689.715
+
+Payment Terms: Net 30 days upon receipt of the invoice.
+
+Authorized Signature:
+H Pasiukevich
+Procurement Manager
+Helgeson 3D Design
+
+Please direct all inquiries to H Pasiukevich using the contact information provided above. This purchase order is intended solely for the use of the parties involved and should be kept confidential. Unauthorized distribution of this document is prohibited.
+
+Thank you for your business.

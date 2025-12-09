@@ -1,0 +1,55 @@
+Contract Agreement
+
+This Contract Agreement ("Agreement") is entered into on [Date] (the "Effective Date") by and between Kestrel Technologies, a company organized and existing under the laws of the United States of America, with its principal place of business located at Bayonne Avenue, Warwick, United States of America (hereinafter referred to as "Kestrel"), and Nathalie Krieger, an individual residing at [Address], [City], [Country] (hereinafter referred to as "Contractor").
+
+WHEREAS, Kestrel desires to engage Contractor to perform certain services related to [Description of Services]; and
+
+WHEREAS, Contractor desires to accept such engagement and perform the services in accordance with the terms and conditions set forth herein.
+
+NOW, THEREFORE, in consideration of the mutual promises, covenants, and conditions contained herein, and for other good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, the parties agree as follows:
+
+1. Services. Contractor shall provide [Description of Services] to Kestrel in accordance with the terms and conditions set forth herein.
+2. Term. The term of this Agreement shall commence on the Effective Date and shall continue until [Term End Date], unless earlier terminated in accordance with the provisions of this Agreement.
+3. Compensation. Kestrel shall pay Contractor [Amount] for the services rendered under this Agreement. Payment shall be made on [Payment Schedule].
+4. Confidentiality. Contractor acknowledges that Kestrel may provide Confidential Information during the course of performing the services under this Agreement. Contractor agrees to maintain the confidentiality of such Confidential Information and to use it solely for the purpose of performing the services under this Agreement. Contractor further agrees to return or destroy all Confidential Information upon the termination of this Agreement.
+5. Representations and Warranties. Contractor represents and warrants that (a) it has the right and authority to enter into this Agreement, (b) the performance of its obligations under this Agreement will not violate any other agreement to which it is a party, and (c) it will perform its obligations under this Agreement in a timely and professional manner.
+6. Termination. This Agreement may be terminated by either party upon [Notice Period] written notice to the other party. Upon termination, Contractor shall return all Confidential Information to Kestrel or destroy it, as directed by Kestrel.
+7. Governing Law. This Agreement shall be governed by and construed in accordance with the laws of the United States of America.
+8. Entire Agreement. This Agreement constitutes the entire agreement between the parties with respect to the subject matter hereof and supersedes all prior or contemporaneous agreements, representations, and warranties, whether oral or written.
+9. Amendments. This Agreement may not be amended or modified except in writing signed by both parties.
+
+IN WITNESS WHEREOF, the parties have executed this Agreement as of the Effective Date.
+
+Kestrel Technologies
+
+By: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+Name: Svyatoslav Zasarov Adelle
+
+Title: [Title]
+
+Address: [Address]
+
+City, State, Zip Code: [City], [State], [Zip Code]
+
+Phone: (051) 2855-8330
+
+Email: [Email]
+
+Contractor
+
+By: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+Name: Nathalie Krieger
+
+Title: [Title]
+
+Address: [Address]
+
+City, State, Zip Code: [City], [State], [Zip Code]
+
+Phone: [Phone Number]
+
+Email: [Email]
+
+Contractor represents and warrants that it has the right and authority to enter into this Agreement, and that the performance of its obligations under this Agreement will not violate any other agreement to which it is a party. Contractor further represents and warrants that it will perform its obligations under this

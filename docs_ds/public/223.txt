@@ -1,0 +1,35 @@
+Company Document: Service Level Agreement (SLA)
+
+This Service Level Agreement (SLA) sets out the terms and conditions that apply to the provision of services by Alia Wheat to its customers. The SLA outlines the responsibilities of both parties, the services provided, and the expected level of service.
+
+1. Services Provided
+Alia Wheat will provide the following services to its customers:
+* Hosting service
+* Technical support
+* Database management
+* Backup and recovery service
+2. Responsibilities of Alia Wheat
+Alia Wheat will be responsible for the following:
+* Providing a stable and secure hosting environment
+* Providing technical support to customers
+* Managing customer databases
+* Providing backup and recovery services
+3. Responsibilities of Customers
+Customers will be responsible for the following:
+* Ensuring that all data provided to Alia Wheat is accurate and up-to-date
+* Maintaining their own hardware and software
+* Ensuring that their systems are secure and up-to-date with the latest security patches
+4. Service Levels
+Alia Wheat will provide the following service levels:
+* 99.9% uptime guarantee for the hosting service
+* Technical support available 24/7/365
+* Response time of 4 hours for database management and backup and recovery services
+5. Termination
+Either party may terminate this SLA by providing 30 days' written notice to the other party.
+
+Signed,
+Zlata Okiljivic Duffy
+CEO, Alia Wheat
+Date: April 11, 2023
+
+Please distribute this document to any interested parties.

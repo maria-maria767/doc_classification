@@ -1,0 +1,58 @@
+CONTRACT AGREEMENT
+
+This Contract Agreement (hereinafter referred to as the "Agreement") made and entered into this Day ____ of Month ____, 20XX (the "Effective Date"), by and between:
+
+Prudhomme y cia srl,
+a company organized and existing under the laws of Spain, with its principal place of business located at 10 Marble Road, Spencer, Massachusetts 01562 (hereinafter referred to as "Client");
+
+and
+
+Avom Consultants,
+a professional consultancy firm organized and existing under the laws of New Zealand, with its principal place of business located at 28.0294218, -75.170016, Morgan City, LA (hereinafter referred to as "Service Provider");
+
+(hereinafter individually referred to as "Party" or collectively as the "Parties").
+
+WHEREAS, the Client desires to obtain certain services from the Service Provider, and the Service Provider agrees to deliver such services under the terms and conditions set forth in this Agreement.
+
+NOW, THEREFORE, in consideration of the mutual covenants and agreements contained herein, the receipt and sufficiency of which are hereby acknowledged, the Parties agree as follows:
+
+I. SCOPE OF SERVICES
+The Service Provider shall provide the Client with the following services (the "Services"): [Insert description of services to be provided]
+
+II. TERM OF AGREEMENT
+The term of this Agreement shall commence on the Effective Date and shall continue in force until terminated by either Party in accordance with the termination provisions as stated herein.
+
+III. COMPENSATION
+In consideration of the Services to be performed by the Service Provider, the Client agrees to pay the Service Provider a total fee of [Insert fee amount]. Payment terms are as follows: [Insert payment terms].
+
+IV. CONFIDENTIALITY
+A. Each Party acknowledges that in connection with this Agreement it may receive certain confidential or proprietary technical and business information and materials of the other Party. Each Party, its agents, and employees shall hold and maintain in strict confidence all confidential information, shall not disclose confidential information to any third party, and shall not use any confidential information except as may be necessary to perform its obligations under this Agreement, except as may be required by a court or governmental authority. No copies will be made or retained of any written information or prototypes supplied without the permission of the other Party.
+
+B. This Section shall survive the termination of this Agreement.
+
+V. RESTRICTIONS
+The contents of this document are subject to the ‘RESTRICTED’ level of sensitivity and should be disclosed only to individuals within the Parties’ organizations who have a justified need to access such information in relation to the fulfilment of the Agreement and who are bound by similar confidentiality obligations.
+
+VI. GOVERNING LAW
+This Agreement shall be governed by and construed in accordance with the laws of the State of Louisiana, without regard to its conflict of laws provisions.
+
+VII. SIGNATURES
+IN WITNESS WHEREOF, the Parties hereto, intending to be legally bound, have executed this Agreement as of the Day and Year first above written.
+
+PRUDHOMME Y CIA SRL
+
+Signature: ___________________________
+
+Name: Iskren Rayko Cabarkapa
+Title: [Title]
+Date: _______________________________
+
+AVOM CONSULTANTS
+
+Signature: ___________________________
+
+Name: Ziva Mićalkova
+Title: [Title]
+Date: _______________________________
+
+This document is restricted and contains proprietary information. Unauthorized disclosure, copying or use of any part of this document is strictly prohibited and may be unlawful.

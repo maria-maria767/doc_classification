@@ -1,0 +1,26 @@
+Subject: Sensitive Information Sharing Guidelines
+
+Dear Employees,
+
+As part of our efforts to maintain the highest level of data security and confidentiality, it is important to clarify the guidelines for sharing sensitive information within our organization. This document outlines the different levels of data sensitivity and the appropriate sharing channels for each level.
+
+1. Internal Documents: These are documents that can be shared within the organization. Examples include daily reports, internal memos, and departmental meeting minutes. They should be kept within the company and accessed only by employees with a legitimate need to know.
+2. Restricted Documents: These documents should be shared only with a limited number of people within the organization. They contain confidential information that, if disclosed to unauthorized individuals, could cause significant harm to the company or individuals. Examples include customer lists, proprietary research, and financial reports. Access to these documents should be closely monitored and granted on a need-to-know basis.
+3. Public Documents: These are documents that can be shared with anyone, either within or outside the organization. They do not contain confidential information, and their disclosure does not present a risk to the company or individuals. Examples include newsletters, press releases, and marketing materials.
+
+In order to protect sensitive information, it is important to follow these guidelines when sharing documents:
+
+* Use appropriate file names and labels that do not reveal confidential information.
+* Limit access to restricted and confidential documents to authorized personnel only.
+* Do not share documents via unsecured email or messaging platforms.
+* Encrypt confidential documents when storing or transferring them electronically.
+* Dispose of physical (paper) documents securely when no longer needed.
+
+Violations of these guidelines may result in disciplinary action, up to and including termination of employment.
+
+If you have any questions or concerns about sharing sensitive information, please contact your supervisor or the Information Security Officer.
+
+Sincerely,
+
+[Your Name]
+Information Security Officer

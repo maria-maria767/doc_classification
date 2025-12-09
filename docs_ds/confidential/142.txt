@@ -1,0 +1,30 @@
+ contract agreement
+
+This Contract Agreement (the "Agreement") is entered into on \_\_\_\_\_\_\_\_\_\_\_ (date) by and between Argir Dajo Trendafil, with residence at \_\_\_\_\_\_\_\_\_\_\_ (address), with tax identification number \_\_\_\_\_\_\_\_\_\_\_ (tax ID number), hereinafter referred to as the "Supplier", and Olga Jankovič Vlado, with residence at \_\_\_\_\_\_\_\_\_\_\_ (address), with tax identification number \_\_\_\_\_\_\_\_\_\_\_ (tax ID number), hereinafter referred to as the "Client".
+
+WHEREAS, the Supplier is engaged in the business of providing goods and services, and the Client desires to engage the Supplier to provide certain goods and services as defined herein;
+
+NOW, THEREFORE, in consideration of the mutual promises and covenants contained herein, the parties agree as follows:
+
+1. Services. The Supplier shall provide the following services to the Client: \_\_\_\_\_\_\_\_\_\_\_ (description of services).
+2. Payment. The Client shall pay the Supplier the sum of \_\_\_\_\_\_\_\_\_\_\_ (amount) for the services provided. Payment shall be due upon receipt of invoice.
+3. Term. The term of this Agreement shall be \_\_\_\_\_\_\_\_\_\_\_ (length of agreement) commencing on \_\_\_\_\_\_\_\_\_\_\_ (start date) and ending on \_\_\_\_\_\_\_\_\_\_\_ (end date).
+4. Confidentiality. The parties agree to keep confidential all information and materials disclosed to the other party in connection with this Agreement, and shall not disclose such information to any third party without the prior written consent of the other party.
+5. Governing Law. This Agreement shall be governed by and construed in accordance with the laws of \_\_\_\_\_\_\_\_\_\_\_ (country/state).
+6. Dispute Resolution. Any dispute arising out of or in connection with this Agreement shall be resolved by \_\_\_\_\_\_\_\_\_\_\_ (method of dispute resolution), in accordance with the laws of \_\_\_\_\_\_\_\_\_\_\_ (country/state).
+7. Entire Agreement. This Agreement constitutes the entire agreement between the parties and supersedes all prior negotiations, understandings, and agreements between the parties.
+8. Amendments. This Agreement may not be amended except in writing signed by both parties.
+9. Assignment. Neither party may assign its rights or obligations under this Agreement without the prior written consent of the other party.
+10. Counterparts. This Agreement may be executed in multiple counterparts, each of which shall be deemed an original, but all of which together shall constitute one and the same instrument.
+
+IN WITNESS WHEREOF, the parties have executed this Agreement as of the date first above written.
+
+---
+
+Argir Dajo Trendafil Olga Jankovič Vlado
+Supplier Supplier
+
+---
+
+Kirce Dzherov Richard (signature) (signature)
+Client Client

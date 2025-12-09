@@ -1,0 +1,62 @@
+CONTRACT AGREEMENT
+
+This Contract Agreement (the "Agreement") is made and entered into as of the last date signed below (the "Effective Date") by and between:
+
+Kestrel Technologies, a company incorporated under the laws of the state of Warwick, with its principal place of business located at Bayonne Avenue, Warwick, United States of America (hereinafter referred to as "Client"),
+
+AND
+
+Thelma Adelle, Svyatoslav Zasarov, and Nathalie Krieger (jointly referred to as "Consultants"), each an individual consultant with email contacts darkoveckovic1@semialjac.org, s-snyder1@carey-hernandez.website, and nevaeh.nelson@munoz.store respectively, and phone contacts (051) 2855-8330, +55 18 93839 5749, and 4280 83 6131, operating independently and having a common collective undertaking for the purposes of this Agreement.
+
+WHEREAS, Client is desirous of obtaining certain services from the Consultants, and the Consultants are willing to provide such services under the terms and conditions set forth herein.
+
+NOW, THEREFORE, in consideration of the mutual promises, covenants, and agreements contained herein, the parties agree as follows:
+
+1. SCOPE OF SERVICES
+The Consultants agree to provide professional services, including but not limited to technology consulting, project management, and systems integration ("Services") as per the specifications outlined in Exhibit A attached hereto.
+
+2. COMPENSATION
+The Client agrees to compensate the Consultants for the Services rendered according to the payment terms and schedule specified in Exhibit B attached hereto.
+
+3. TERM OF AGREEMENT
+This Agreement shall commence on the Effective Date and shall continue in full force and effect until the completion of the Services, unless terminated earlier in accordance with the provisions of this Agreement.
+
+4. CONFIDENTIALITY
+Both parties acknowledge that during the course of this Agreement, they may have access to confidential and proprietary information. Each party agrees not to disclose such information without the prior written consent of the other party.
+
+5. INDEMNIFICATION
+Each party agrees to indemnify and hold harmless the other party from any and all claims, damages, liabilities, and expenses arising from any breach of this Agreement by the indemnifying party.
+
+6. GOVERNING LAW
+This Agreement shall be governed by and construed in accordance with the laws of the state of Warwick, United States of America.
+
+IN WITNESS WHEREOF, the parties hereto have executed this Contract Agreement as of the day and year first above written.
+
+CLIENT:
+Kestrel Technologies
+By: ___________________________
+Name: ________________________
+Title: _________________________
+Date: _________________________
+
+CONSULTANTS:
+Thelma Adelle
+Signature: _____________________
+Date: _________________________
+
+Svyatoslav Zasarov
+Signature: _____________________
+Date: _________________________
+
+Nathalie Krieger
+Signature: _____________________
+Date: _________________________
+
+Exhibit A: [DESCRIPTION OF SERVICES]
+Exhibit B: [COMPENSATION AND PAYMENT SCHEDULE]
+
+(The specific exhibits, including detailed descriptions of the services and payment terms, are not provided here but would be attached to the actual contract document.)
+
+(End of Contract)
+
+Note: The term “DIFFUSION INTERNAL” at the beginning of this document indicates this contract is intended for internal dissemination within the organization and should not be shared externally without proper authorization.

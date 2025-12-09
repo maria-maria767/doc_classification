@@ -1,0 +1,57 @@
+---
+
+Company Memorandum
+
+To: Board of Directors
+CC: Head of Security, Legal Department
+From: Sobieslaw Hrushovsky, Chief Operations Officer
+Date: 2023-04-10
+Subject: Update on Cybersecurity Measures Post-Q1
+
+---
+
+The purpose of this restricted memo is to provide an update on the progress of our cybersecurity measures implemented during the first quarter and to outline the steps planned for Q2. This content is for internal review only and must not be disseminated beyond the intended recipients without express authorization from the Chief Operations Officer.
+
+1. Executive Summary:
+
+In the first quarter, our cybersecurity team, in collaboration with Inflexsys, has successfully upgraded firewall systems and reinforced end-user education. However, this report identified potential vulnerabilities in remote access protocols that require immediate attention. Recommendations for Q2 include the implementation of multi-factor authentication for remote login processes and a comprehensive audit of our current intrusion detection systems.
+
+2. Achievements in Q1:
+
+- Completed the rollout of updated firewall software that includes artificial intelligence (AI) threat detection.
+- Conducted three (3) company-wide cybersecurity training sessions.
+- Established robust incident response protocols.
+- Engaged Inflexsys for an external security audit which resulted in a 15% improvement in our security posture.
+
+3. Identified Threats and Vulnerabilities:
+
+- Our review identified that remote access still represents a significant vulnerability, particularly as it pertains to phishing attacks and credential compromise.
+- Analysis shows increased attempts of unauthorized access from regions where our company has no operations, signifying potential targeted attacks.
+
+4. Recommended Actions for Q2:
+
+- Implement multi-factor authentication (MFA) for all remote access points to reduce the risk of unauthorized entry.
+- Conduct a comprehensive review of the intrusion detection systems with a proposal for advanced integration due by 2023-05-15.
+- Commission an in-depth penetration test from a reputable external provider such as 杭州Q房网房产 or Jacky 金融学习生.
+- Schedule additional staff trainings with a focus on recognizing and reporting social engineering attempts.
+
+5. Request for Approvals:
+
+- Authorization for additional budget allocation to cover the costs of MFA implementation and the external penetration test.
+- Approval to initiate the hire of two (2) additional security specialists to the cybersecurity team to oversee the new measures.
+
+6. Contact for Queries:
+
+For any concerns or questions related to this memorandum or the next steps, please reach out to Sanja Matosic, Head of Cybersecurity directly at sanja.matosic5@zagreb.hr or via office phone at 56-85627.182.
+
+---
+
+This document contains sensitive operational information. Handling and distribution of this document should strictly adhere to the company's policy on RESTRICTED information. Failure to comply with these instructions may result in disciplinary action and possible legal consequences. 
+
+For acknowledgement of receipt and agreement to the terms outlined within this document, recipients are required to respond with a confirmation email to the sender within 24 hours of receipt.
+
+Document Control: #CYB-2023-Q2-RST
+
+--- 
+End of Document
+---

@@ -1,0 +1,24 @@
+Purchase Order
+
+Betreff: Order for 1000 microchips
+
+Dear H PASIUKEVICH,
+
+This is a purchase order for 1000 microchips from Nanochap electronics pty ltd. The order is for the following specifications:
+
+* 1000 x microchips with 14nm process
+* Delivery date: May 15, 2023
+* Payment terms: Net 30
+
+Please confirm the details and provide a quote for this order. We require a fast delivery as we have an urgent project that needs these microchips.
+
+If you have any questions or concerns, please do not hesitate to contact me.
+
+Best regards,
+
+Andersen
+
+Nanochap electronics pty ltd.
+
+Phone: +55 18 93839 5749
+Email: [as@williams-thompson.xyz](mailto:as@williams-thompson.xyz)

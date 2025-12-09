@@ -1,0 +1,37 @@
+INVOICE
+
+Bill To:
+Filimena Tunteva
+Suffolk Street, Wanskuck, Rhode Island
+
+From:
+Nanochap electronics pty ltd.
+
+Date: 05/15/2023
+
+Invoice Number: 123456
+
+Items Quantity Unit Price Total
+-------------------------------------
+
+1 500.00 500.00
+2 300.00 600.00
+3 750.00 1,875.00
+
+Subtotal 1,450.00 3,425.00
+Taxes 82.50 165.00
+Total 1,532.50 3,590.00
+
+Payment Due: 06/15/2023
+
+Payment Terms: Net 30
+
+Contact:
+Iskren Cabarkapa
+Chaussée de Ninove - Ninoofsesteenweg, Molenbeek-Saint-Jean - Sint-Jans-Molenbeek, België - Belgique - Belgien
+Email: [leoconrad7@davis-moses.ly](mailto:leoconrad7@davis-moses.ly)
+Phone: 4718870537
+
+Thank you for your business!
+
+Nanochap electronics pty ltd.

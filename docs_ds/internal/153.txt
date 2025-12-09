@@ -1,0 +1,98 @@
+Purchase Order
+
+Bought From: First Administrators, Inc.
+
+Address: 1255 Sugar River Trail
+City: Claremont
+State: United States of America
+Postal Code: 53125
+Phone: +1-4318720678
+Email: [stacy@firstadministrators.com](mailto:stacy@firstadministrators.com)
+
+Bought From: First Administrators, Inc.
+
+Address: 1255 Sugar River Trail
+City: Claremont
+State: United States of America
+Postal Code: 53125
+Phone: +1-4318720678
+Email: [stacy@firstadministrators.com](mailto:stacy@firstadministrators.com)
+
+Date: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+Invoice #: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+Description Qty Unit Price Total
+----------------------------------
+
+1 Desk Chair 10 $250.00 $2,500.00
+2 Office Desk 5 $500.00 $2,500.00
+3 Filing Cabinet 3 $300.00 $900.00
+======================================
+
+Subtotal: $6,400.00
+Sales Tax: $362.40
+Total: $6,762.40
+
+Payment Terms: Net 30
+
+Shipping Address:
+Address: 46 Hollow Lane
+City: Hempstead
+State: New York
+Postal Code: 11756
+
+Contact Person: Alex Stein
+Phone: 2509264626
+Email: [a-p@vip.hr](mailto:a-p@vip.hr)
+
+Please process this order as soon as possible and send us a confirmation once it has been shipped.
+
+Thank you for your business.
+
+Sincerely,
+Stacy O'H. Khan
+Purchase Manager
+First Administrators, Inc.
+[k-zitnjak@vip.hr](mailto:k-zitnjak@vip.hr)
+
+Purchase Order
+
+Bought From: First Administrators, Inc.
+
+Address: 1255 Sugar River Trail
+City: Claremont
+State: United States of America
+Postal Code: 53125
+Phone: +1-4318720678
+Email: [stacy@firstadministrators.com](mailto:stacy@firstadministrators.com)
+
+Bought From: First Administrators, Inc.
+
+Address: 1255 Sugar River Trail
+City: Claremont
+State: United States of America
+Postal Code: 53125
+Phone: +1-4318720678
+Email: [stacy@firstadministrators.com](mailto:stacy@firstadministrators.com)
+
+Date: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+Invoice #: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+Description Qty Unit Price Total
+----------------------------------
+
+1 Desk Chair 10 $250.00 $2,500.00
+2 Office Desk 5 $500.00 $2,500.00
+3 Filing Cabinet 3 $300.00 $900.00
+======================================
+
+Subtotal: $6,400.00
+Sales Tax: $362.40
+Total: $6,762.40
+
+Payment Terms: Net 30
+
+Shipping Address:
+Address: 38 Hubertusgasse
+City: Laa an der Thaya
+State: Nieder

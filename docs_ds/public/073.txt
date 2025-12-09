@@ -1,0 +1,58 @@
+P U R C H A S E   O R D E R
+
+PO Number: 2023-9345
+
+Date: April 14, 2023
+
+VENDOR
+Name: Moana Aries Bess
+Address: State Route 116 Rd., No. 9329
+City: Hinesburg, State: Vermont
+Email: adesilva6@pugh-bowman.net
+Phone: (059)2018343
+
+BILL TO
+Name: Braelyn Roberson Moffitt
+Address: Trailer Park, Sodus Point
+City: New York
+Email: k.francic52@andrijevic.biz
+Phone: +55 01 9 9679-1276
+
+SHIP TO
+Name: Kiril Garvanov Sinisa
+Address: -74.5647012
+City: Oilton, State: Oklahoma
+Email: juliusrogers769@hotmail.com
+Phone: 1477 50 4146
+
+PURCHASE ORDER DETAILS:
+
+Item Number | Description                                  | Quantity | Unit Price | Total
+-------------|----------------------------------------------|----------|------------|-------
+0001         | Office Chairs – Model XF123                 | 10       | $150.00    | $1,500.00
+0002         | Workstation Desks – Adjustable Height       | 5        | $350.00    | $1,750.00
+0003         | Conference Table – Wood Finish, 12ft Length | 1        | $1,200.00  | $1,200.00
+0004         | Ergonomic Keyboard – Wireless               | 15       | $75.00     | $1,125.00
+-------------|----------------------------------------------|----------|------------|-------
+                                                         SUBTOTAL:    $5,575.00
+                                                         SHIPPING:    $150.00
+                                                         SALES TAX:   $390.50
+                                                         TOTAL:       $6,115.50
+
+TERMS & CONDITIONS:
+- Payment terms: Net 30 days from receipt of invoice.
+- Delivery Date: No later than May 15, 2023.
+- All products must meet the specifications and requirements as stated in the purchase order.
+- Any discrepancies in the shipment must be reported within five business days of receipt.
+- The seller guarantees the items will be free from defects in material and workmanship.
+
+AUTHORIZED BY:
+Name: Olgica Theophanous Djokotoe
+Title: Procurement Manager
+Organization: Wade
+Date: April 14, 2023
+
+This purchase order is a legally binding contract upon acceptance by the vendor.
+
+Signature: _____________________
+Date of Vendor's Acceptance: _____________________

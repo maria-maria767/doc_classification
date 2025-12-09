@@ -1,0 +1,48 @@
+Purchase Order
+
+Betreff: Order for 1000 widgets
+
+Von: H PASIUKEVICH
+
+Adresse: Nanochap electronics pty ltd.
+
+Adresse postale: Via C. Colombo, Premana, Lombardia
+
+Adresse e-mail: [as@williams-thompson.xyz](mailto:as@williams-thompson.xyz)
+
+Adresse telephonique: +55 18 93839 5749
+
+Anrede: Andersen
+
+Zhinzifova
+
+Straße: 28.3564523
+
+Ort: India
+
+City: PEQUOT LAKES
+
+State: MN
+
+Postal Code: 31 0020-5087
+
+Name der Bank: ABN AMRO
+
+Name des Empfängers: Zhinzifova
+
+Betrag: 15000,00 USD
+
+Details:
+
+* 1000 widgets
+* Lieferdatum: 30.04.2023
+* Rechnungsadresse: Nanochap electronics pty ltd.
+* Gültig bis: 15.05.2023
+* Zahlung: Überweisung
+* Haben Sie Fragen oder Anmerkungen?
+
+Bitte bestätigen Sie mir schriftlich die Empfangsbestätigung innerhalb von 3 Werktagen nach Erhalt dieser Bestellung.
+
+Mit freundlichen Grüßen,
+
+H PASIUKEVICH

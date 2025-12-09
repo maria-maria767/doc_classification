@@ -1,0 +1,48 @@
+MEMORANDUM
+
+To: All Team Leaders
+From: Jane Doe, Director of Operations
+Date: April 1, 2023
+Subject: Revised Meeting Scheduling Policy
+
+As part of our initiative to enhance operational efficiency and promote a balance between synchronous and asynchronous collaboration, we are implementing a revised meeting scheduling policy effective immediately. This memorandum is to be circulated among all departmental team leaders and managers.
+
+**1. Purpose**
+The purpose of this policy is to streamline our meeting practices to ensure that all team meetings are productive, purposeful, and respectful of our team members' time and responsibilities.
+
+**2. Meeting Types and Frequencies**
+- **Daily Stand-ups:** No change. Each team will continue with their scheduled 15-minute daily stand-up meeting.
+- **Weekly Departmental Meetings:** These are capped at 1 hour. Please have an agenda distributed 24 hours in advance.
+- **Biweekly All-Hands Meetings:** To be scheduled for a maximum of 90 minutes. Dates and times will be circulated by the end of each month for the upcoming month.
+- **Project Meetings:** To be scheduled as necessary, but not to exceed 1 hour. Agendas and necessary documentation should be circulated 48 hours in advance.
+
+**3. Scheduling Guidelines**
+- Meetings must start and end on time.
+- Late arrivals should not expect recaps during the meeting; it is their responsibility to catch up afterward.
+- Avoid scheduling meetings back-to-back when possible to give attendees a break between sessions.
+- Prioritize video conference calls to include remote team members. In-person meetings should be scheduled only when necessary, and remote access must be provided.
+
+**4. Attendee Preparedness**
+- Attendees are expected to have reviewed all preparatory materials before the meeting to ensure an efficient and effective discussion.
+- Questions and comments should be noted ahead of time to avoid overrunning the allotted time.
+
+**5. Action Items and Minutes**
+- A designated note-taker should be assigned for every meeting to record decisions and action items.
+- Meeting minutes should be distributed to all attendees within 24 hours post-meeting.
+
+**6. Policy Compliance**
+- Adherence to this policy is mandatory. Repeated failure to comply may result in corrective action.
+- Should team leaders encounter any issues with the enforcement of this policy, please communicate them to your respective department heads for resolution.
+
+This policy is subject to review and adjustments based on feedback and the evolving needs of our organization. Please ensure that your teams are informed of this policy and that they understand the expectations set forth.
+
+Should you have any questions regarding this memorandum or require further clarification, please do not hesitate to reach out to my office.
+
+Thank you for your attention to this matter and your ongoing commitment to improving our company’s operational practices.
+
+Best Regards,
+
+Jane Doe
+Director of Operations
+
+Attachments: Meeting Scheduling Policy.pdf, Meeting Minutes Template.docx

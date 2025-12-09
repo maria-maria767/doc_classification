@@ -1,0 +1,54 @@
+INVOICE
+
+Bill To:
+Ludmila Sadowsky Lidka Chučkov
+27.9096697, -74.5042586
+Washington Avenue
+Seymour
+United States of America
+
+From:
+Jordana Soposka Nedelčkio
+Cliffs Car Care
+Washington Avenue
+Seymour
+United States of America
+27863
+
+Date: April 11, 2023
+
+Invoice #: 12345
+
+Description Qty Unit Price Total
+------------------------------------
+
+Oil Change 1 $30.00 $30.00 $30.00
+Tire Rotation 1 $10.00 $10.00 $10.00
+Battery Check 1 $5.00 $5.00 $5.00
+
+Subtotal $55.00
+Taxes $3.35
+Total $58.35
+
+Payment Terms:
+Net 30
+
+Please make check payable to:
+Cliffs Car Care
+27863
+
+For questions, please contact:
+Jordana Soposka Nedelčkio
+Phone: (07700)900315
+Email: [bd@kurtoic.hr](mailto:bd@kurtoic.hr)
+
+Thank you for your business!
+
+Sincerely,
+
+Jordana Soposka Nedelčkio
+Cliffs Car Care
+Washington Avenue
+Seymour
+United States of America
+27863

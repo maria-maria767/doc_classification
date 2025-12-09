@@ -1,0 +1,55 @@
+MEMORANDUM
+
+To: Vivienne Glaser Grayson, Director of Operations, Lutchmansingh
+From: Cvitko Jankovič, Project Manager, Lutchmansingh
+Date: April 5, 2023
+Subject: Upgrading Security Measures for R&D Department
+
+Purpose:
+The purpose of this memorandum is to propose an immediate upgrade to the security measures currently in place within the Research and Development (R&D) Department of Lutchmansingh.
+
+Background:
+Recent internal audits have revealed potential vulnerabilities in our R&D Department that could be exploited by external parties. Given the sensitive nature of the projects being developed, it is crucial that we take additional steps to ensure that our intellectual property and trade secrets remain secure.
+
+Proposed Security Measures:
+1. Access Control:
+   - Update access protocols to include biometric scanners (fingerprint and retina scans) at all R&D entry points.
+   - Revoke access to individuals who are no longer involved in sensitive projects.
+   - Implement a strict visitor log and escort system for all guests entering the R&D facility.
+
+2. Cybersecurity Enhancements:
+   - Deploy advanced network firewalls and intrusion detection systems to monitor and protect R&D systems.
+   - Schedule regular penetration testing to identify and patch vulnerabilities.
+   - Provide additional training for R&D personnel on cybersecurity best practices.
+
+3. Secure Communication Channels:
+   - Establish a secure, encrypted communication system for R&D communications.
+   - Regularly update encryption keys and require two-factor authentication for system access.
+
+4. Document Handling:
+   - Enforce strict guidelines on handling and storing sensitive documents.
+   - Implement a clean desk policy at the end of each workday for all R&D staff.
+   - Restrict printing of confidential documents to designated secure printers.
+
+Next Steps:
+To initiate the security overhaul, I propose the following timeline:
+- Immediate tasks (1-2 weeks): Implement a clean desk policy and revise access control for personnel.
+- Short-term tasks (1-2 months): Upgrade physical security systems and roll out training sessions.
+- Long-term tasks (2-6 months): Overhaul cybersecurity infrastructure and secure communication protocols.
+
+We will need a budget allocation of approximately €100,000 to implement the proposed measures. This will cover the costs of the technology upgrades, system consulting, training, and enhancements to the physical security infrastructure.
+
+Action Required:
+Please review and provide your approval to proceed with the security upgrades. Upon approval, a detailed implementation plan will be drafted and submitted for your review.
+
+For further discussion or any immediate queries, please contact me at your earliest convenience via my direct line, 4749231488, or email me at sanja.matosic5@zagreb.hr.
+
+Attachment:
+- Detailed budget breakdown
+- Preliminary implementation plan
+
+This document contains confidential information pertaining to Lutchmansingh's operational security and must not be shared with unauthorized individuals under any circumstances.
+
+Cvitko Jankovič
+Project Manager
+Lutchmansingh

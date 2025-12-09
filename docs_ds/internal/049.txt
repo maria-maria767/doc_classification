@@ -1,0 +1,57 @@
+MEMORANDUM
+
+To: All Department Managers
+From: John Smith, Chief Operating Officer
+Date: April 5, 2023
+Subject: Implementation of New Internal Communication Platform
+
+PURPOSE:
+
+The purpose of this memorandum is to inform you of the imminent implementation of a new internal communication platform designed to improve efficiency and collaboration within our company.
+
+BACKGROUND:
+
+As our company continues to grow, it is imperative that our communication methods evolve to meet the dynamic needs of our business. After extensive research and several pilot tests, the executive team has selected 'ConnectUs' as our new company-wide communication platform.
+
+IMPLEMENTATION DETAILS:
+
+The 'ConnectUs' platform will officially replace our current email system and will become the primary means of internal communication starting May 15, 2023. The features of 'ConnectUs' include:
+
+- Direct messaging and group conversations
+- Project collaboration spaces with shared documents and timelines
+- Video conferencing and screen sharing capabilities
+- Company announcement boards
+- Mobile app for remote access
+
+TRAINING SCHEDULE:
+
+To ensure a seamless transition, a phased training approach will be conducted as follows:
+
+- 'ConnectUs' Champions Training: April 10-12, 2023
+- Management Training: April 17-19, 2023
+- Department Staff Training: April 24-30, 2023
+
+Each department must nominate two 'ConnectUs' Champions to lead the training within their department.
+
+DATA MIGRATION:
+
+IT department will oversee the secure migration of all current projects, archives, and relevant databases to 'ConnectUs'. The migration will occur between May 1-10, 2023. It is crucial that all departments perform a thorough review of their data and back up important files before the migration date.
+
+ACTION ITEMS:
+
+1. Nominate your department 'ConnectUs' Champions by April 7, 2023.
+2. Ensure all department members block off time in their schedules to attend the mandatory training sessions.
+3. Instruct your teams to review and back up important digital files before migration begins.
+
+QUESTIONS AND SUPPORT:
+
+For questions or further assistance regarding the new platform or the upcoming changes, please contact Sarah Johnson, IT Project Manager, at extension 2345 or via her current email.
+
+Please keep this information within the company. Unauthorized sharing of this document or its contents with external parties is strictly prohibited.
+
+Thank you for your cooperation and commitment to improving our company's communication systems.
+
+Best Regards,
+
+John Smith
+Chief Operating Officer

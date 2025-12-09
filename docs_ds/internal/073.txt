@@ -1,0 +1,80 @@
+Document Type: Product Specification
+
+Product Name: Bell Superior Wireless Headset
+
+Product Code: BSWH-2023
+
+Manufacturer: Gravesande Electronics Division
+
+Document Creator: Spas Hospod Branik, Product Development Lead
+
+Date of Issue: 2023-03-15
+
+1. Introduction
+The Bell Superior Wireless Headset (BSWH-2023) is designed to provide users with premium sound quality and wireless convenience for various applications, including communication, entertainment, and professional environments. This document details the technical specifications, design, and functional characteristics of the product.
+
+2. Specifications
+2.1 Audio
+- Driver Size: 40mm Neodymium
+- Frequency Response: 20Hz to 20kHz
+- Sensitivity: 98dB +/- 3dB
+- Impedance: 16 ohm
+
+2.2 Bluetooth
+- Bluetooth Version: 5.1
+- Range: 30 meters
+- Audio Codec Support: SBC, AAC, and aptX
+
+2.3 Battery
+- Type: Lithium Polymer
+- Capacity: 600mAh
+- Playtime: Up to 22 hours
+- Charging Time: Approximately 3 hours
+- Standby Time: Up to 300 hours
+
+2.4 Microphone
+- Type: MEMS
+- Sensitivity: -42dB +/- 3dB
+- Directivity: Omnidirectional
+
+2.5 Physical
+- Weight: 235 grams
+- Material: Memory foam ear cushions and aluminum frame
+- Color Options: Matte Black, Silver Gray
+
+2.6 Controls and Connectivity
+- Multi-function button for power, play, pause, and call handling
+- Volume control buttons
+- Active Noise Cancellation control
+- Voice assistant compatibility
+- USB Type-C charging port
+- 3.5mm audio jack for optional wired use
+
+3. Compliance and Certification
+- FCC, CE, RoHS
+- IPX4 rating for sweat and water resistance
+
+4. Packaging
+- Packaging Dimensions: 210mm x 185mm x 80mm
+- Package Contents: BSWH-2023 Headset, USB Type-C Cable, 3.5mm Audio Cable, Carry Pouch, User Manual
+
+5. Target Market
+The product is targeted towards the high-end consumer electronics market with a focus on sound quality, durability, and feature-rich wireless technology, suitable for both casual listeners and audiophiles.
+
+6. Distribution
+The BSWH-2023 will be available through select retail partners of Gravesande Electronics Division and on the company's e-commerce platform. Distribution channels include outlets located in urban centers and online sales with direct-to-consumer shipping options.
+
+7. Contact Information
+Product Development Lead: Spas Hospod Branik
+Email: nevaeh.nelson@munoz.store 
+Phone: (061) 7044 8995
+Address: 17 Rue Watteeu - Watteeustraat, Bruxelles / Brussel, Région de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest 1000
+
+8. Additional Notes
+- At this time, the BSWH-2023 should only be discussed within the confines of Gravesande Electronics Division and with authorized partners under non-disclosure agreement.
+- Any proposal for modification of the specification should be submitted to the Product Development Team for review.
+- This document is to be updated regularly when additional features or adjustments are made to the product's design or capabilities.
+
+End of Document
+
+[The content of this document is intended for internal diffusion only; it is not for public disclosure or dissemination to unauthorized individuals. Please handle accordingly.]

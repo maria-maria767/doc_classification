@@ -1,0 +1,74 @@
+**Project Initiation Document**
+
+**Title:** Operation Expand East
+
+**Project ID:** PXE203-05
+
+**Prepared by:** Cari N. Walters
+
+**Preparation Date:** April 16, 2023
+
+**Authorization:** Leonidas Ireland, Director of Expansion 
+
+**Project Sponsor:** Maxsimos Techsoft Pvt Ltd
+
+---
+
+**1. Project Purpose and Justification**
+The project involves the establishment of a Maxsimos Techsoft Pvt Ltd satellite office at 30 Jeździecka, Wrocław, 53-032 województwo dolnośląskie. The purpose is to expand services to our growing client base in Eastern European markets, ensuring local support for our products and facilitating quicker response times.
+
+**2. Objectives**
+- To provide localized support and sales services to the Eastern European market
+- To increase market presence and penetration in designated industries by 35% within the next fiscal year
+- To establish a fully operational office by Q3 2023 with a team of 15 employees
+
+**3. Scope of Work**
+- Refurbishing and setting up the designated office space
+- Recruiting local talent, including five engineers, five sales executives, and five support staff
+- Establishing secure IT infrastructure and integration with Maxsimos Techsoft Pvt Ltd's central network
+
+**4. Project Milestones**
+- Lease agreement finalization: May 10, 2023
+- Office ready for equipment setup: June 20, 2023
+- Staff recruitment completion: July 30, 2023
+- Official office opening: September 1, 2023
+
+**5. Constraints and Assumptions**
+- All project activities are subject to regional regulatory compliance
+- Assumption that recruitment for key positions will not face unexpected delays
+- The COVID-19 pandemic may pose health and safety concerns, affecting project timelines
+
+**6. Risk Management**
+- Risks related to regulatory approvals will be managed by the Legal Department
+- A contingency plan will be in place for remote setup of office equipment in case of lockdowns
+- Regular risk assessment meetings will be scheduled to navigate unforeseen challenges
+
+**7. Budget Summary**
+An initial budget of €1.5 million has been allocated, covering setup costs, staffing, and a six-month operational buffer. Full breakdown available on request.
+
+**8. Project Approval**
+Project to be reviewed and approved by Leonidas Ireland by April 30, 2023.
+
+**9. Contact Details**
+Project Lead: Cari N. Walters
+Phone: 1291486624
+Email: cc6584@hess-taylor.net
+
+Director of Expansion: Leonidas Ireland
+Phone: 1-979-980-4725
+Email: sara.nguyen@hansen-ortiz.site
+
+**10. Revision History**
+Document creation: April 16, 2023
+No revisions to date.
+
+---
+
+**11. Sign-off**
+I acknowledge that I have read the Project Initiation Document for 'Operation Expand East' and that I understand its content and the sensitivity level of "RESTRICTED" as associated with this document.
+
+Signature: _______________
+Name: Leonidas Ireland
+Date: _______________
+
+(For internal use only. Do not copy, distribute, or disclose without proper authorization.)

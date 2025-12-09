@@ -1,0 +1,59 @@
+ contract agreement
+
+This Contract Agreement (the "Agreement") is entered into on \_\_[date]__ by and between Svyatoslav Zasarov Adelle, residing at -16.3647763 or Bayonne Avenue, Warwick, United States of America (the "Supplier"), and Thelma, residing at -16.3647763 or Bayonne Avenue, Warwick, United States of America (the "Client").
+
+Recitals
+
+WHEREAS, the Supplier is engaged in the business of providing [service/product] to customers; and
+WHEREAS, the Client desires to engage the Supplier to provide [service/product] to the Client;
+
+NOW, THEREFORE, in consideration of the mutual covenants, promises, and agreements contained herein, and for other good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, the parties agree as follows:
+
+1. Services/Products. The Supplier shall provide to the Client the following services/products: [describe services/products].
+2. Term. The term of this Agreement shall be [number] months/years, commencing on [date] and ending on [date].
+3. Payment. The Client shall pay the Supplier the sum of [amount] for the services/products provided under this Agreement, within [number] days of receiving an invoice from the Supplier.
+4. Representations and Warranties. The Supplier represents and warrants that: [insert representations and warranties].
+5. Confidentiality. The parties agree to keep confidential any information disclosed to them in connection with this Agreement, and to use such information solely for the purpose of performing their obligations under this Agreement.
+6. Governing Law. This Agreement shall be governed by and construed in accordance with the laws of [state/province/country].
+7. Dispute Resolution. Any dispute arising out of or in connection with this Agreement shall be resolved by [arbitration/mediation/litigation].
+8. Entire Agreement. This Agreement constitutes the entire agreement between the parties and supersedes all prior negotiations, understandings, and agreements between the parties.
+9. Amendment. This Agreement may not be amended except in writing signed by both parties.
+10. Assignment. Neither party may assign its rights or obligations under this Agreement without the prior written consent of the other party.
+
+IN WITNESS WHEREOF, the parties have executed this Agreement as of the date first above written.
+
+---
+
+Svyatoslav Zasarov Adelle
+Thelma
+
+Nathalie Krieger
+
+Organization: Kestrel technologies
+Email: [darkoveckovic1@semialjac.org](mailto:darkoveckovic1@semialjac.org)
+Phone: +55 18 93839 5749
+Address: Pavia
+
+---
+
+Svyatoslav Zasarov Adelle
+Thelma
+
+Nathalie Krieger
+
+Organization: trusturk a.ş.
+Email: [s-snyder1@carey-hernandez.website](mailto:s-snyder1@carey-hernandez.website)
+Phone: (051) 2855-8330
+Address: Forlì-Cesena
+
+---
+
+Svyatoslav Zasarov Adelle
+Thelma
+
+Nathalie Krieger
+
+Organization: Studieforbundet Vuxenskolan
+Email: [nevaeh.nelson@munoz.store](mailto:nevaeh.nelson@munoz.store)
+Phone: 4280 83 6131
+Address: Bergamo

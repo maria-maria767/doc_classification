@@ -1,0 +1,45 @@
+Invoice
+
+Invoice Number: INV-9211-8342
+
+Billing Information:
+West Wimbledon Physiotherapy Clinic
+9 Keplerstraße,
+Köln, Nordrhein-Westfalen 50823
+Email: cmaurer424@hotmail.com
+Phone: 0246132492
+
+Payment Details:
+Invoice Date: April 30, 2023
+Payment Due: May 15, 2023
+Total Due: EUR 3,200.00
+
+Charges:
+- Physiotherapy services rendered for the period of April 1-30, 2023
+  - Man-hour rate: EUR 80
+  - Total hours: 40
+  - Subtotal: EUR 3,200.00
+
+Total Amount Due: EUR 3,200.00
+
+Please remit payment by the due date to avoid any late payment fees. Payment can be made through bank transfer to our designated bank account detailed below.
+
+Banking Information:
+Bank Name: Maf Mortgage Services & MAF Background Screening
+Account Number: 23455677
+Sort Code: 40-45-65
+IBAN: DE89370400440532013000
+BIC/SWIFT: COBADEFFXXX
+
+Terms & Conditions:
+Payments are due within 15 days of the invoice date. If payment is not received within this timeframe, a late fee of 2% per month of the outstanding balance may be applied. West Wimbledon Physiotherapy Clinic agrees to the rates and terms specified in this invoice.
+
+Thank you for your business,
+Duča Grabowsky Ljudmil
+Financial Controller
+
+Please direct any inquiries regarding this invoice to our billing department.
+Email: leilanithomas9@gmail.com
+Phone: (051) 3866-0935
+
+Note: This document contains sensitive internal company information and should not be disclosed outside of authorized personnel of West Wimbledon Physiotherapy Clinic. Unauthorized distribution or use of this material is strictly prohibited.

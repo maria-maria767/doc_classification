@@ -1,0 +1,58 @@
+Invoice
+
+Invoice #: 00123456
+
+Bill To:
+Smiljan Milutinović Slavoljub
+41 Spooner Street
+Plymouth, MA 02360-7310
+United States
+
+From: Utilityworks
+123 Main Street
+Huesca, Spain
+
+Date: April 15, 2023
+
+---
+
+Description Qty Unit Price Total
+---------------------------------
+
+Electricity (kWh) 500 $0.15 $75.00
+Gas (therm) 1,000 $0.06 $60.00
+Water (m³) 25 $0.50 $12.50
+Sewer (m³) 10 $0.70 $7.00
+
+TOTAL $164.50
+
+---
+
+Payment Terms:
+Net 30
+
+Payment Method:
+Credit Card (Visa)
+
+Card Number: \*\*\*\*\*\*\*\*\*\*\*\*\*
+
+Expiration Date: 05/25
+
+CVV: 123
+
+---
+
+Please remit payment to:
+Utilityworks
+123 Main Street
+Huesca, Spain
+
+For any inquiries, please contact:
+Pepper Robert
+Utilityworks
+[pepper.robert@utilityworks.com](mailto:pepper.robert@utilityworks.com)
+(024) 6132492
+
+---
+
+Thank you for your business!

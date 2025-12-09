@@ -1,0 +1,115 @@
+============================
+RAPHAEL FLACK & ASSOCIATES
+Financial Statement
+For the Year Ended December 31, 2022
+============================
+
+1. BALANCE SHEET
+
+ASSETS
+Current Assets:
+- Cash & Equivalent: $1,500,000
+- Accounts Receivable: $850,000
+- Inventory: $500,000
+- Prepaid Expenses: $150,000
+Total Current Assets: $3,000,000
+
+Fixed Assets:
+- Property, Plant & Equipment: $2,500,000
+- Less: Accumulated Depreciation: ($500,000)
+Net Fixed Assets: $2,000,000
+
+Total Assets: $5,000,000
+
+LIABILITIES AND EQUITY
+Current Liabilities:
+- Accounts Payable: $750,000
+- Short Term Loans: $1,000,000
+- Accrued Liabilities: $300,000
+Total Current Liabilities: $2,050,000
+
+Long-Term Liabilities:
+- Bonds Payable: $1,500,000
+Total Long-Term Liabilities: $1,500,000
+
+Equity:
+- Common Stock ($1 par value; 100,000 shares authorized, 50,000 shares issued and outstanding): $50,000
+- Retained Earnings: $1,400,000
+Total Equity: $1,450,000
+
+Total Liabilities and Equity: $5,000,000
+
+2. INCOME STATEMENT
+
+Revenues:
+- Net Sales: $4,200,000
+- Service Income: $600,000
+Total Revenues: $4,800,000
+
+Cost of Goods Sold: $2,800,000
+
+Gross Profit: $2,000,000
+
+Expenses:
+- Salaries and Wages: $800,000
+- Utilities: $150,000
+- Depreciation Expense: $100,000
+- Rent: $120,000
+Total Expenses: $1,170,000
+
+Operating Profit: $830,000
+
+Other Income (Expense):
+- Interest Income: $30,000
+- Interest Expense: ($70,000)
+Net Other Income (Expense): ($40,000)
+
+Net Profit Before Tax: $790,000
+
+Income Tax Expense: $237,000
+
+Net Profit After Tax: $553,000
+
+RETAINED EARNINGS STATEMENT
+
+Retained Earnings, Beginning of Period: $846,000
+Net Profit After Tax: $553,000
+Dividends Paid: ($0)
+Retained Earnings, End of Period: $1,399,000
+
+3. CASH FLOW STATEMENT
+
+Cash Flows from Operating Activities
+- Net Profit: $553,000
+- Adjustments for non-cash items: $100,000
+- Changes in Working Capital: ($250,000)
+Net Cash Provided by Operating Activities: $403,000
+
+Cash Flows from Investing Activities
+- Purchase of Fixed Assets: ($300,000)
+Net Cash Used in Investing Activities: ($300,000)
+
+Cash Flows from Financing Activities
+- Issuance of New Debt: $500,000
+- Repayment of Existing Debt: ($500,000)
+Net Cash Provided by Financing Activities: $0
+
+Net Increase in Cash: $103,000
+Cash at Beginning of Year: $1,397,000
+Cash at End of Year: $1,500,000
+
+This financial statement is issued for the financial information of Raphael Flack & Associates only and should not be disseminated outside of designated personnel with proper authorization.
+
+Authorized by:
+Stoyan Tsarknias Akira Walls - CFO
+Pando Daskalov Jovan - Accountant
+
+Date: January 1, 2023
+
+Address: 25 Pleasant Street, Salem, Massachusetts 01970-3980, United States of America
+Email: jeremias-rosa4@yahoo.com
+Phone: +1-899-732-4312
+
+For any inquiries or further discussion regarding the content of this financial statement, please contact the CFO or the designated accountant as per the contact information provided above.
+
+CONFIDENTIAL – Handle Accordingly

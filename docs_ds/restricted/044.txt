@@ -1,0 +1,43 @@
+Company Policy on Use of Personal Devices for Work Purposes
+
+1. Purpose
+The purpose of this policy is to define standards, procedures, and restrictions for employees who have the authorization to access company data from a personal device (smartphone, tablet, laptop, or home computer). This policy applies to the use of any such devices to perform work-related activities, and to the use of personal devices on company premises.
+
+2. Scope
+This policy applies to all employees of [Company Name], including full-time, part-time, and contractual staff who use a personal device for work-related purposes.
+
+3. Policy
+3.1. Authorization
+Use of personal devices to access company network or services must be authorized by the IT Department. Employees must sign a user agreement before any access is granted.
+
+3.2. Security
+All personal devices used for work purposes must have up-to-date antivirus software and a secure lock screen. The IT Department must verify the security measures before the device is authorized for work-related use.
+
+3.3. Data Privacy and Integrity
+Employees must not store sensitive company data directly on their personal devices unless specifically authorized. In such cases, data must be stored in an encrypted format.
+
+3.4. Access Control
+The company has the authority to remotely wipe data if the device is lost, stolen, or if the employee no longer works at the company. This measure is for protecting sensitive information.
+
+3.5. Network Access
+Connections to the company network must be conducted through a secure VPN with encryption.
+
+4. Compliance
+Failure to adhere to this policy may result in disciplinary action, up to and including termination of employment.
+
+5. Policy Updates
+This policy may be updated at any time. It is the responsibility of the employees to ensure they are in compliance with the latest version of the policy.
+
+6. Acknowledgment
+All employees must acknowledge receipt and understanding of these policy requirements by signing the Personal Device Usage Acknowledgment Form.
+
+Issued By: [Your Company's Security Officer]
+Effective Date: [dd/mm/yyyy]
+
+Document Control:
+- Version: 1.2
+- Last Reviewed: [dd/mm/yyyy]
+- Next Review: [dd/mm/yyyy]
+- Document Owner: [Your Company's Chief Information Security Officer]
+
+END OF DOCUMENT

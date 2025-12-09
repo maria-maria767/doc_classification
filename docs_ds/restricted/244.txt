@@ -1,0 +1,45 @@
+Invoice
+
+Invoice #: 00123456
+
+Bill To:
+Smiljan Milutinović Slavoljub
+Spooner Street
+Plymouth, MA 02360-7310
+United States
+
+From: Utilityworks
+41 Spooner Street
+Plymouth, MA 02360-7310
+United States
+
+Date: 2023-02-21
+
+Invoice Amount: $1,500.00
+
+Description Qty Unit Total
+---------------- ----- ------ -----
+
+Service 1 1 $1,500.00 $1,500.00
+-------------- ------------------
+
+Subtotal $1,500.00
+
+Taxes $0.00
+
+Total $1,500.00
+
+Notes:
+
+* Payment is due within 30 days of receipt of invoice.
+* Any questions or concerns should be directed to [pepper.robert@utilityworks.com](mailto:pepper.robert@utilityworks.com).
+
+Thank you for your business!
+
+Sincerely,
+Pepper Robert
+Utilityworks
+
+---
+
+Attachment: Copy of Service Receipt (see attached)

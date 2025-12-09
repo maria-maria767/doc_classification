@@ -1,0 +1,45 @@
+** INTERNAL MEMO **
+
+To: All Department Heads
+From: Kairi Claudia Nemeth, Operations Manager
+Date: April 12, 2023
+Subject: Implementation of New Inventory Management System
+
+Dear Team Leaders,
+
+I am pleased to announce the upcoming implementation of our new inventory management system, which is specifically designed to streamline our operations and enhance our ability to track and manage stock more efficiently within Meteksan Savunma Sanayii A.Ş.
+
+1. System Overview
+The system, dubbed "InventorEase," is an automated platform that will integrate with our existing warehouse and procurement structures. This centralized system will offer real-time inventory tracking, automated reordering processes, and predictive analytics to forecast future demand and adjust stocking levels accordingly.
+
+2. Key Features
+- Real-time tracking of inventory levels
+- Automated threshold alerts for low stock
+- Purchase order generation and vendor management
+- Demand forecasting based on historical data
+- Reporting tools for inventory analysis
+
+3. Rollout Timeline
+a. Training Sessions: May 1-5, 2023
+Lead by Amy, our Inventory Specialist, mandatory training sessions will take place at our main office located at 82 Via Limanda Latisana Friuli Venezia Giulia 33053. Remote training will be available for offsite employees.
+
+b. System Testing: May 10-15, 2023
+A selected group from each department, coordinated by Viktor Dodos Dimitrij from the IT Department, will test the system for functionality and provide feedback for improvements.
+
+c. Full Implementation: June 1, 2023
+Projected go-live date of the system across all departments.
+
+4. Responsibilities
+Department heads are responsible for ensuring their team members attend the training sessions, engage in the system testing phase, and are prepared for the operational changes that will occur post-implementation.
+
+5. Feedback and Concerns
+Please direct any feedback or concerns to myself at k-garza@wilkins-coleman.us or via phone at +1-025-621-8280. It's important that all issues are addressed promptly to ensure a smooth transition.
+
+Please remember, the information contained in this document is intended for internal use only and should not be shared with anyone outside of Meteksan Savunma Sanayii A.Ş. without proper authorization. Your understanding and cooperation in maintaining the confidentiality of this internal communication are appreciated.
+
+Thank you for your attention to this matter, and your continued support for this initiative.
+
+Best regards,
+Kairi Claudia Nemeth
+Operations Manager
+Meteksan Savunma Sanayii A.Ş.

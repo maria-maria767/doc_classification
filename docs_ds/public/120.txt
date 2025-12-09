@@ -1,0 +1,34 @@
+Company Document: Service Agreement
+
+This Service Agreement ("Agreement") is entered into on [Date] (the "Effective Date") by and between [Company Name], a company organized and existing under the laws of [Country] with its principal place of business at [Address] ("Company"), and [Client Name], a company organized and existing under the laws of [Country] with its principal place of business at [Address] ("Client").
+
+1. Services. Company agrees to provide to Client the services described in Exhibit A ("Services").
+2. Term. The term of this Agreement shall be [Number] months commencing on the Effective Date and ending on [Date].
+3. Payment. Client shall pay to Company a total fee of [Amount] for the Services, as described in Exhibit B.
+4. Representations and Warranties. Company represents and warrants that (a) it has the power and authority to enter into and perform its obligations under this Agreement, (b) the execution, delivery and performance of this Agreement by Company has been duly authorized by all necessary corporate action, (c) this Agreement is a legal, valid and binding obligation of Company, enforceable against it in accordance with its terms, and (d) the Services will be performed in a professional and workmanlike manner.
+5. Confidentiality. Company agrees to keep confidential all proprietary and confidential information of Client that is disclosed to Company in connection with the Services, and to use such information only in accordance with the terms of this Agreement.
+6. Termination. Either party may terminate this Agreement upon [Number] days' written notice to the other party. Upon termination, Client shall pay to Company all fees due for Services rendered up to the date of termination.
+7. Governing Law. This Agreement shall be governed by and construed in accordance with the laws of [Country], without giving effect to any choice of law or conflict of law provision or rule.
+8. Entire Agreement. This Agreement constitutes the entire agreement between the parties with respect to the subject matter hereof and supersedes all prior and contemporaneous agreements and understandings, whether oral or written.
+
+IN WITNESS WHEREOF, the parties have executed this Agreement as of the Effective Date.
+
+COMPANY: [Company Name]
+
+BY: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+NAME: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+TITLE: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+DATE: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+CLIENT: [Client Name]
+
+BY: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+NAME: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+TITLE: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+DATE: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_

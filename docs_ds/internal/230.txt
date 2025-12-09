@@ -1,0 +1,40 @@
+Purchase Order
+
+Bought From: First Administrators, Inc.
+
+Address: 125 Sugar River Trail
+City: Claremont
+State/Province: United States of America
+Postal Code: 60920
+Phone: 4318720678
+Email: [ff10@yahoo.com](mailto:ff10@yahoo.com)
+
+Billed To: Arizona rbi
+
+Address: 38 Hubertusgasse
+City: Laa an der Thaya
+State/Province: Niederösterreich
+Postal Code: 2136
+Phone: +91 (076) 518 45 67
+Email: [k-zitnjak@vip.hr](mailto:k-zitnjak@vip.hr)
+
+Ordered By: Stacy
+
+Description Quantity Unit Price Total
+--------------------------------------
+
+Item 1 1 100.00 100.00
+Item 2 1 200.00 200.00
+Item 3 5 50.00 250.00
+Item 4 1 75.00 75.00
+
+Subtotal 1,125.00
+Tax 50.00
+Total 1,175.00
+
+Please make all checks payable to: First Administrators, Inc.
+
+Thank you for your business!
+
+Sincerely,
+Stacy

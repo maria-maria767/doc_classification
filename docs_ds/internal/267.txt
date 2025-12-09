@@ -1,0 +1,97 @@
+**Product Specification Document**
+
+---
+
+**Product Name:** Flack Wireless Earbuds Model XB90
+
+**Manufacturer:** Gravesande Electronics Division
+
+**Document Creation Date:** [Current Date]
+
+**Document Owner:** Spas Hospod Branik
+
+**Revision:** 1.4
+
+**Prepared by:** Spas Hospod Branik
+
+**Contact Information:** 
+- Email: sanja.matosic5@zagreb.hr
+- Phone: 4749231488
+
+**Address of Manufacturer:** 
+- 17 Rue Watteeu - Watteeustraat, Bruxelles / Brussel, Région de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest 1000
+
+**Introduction:**
+
+The Flack Wireless Earbuds Model XB90 are designed to deliver superior audio quality and cutting-edge wireless connectivity to the consumer electronics market. This document specifies the technical and aesthetic characteristics of the product that must be adhered to for manufacturing and QC processes.
+
+**Technical Specifications:**
+
+- **Product Code:** XB90-475
+- **Bluetooth Version:** 5.1
+- **Effective Range:** Up to 15 meters without obstacles
+- **Battery Life:** 
+  - Talk time: Up to 7 hours
+  - Music play time: Up to 6 hours
+  - Standby time: Up to 150 hours
+- **Charging Time:** Approximately 1.5 hours for earbuds, 2 hours for charging case
+- **Driver Size:** 10mm
+- **Frequency Response:** 20Hz - 20kHz
+- **Water Resistance:** IPX4 rated (splash-resistant)
+- **Noise Cancellation:** Passive noise isolation with optional active noise cancellation (ANC) at additional cost
+- **Weight:** Earbuds: 5g each, Charging case: 50g
+
+**Materials:**
+
+- **Earbud Caps:** Medical-grade silicone
+- **Housing:** High-density polymer with matte finish
+- **Charge Case:** Matching high-density polymer with soft-touch coating
+
+**Color Options:**
+
+- **Default:** Matte Black
+- **Other Options:** Pearl White, Midnight Blue, Rose Gold (custom colors available for bulk orders over 5,000 units)
+
+**Packaging:**
+
+- **Box Dimensions:** 100mm x 100mm x 45mm
+- **Contents:** Earbuds, Charging Case, USB-C Charging Cable, User Manual, Warranty Card
+
+**Regulatory Compliance:**
+
+- CE Certified
+- FCC ID: QO3-XB9050
+- Bluetooth SIG Certified
+- RoHS Compliant
+
+**Quality Assurance:**
+
+- **Burn-In Test Duration:** 48 hours for each unit
+- **Drop Test:** From 1.5 meters onto concrete surface, three times each axis
+- **Water Resistance Test:** 5 minutes under low-pressure water jets
+- **Sound Quality Inspection:** Every unit tested to match preset EQ curves
+
+**Warranty Period:** 
+
+- 24 months, covering manufacturer defects. Does not cover user-inflicted damage or normal wear and tear.
+
+**Target Markets:**
+
+- Aimed at mid to high-end consumer electronics market
+- Primary focus on users aged 18-35 who prioritize audio quality and the latest wireless technology
+
+**Distribution:**
+
+- Authorised Gravesande Electronics retailers
+- Online via the official Gravesande website and selected e-commerce partners
+- Not available for third-party selling unless authorized by Gravesande Electronics Division
+
+**Document Distribution Control:**
+
+- This document is intended for internal use only by Gravesande Electronics Division.
+- Any dissemination, distribution or copying of this document is strictly prohibited except for internal employees involved in the design, manufacturing, and quality control of the Flack Wireless Earbuds Model XB90.
+- Unauthorized disclosure of the information contained in this document is subject to disciplinary action.
+
+---
+
+**End of Document**

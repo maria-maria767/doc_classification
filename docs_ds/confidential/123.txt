@@ -1,0 +1,110 @@
+FINANCIAL STATEMENT REPORT
+
+Company Name: Flack and Gravesande Associates
+Address: 25 Pleasant Street, Salem, Massachusetts 01970-3980, United States of America
+Phone: +1-899-732-4312
+Email: carolinethompson32@hotmail.com
+
+For the Year Ended December 31, 2022
+
+I. Executive Summary
+
+The following financial statement provides a detailed summary of the financial activities for Flack and Gravesande Associates for the fiscal year ending on December 31, 2022. It is intended for use only by authorized individuals within the organization and is not to be disclosed to third parties without explicit permission from the Board of Directors.
+
+II. Balance Sheet
+
+ASSETS
+Current Assets:
+- Cash and Cash Equivalents: $2,450,000
+- Accounts Receivable: $1,550,000
+- Inventory: $890,000
+- Prepaid Expenses: $120,000
+Total Current Assets: $5,010,000
+
+Non-Current Assets:
+- Property and Equipment, net: $3,500,000
+- Intangible Assets: $740,000
+Total Non-Current Assets: $4,240,000
+
+Total Assets: $9,250,000
+
+LIABILITIES AND EQUITY
+Current Liabilities:
+- Accounts Payable: $930,000
+- Accrued Liabilities: $410,000
+- Short-Term Debt: $1,200,000
+Total Current Liabilities: $2,540,000
+
+Non-Current Liabilities:
+- Long-Term Debt: $2,300,000
+- Deferred Tax Liabilities: $310,000
+Total Non-Current Liabilities: $2,610,000
+
+Total Liabilities: $5,150,000
+
+EQUITY:
+- Owner's Equity: $4,100,000
+
+Total Liabilities and Equity: $9,250,000
+
+III. Income Statement
+
+Revenue:
+- Total Revenue: $8,300,000
+
+Cost of Goods Sold: $2,950,000
+
+Gross Profit: $5,350,000
+
+Expenses:
+- Operating Expenses: $2,210,000
+- Interest Expense: $140,000
+- Depreciation and Amortization: $275,000
+Total Expenses: $2,625,000
+
+Net Income Before Taxes: $2,725,000
+
+Provision for Income Taxes: $818,000
+
+Net Income: $1,907,000
+
+IV. Cash Flow Statement
+
+Cash Flows from Operating Activities:
+Net Income: $1,907,000
+Adjustments to reconcile net income to net cash:
+- Depreciation: $275,000
+- Changes in Operating Assets and Liabilities: ($90,000)
+Net Cash Provided by Operating Activities: $2,092,000
+
+Cash Flows from Investing Activities:
+- Purchases of Property and Equipment: ($600,000)
+- Sales/Maturities of Investments: $50,000
+Net Cash Used in Investing Activities: ($550,000)
+
+Cash Flows from Financing Activities:
+- Proceeds from Issuance of Debt: $800,000
+- Repayment of Debt: ($300,000)
+- Dividends Paid: ($280,000)
+Net Cash Provided by (Used in) Financing Activities: $220,000
+
+Net Increase in Cash: $1,762,000
+
+Cash at Beginning of Period: $688,000
+
+Cash at End of Period: $2,450,000
+
+V. Notes to the Financial Statements
+
+The financial statements have been prepared in conformity with accounting principles generally accepted in the United States of America and reflect significant estimates and assumptions made by the management. The company is involved in ongoing litigation, the outcome of which is uncertain and may have a material effect on future financial results.
+
+Authorized Personnel:
+
+- Stoyan Tsarknias Akira Walls, Chief Financial Officer
+- Kotsios Pando Daskalov Jovan, Senior Accountant
+
+This financial statement is issued on the authority of the CFO and Senior Accountant and has not been independently audited or reviewed by external auditors. It is strictly confidential and is to be disseminated only among individuals with proper authorization.
+
+Date of Release: January 20, 2023
+
+END OF DOCUMENT

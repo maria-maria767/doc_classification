@@ -1,0 +1,49 @@
+INVOICE
+
+Bill To:
+Olgica Theophanous Kelvin Crow
+28.1198117 or 8 Radnor Lane Morrisville New York 13408
+Pavia
+c.perez150@gmail.com
+2500233769
+Itab Recruitment
+
+From:
+Rostislav Perun Alfred
+Ziedoņa iela, Rīga, Vidzeme
+Forlì-Cesena
+[rostislavperun@gmail.com](mailto:rostislavperun@gmail.com)
++233554323182
+belgian company bvba
+
+Bill From:
+Liora Jacques Ott
+8 Radnor Lane Morrisville New York 13408
+Huesca
+[liora.ott@gmail.com](mailto:liora.ott@gmail.com)
+31 0020-5087
+Jon wolf photography
+
+Description Qty Unit Price Total
+----------------------------------
+
+Item 1 1 100.00 100.00
+Item 2 1 50.00 50.00
+Item 3 1 25.00 25.00
+----------------------------------
+
+Subtotal 100.00 100.00
+Taxes 5.00 5.00
+Total 105.00 105.00
+
+Payment Terms:
+Net 30
+
+Please remit payment to the above address or call us at 31 0020-5087 to arrange payment by credit card.
+
+Thank you for your business.
+
+Sincerely,
+
+Liora Jacques Ott
+belgian company bvba

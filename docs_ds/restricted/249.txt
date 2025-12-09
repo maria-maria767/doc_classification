@@ -1,0 +1,88 @@
+Financial Statement
+
+For the fiscal year ending December 31, 2022
+
+Report of Independent Auditors
+
+We have audited the accompanying financial statements of Yiwu Honor Packing Factory, which comprise the balance sheet as of December 31, 2022, and the related statements of income, comprehensive income, equity, and cash flows for the year then ended, and the related notes to the financial statements.
+
+Management's Responsibility for the Financial Statements
+
+Management is responsible for the preparation and fair presentation of these financial statements in accordance with accounting principles generally accepted in the United States of America. This includes the design, implementation, and maintenance of internal control relevant to the preparation and fair presentation of financial statements that are free from material misstatement, whether due to fraud or error.
+
+Our Responsibility
+
+Our responsibility is to express an opinion on these financial statements based on our audit. We conducted our audit in accordance with auditing standards generally accepted in the United States of America. Those standards require that we plan and perform the audit to obtain reasonable assurance about whether the financial statements are free from material misstatement.
+
+An audit involves performing procedures to obtain audit evidence about the amounts and disclosures in the financial statements. The procedures selected depend on the auditor's judgment, including the assessment of the risks of material misstatement of the financial statements, whether due to fraud or error. In making those risk assessments, the auditor considers internal control relevant to the entity's preparation and fair presentation of the financial statements in order to design audit procedures that are appropriate in the circumstances, but not for the purpose of expressing an opinion on the effectiveness of the entity's internal control. Accordingly, we express no such opinion.
+
+An audit also includes evaluating the overall presentation of the financial statements, including the disclosures, and considering whether the financial statements represent the underlying transactions and events in a manner that achieves fair presentation.
+
+In our opinion, the financial statements referred to above present fairly, in all material respects, the financial position of Yiwu Honor Packing Factory as of December 31, 2022, and the results of its operations and its cash flows for the year then ended, in conformity with accounting principles generally accepted in the United States of America.
+
+[Signature of Independent Auditor]
+
+[City], [State]
+[Date]
+
+Financial Statements
+
+Balance Sheet
+
+As of December 31, 2022
+
+Assets
+
+Current assets:
+
+Cash and cash equivalents $1,500,000
+Accounts receivable 800,000
+Inventory 1,200,000
+Prepaid expenses 100,000
+Total current assets $3,600,000
+
+Fixed assets:
+
+Property, plant, and equipment $2,000,000
+Intangible assets 500,000
+Total fixed assets $2,500,000
+
+Total assets $6,100,000
+
+Liabilities and equity
+
+Current liabilities:
+
+Accounts payable $500,000
+Accrued expenses 300,000
+Total current liabilities $800,000
+
+Long-term liabilities:
+
+Notes payable $1,000,000
+Total long-term liabilities $1,000,000
+
+Equity:
+
+Common stock $2,500,000
+Retained earnings 500,000
+Total equity $3,000,000
+
+Total liabilities and equity $6,100,000
+
+Statements of Income
+
+For the year ended December 31, 2022
+
+Revenue $4,000,000
+Cost of goods sold (2,400,000)
+Gross profit 1,600,000
+
+Operating expenses:
+
+Sales and marketing (800,000)
+General and administrative (400,000)
+Research and development (200,000)
+Total operating expenses (1,400,000)
+
+Income from

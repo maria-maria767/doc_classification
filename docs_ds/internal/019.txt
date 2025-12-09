@@ -1,0 +1,60 @@
+INTERNAL MEMO
+
+Subject: Implementation of New Work-From-Home Policy
+
+Date: [Date]
+
+To: All Department Heads
+
+From: [Your Name], Chief Operating Officer
+
+CC: Human Resources Department, IT Department
+
+Dear Colleagues,
+
+As a continued response to the dynamic work environment and employee needs, we are pleased to announce the implementation of a new Work-From-Home (WFH) policy, which will take effect from [Start Date]. The policy is designed to provide flexibility and support a better work-life balance while ensuring that our operational efficiency and service delivery remain at the highest standards.
+
+Key Highlights of the New WFH Policy:
+
+1. Eligibility and Scope:
+   - All full-time employees are eligible to apply for WFH status.
+   - Teams will have staggered WFH days to ensure departmental functionality is not compromised.
+
+2. Application Process:
+   - Employees interested in WFH must submit a formal request to their department head.
+   - Department heads will evaluate the request based on team needs, the individual’s role, and job requirements.
+
+3. Work Hours and Availability:
+   - Standard work hours must be maintained while working from home.
+   - Employees must be reachable during work hours via phone, email, and virtual meeting platforms.
+
+4. Equipment and Security:
+   - IT support will be provided to ensure employees have necessary access to work systems.
+   - Data security protocols must be strictly observed, as set out by the IT department.
+
+5. Performance and Monitoring:
+   - Productivity will be monitored to ensure alignment with performance objectives.
+   - Regular check-ins will be scheduled for ongoing support and feedback.
+
+6. Policy Review:
+   - The WFH policy will be reviewed quarterly to address any concerns and make necessary adjustments.
+
+Action Required:
+- All department heads are requested to disseminate this information to their teams.
+- A session will be arranged by the HR department to clarify any queries regarding policy details and implementation.
+- IT department to coordinate with department heads to facilitate the necessary technical support for staff working from home.
+
+Please ensure that this information is communicated to your teams no later than [Communication Deadline]. We believe this policy will enhance our agility and commitment to providing an accommodating workplace. We appreciate your cooperation and support in implementing this initiative smoothly.
+
+Thank you for your attention to this matter.
+
+Best regards,
+
+[Your Name]
+Chief Operating Officer
+
+[Company Name]
+
+Attachment: Work-From-Home Policy Document
+
+*This document contains information for internal diffusion within [Company Name] only and should not be shared outside of the intended internal audience.*

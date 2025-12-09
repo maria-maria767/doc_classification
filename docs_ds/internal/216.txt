@@ -1,0 +1,37 @@
+MEMO
+
+To: All Department Heads
+From: Jane Doe, Operations Manager
+Date: April 6, 2023
+Subject: Implementation of New Email Retention Policy
+
+Dear Colleagues,
+
+I am writing to inform you of a new company-wide email retention policy that will be implemented effective immediately. This is part of our ongoing efforts to improve data management and to comply with industry regulations concerning the handling of electronic information.
+
+Policy Overview:
+The new email retention policy requires that all emails be retained for a period of 5 years from the date of receipt or transmission. After this period, emails will be automatically purged from the system unless they have been marked for extended retention in accordance with legal holds or other exceptional needs.
+
+Action Items:
+1. **Departmental Review:** Each department is required to review their current emails and mark any correspondence that may be subject to longer retention periods, such as those related to legal matters or significant business transactions.
+    
+2. **Employee Notification:** Please inform your teams about this new policy. All employees must receive training on how to mark emails for extended retention. Training sessions will be conducted by the IT department starting April 10, 2023, with sign-up sheets circulated by end of day today.
+    
+3. **Compliance Monitoring:** Compliance with the email retention policy will be monitored quarterly. Non-compliance can result in penalties, including possible disciplinary action. Department Heads are responsible for ensuring their teams are adhering to the policy.
+
+Assistance:
+For assistance in understanding or implementing the email retention policy, please contact the IT department at it.support@company.com. Additionally, the Legal Department is available for queries regarding the determination of retention periods for legal-related documents at legal@company.com.
+
+Conclusion:
+This policy is essential for managing our information assets responsibly and for maintaining compliance with regulatory requirements. Your cooperation and compliance with this new policy are greatly appreciated.
+
+Kindly ensure that all action items are addressed promptly and thoroughly. If you have any questions or concerns regarding this policy change, please do not hesitate to reach out.
+
+Thank you for your attention to this matter and for your continued support in upholding our company's operational standards.
+
+Sincerely,
+
+Jane Doe
+Operations Manager
+
+[This document is for internal distribution only. Do not share with individuals or organizations outside of the company.]

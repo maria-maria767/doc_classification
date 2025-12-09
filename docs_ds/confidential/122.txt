@@ -1,0 +1,50 @@
+Product Specification
+
+1. Product Identifier
+Product Name: ProSync 3000X
+Model Number: PS3000X-05B
+Manufactured by: Nicholas Ward Consulting
+Address: 858 Thompson Street, North Haven, 06513 Connecticut
+
+2. Product Overview
+The ProSync 3000X is an advanced synchronization module designed for high-performance computing environments. It facilitates seamless system integration by providing precise time alignment across different computing platforms and peripheral devices.
+
+3. Technical Specifications
+- Clock Accuracy: ±500 picoseconds typical
+- Network Interfaces: Dual redundant Gigabit Ethernet
+- Input Voltage: 100-240V AC, 47-63Hz
+- Power Consumption: 40 Watts typical
+- Operating Temperature: 0°C to 50°C (32°F to 122°F)
+- Storage Temperature: -40°C to 70°C (-40°F to 158°F)
+- Relative Humidity: 5% to 95% non-condensing
+- Time Protocol Support: NTP, PTP (IEEE 1588), and Custom Protocols
+- Enclosure: Standard 19" rack mount, 1U height
+
+4. Compliance
+- FCC Class A
+- CE marked
+- RoHS Compliance
+
+5. Confidentiality Notice
+The information contained within this document is proprietary and confidential to Nicholas Ward Consulting. It is intended solely for the use of authorized personnel and organizations expressly permitted by Nicholas Ward Consulting. The sharing, reproduction, or distribution of any part of this document without the explicit permission of Nicholas Ward Consulting is strictly prohibited. Unauthorized access or disclosure of this document's contents may be punishable under applicable laws.
+
+6. Points of Contact
+Product Manager: Nixon Puentes
+Email: a.r48@cooper-phillips.us
+Phone: +55 52 95809 6036
+
+Quality Assurance: Davor Velševska Leylani
+Email: k-j843@volarevic.com
+Phone: 31 5514-6278
+
+Technical Support: Jackson
+Email: m-jalusic@jakopec.biz
+Phone: 2500233769
+
+7. Revision History
+- Document Creation Date: January 13th, 2023
+- Latest Revision Date: March 25th, 2023
+
+All product specifications are subject to change without prior notice. For the latest version of product specifications, please contact your representative at Nicholas Ward Consulting.
+
+End of Document

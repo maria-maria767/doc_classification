@@ -1,0 +1,110 @@
+[Company Letterhead]
+
+Financial Statement
+For the Year Ended December 31, 2022
+
+To whom it may concern,
+
+This financial statement is for internal company use only and contains sensitive information. Unauthorized dissemination or copying of this statement is strictly forbidden.
+
+1. Company Overview
+Organization: Rajalakshmi - India
+Address: 23;25 Pleasant Street, Salem, Massachusetts 01970-3980, United States of America
+Email: carolinethompson32@hotmail.com
+Phone: +1-899-732-4312
+
+2. Balance Sheet
+As of December 31, 2022 (All figures in USD)
+
+ASSETS
+Current Assets:
+- Cash and Equivalents: $5,600,000
+- Accounts Receivable: $1,200,000
+- Inventory: $2,400,000
+- Prepaid Expenses: $150,000
+Total Current Assets: $9,350,000
+
+Non-Current Assets:
+- Property, Plant, and Equipment (net): $12,500,000
+- Intangible Assets: $3,150,000
+- Long-term Investments: $6,300,000
+Total Non-Current Assets: $21,950,000
+
+Total Assets: $31,300,000
+
+LIABILITIES AND SHAREHOLDER'S EQUITY
+Current Liabilities:
+- Accounts Payable: $2,100,000
+- Short-term Borrowings: $1,500,000
+- Other Current Liabilities: $550,000
+Total Current Liabilities: $4,150,000
+
+Non-Current Liabilities:
+- Long-term Debt: $8,700,000
+- Deferred Tax Liabilities: $1,250,000
+Total Non-Current Liabilities: $9,950,000
+
+Shareholders' Equity:
+- Common Stock: $4,000,000
+- Retained Earnings: $13,200,000
+Total Shareholders' Equity: $17,200,000
+
+Total Liabilities and Shareholder's Equity: $31,300,000
+
+3. Income Statement
+For the Year Ended December 31, 2022
+
+Revenue: $20,500,000
+Cost of Goods Sold: $13,000,000
+Gross Profit: $7,500,000
+
+Operating Expenses: 
+- Selling, General and Administrative: $3,000,000
+- Research and Development: $850,000
+- Depreciation and Amortization: $1,100,000
+Total Operating Expenses: $4,950,000
+
+Operating Income: $2,550,000
+
+Other Income (Expenses):
+- Interest Income: $120,000
+- Interest Expense: ($200,000)
+Net Other Income (Expenses): ($80,000)
+
+Income Before Taxes: $2,470,000
+Provision for Income Taxes: $742,000
+
+Net Income: $1,728,000
+
+4. Cash Flow Statement
+For the Year Ended December 31, 2022
+
+Net Cash from Operating Activities: $3,300,000
+Net Cash Used in Investing Activities: ($4,600,000)
+Net Cash from (Used in) Financing Activities: $2,100,000
+Net Increase (Decrease) in Cash: $800,000
+Cash at Beginning of Period: $4,800,000
+Cash at End of Period: $5,600,000
+
+This financial statement is intended solely for the use of Rajalakshmi - India and
+should not be distributed outside of this realm.
+
+For any inquiries regarding this financial statement, please contact:
+Akira Walls, Chief Financial Officer
+Phone: (051) 2855-8330
+Email: juliusrogers769@hotmail.com
+
+Confidentiality Notice: This financial statement is the property of Rajalakshmi - India and contains confidential and/or privileged material. Any review, retransmission, dissemination, or other use of, or taking any action in reliance upon this information by persons or entities other than the intended recipient is prohibited.
+
+Best regards,
+
+[Signature]
+Akira Walls
+Chief Financial Officer
+Rajalakshmi - India
+
+Date: [Current Date]
+
+Document Classification: CONFIDENTIAL
+
+[End of Document]

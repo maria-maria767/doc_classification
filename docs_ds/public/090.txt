@@ -1,0 +1,93 @@
+**FINANCIAL STATEMENT**
+
+For the Year Ended December 31, 2022
+
+**Company Name:** Bynum Enterprises
+
+**Address:** 483 Forge Road North Kingstown, Rhode Island 02852
+
+**Phone:** 1297005725
+
+**Email:** j.s@dyer-combs.us
+
+---
+
+**Board of Directors:**
+
+- Dimše Molerov
+- Akira Walls
+- Ezekiel Erica Jenkinson
+- Czeslaw Swiatkowski
+- Milan
+
+---
+
+**Balance Sheet As of December 31, 2022**
+
+*ASSETS*
+
+Current Assets:
+- Cash and Cash Equivalents: $2,000,000
+- Accounts Receivable: $750,000
+- Inventory: $500,000
+- Prepaid Expenses: $60,000
+Total Current Assets: $3,310,000
+
+Non-Current Assets:
+- Property and Equipment, net: $4,000,000
+- Intangible Assets: $1,200,000
+- Goodwill: $500,000
+Total Non-Current Assets: $5,700,000
+
+TOTAL ASSETS: $9,010,000
+
+*LIABILITIES AND SHAREHOLDER'S EQUITY*
+
+Current Liabilities:
+- Accounts Payable: $600,000
+- Accrued Liabilities: $150,000
+- Short-Term Debt: $300,000
+Total Current Liabilities: $1,050,000
+
+Non-Current Liabilities:
+- Long-Term Debt: $2,000,000
+- Deferred Tax Liabilities: $400,000
+Total Non-Current Liabilities: $2,400,000
+
+Total Liabilities: $3,450,000
+
+Shareholder's Equity:
+- Common Stock: $1,000,000
+- Retained Earnings: $4,560,000
+Total Shareholder's Equity: $5,560,000
+
+TOTAL LIABILITIES AND SHAREHOLDER'S EQUITY: $9,010,000
+
+---
+
+**Income Statement For the Year Ended December 31, 2022**
+
+Revenue: $7,500,000
+Cost of Goods Sold: ($3,000,000)
+Gross Profit: $4,500,000
+
+Operating Expenses:
+- Sales and Marketing: ($500,000)
+- General and Administrative: ($1,000,000)
+- Research and Development: ($250,000)
+Total Operating Expenses: ($1,750,000)
+
+Operating Income: $2,750,000
+
+Interest Expense: ($120,000)
+Income Before Taxes: $2,630,000
+Income Tax Expense: ($790,000)
+Net Income: $1,840,000
+
+---
+
+This public financial statement is intended for general information purposes and may be distributed without restriction. All data contained herein is accurate to the best knowledge of Bynum Enterprises as of the date of document creation.
+
+---
+
+The information provided in this document corresponds to the hypothetical information provided and is crafted solely for illustrative purposes in response to the user's request. It does not correspond to any real individual, organization, or set of financial data.

@@ -1,0 +1,40 @@
+**Internal Memorandum**
+
+To: All Employees
+From: IT Department
+Date: April 5, 2023
+Subject: Update on Email Usage Policy
+
+Dear Team,
+
+As part of our ongoing efforts to maintain efficient and secure communication systems, we have updated our Email Usage Policy. This update outlines new procedures and guidelines that all employees must follow when using the company's email system.
+
+Key Updates:
+
+1. **Sensitive Information**: Any email containing sensitive company information should be classified as "Internal Use Only". Please utilize the email encryption tools provided by the IT Department when sending such emails.
+
+2. **Attachments**: Before attaching files to emails, verify that they are free from viruses and malware. Please also ensure that the size of the attachments does not exceed 10MB to prevent overloading our email servers.
+
+3. **Email Retention**: All emails related to business operations should be retained for a period of no less than five years to comply with our new data retention policy. Archived emails can be accessed through the email archive system.
+
+4. **Spam and Phishing**: Report any suspicious emails to the IT Helpdesk immediately. Do not respond to or click on links from unknown senders as they may be phishing attempts.
+
+5. **Personal Use**: The company's email system is primarily for business communication. Limited personal use is permissible, but it should not interfere with work responsibilities or compromise the security of our network.
+
+6. **Password Security**: Passwords must be changed every 60 days, and employees should use a complex combination of characters to maintain the security of their email accounts.
+
+Action Required:
+
+- Please review the full Email Usage Policy (available on the company intranet) by April 20, 2023.
+- Attend a mandatory training session on email security by the end of this month. Session schedules will be sent out shortly.
+
+Your adherence to the updated Email Usage Policy is essential to protect both the company's information and our IT infrastructure. By following these guidelines, we can ensure a secure and efficient communication environment for everyone.
+
+Thank you for your cooperation.
+
+Sincerely,
+
+[Name]
+Head of IT Department
+[Email]
+[Phone Extension]

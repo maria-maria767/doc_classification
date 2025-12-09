@@ -1,0 +1,59 @@
+Product Specification Document
+
+**Product Name:** HelioView Smart Glasses
+
+**Product Code:** HVSG-20232203
+
+**Manufacturer:** Eyes of the World Optical
+
+**Manufacturer Address:** 15 Kohler Lahna, Ahrntal - Valle Aurina, Trentino-Alto Adige/Südtirol 39030, Italia
+
+**Product Overview:**
+
+Eyes of the World Optical is proud to introduce the HelioView Smart Glasses, an innovative wearable device designed to offer a seamless integration of technology with everyday eyewear. The HelioView Smart Glasses provide a hands-free experience for users, offering functionalities such as live notifications, GPS navigation, augmented reality, and voice control.
+
+**Key Features:**
+
+- **Lightweight, ergonomic design** suitable for prolonged wear.
+- **Adjustable transparency** smart lens technology with auto-adaptation to lighting conditions.
+- **High-definition micro-display** projecting a clear and bright interface.
+- **Touchpad and voice-controlled interface** enabling efficient and intuitive user interaction.
+- **Full wireless connectivity** including Bluetooth 5.0 and Wi-Fi capabilities.
+- **Integrated high-resolution camera** for capturing first-person photos and videos.
+- **Built-in bone conduction speakers** delivering crisp and clear audio without obstructing the ear canal.
+- **Augmented reality applications** compatible with navigation, information retrieval, and gaming.
+- **Up to 12 hours battery life** with fast-charging support.
+- **Water and dust resistance** rated IP67 for outdoor use reliability.
+
+**Technical Specifications:**
+
+- **Display Resolution:** 1280x720 pixels
+- **Camera:** 8MP, 1080p video recording
+- **Audio:** Bone conduction transducers with noise-cancellation microphones
+- **Sensors:** Gyroscope, accelerometer, ambient light sensor, proximity sensor
+- **Storage:** 32GB internal storage
+- **Operating System:** Android based with compatibility for iOS and Android devices
+- **Connectivity:** Bluetooth 5.0, Wi-Fi 802.11 a/b/g/n/ac, GPS/GLONASS
+- **Battery:** Lithium-polymer 400mAh
+- **Charge Time:** Approximately 1 hour for full charge
+- **Port:** USB-C for charging and data
+
+**Target Users:**
+
+- **Outdoor Enthusiasts:** for hands-free navigation and capturing the moment without interrupting the experience.
+- **Professionals:** for discreet notifications and hands-free communication in work environments.
+- **Tech-savvy Individuals:** who desire the latest in wearable technology and augmented reality.
+
+**Contact Information for Sales Enquiries:**
+
+- **Contact Person:** Corey Edmundo
+- **Position:** Sales Manager
+- **Phone Number:** +39 (051) 8567-7487
+- **Email:** sales@eyesoftheworldoptical.it
+
+**Manufacturing and Compliance:**
+
+- **Manufactured in:** Italia
+- **Compliance Certifications:** CE, FCC, RoHS
+
+This document and its contents are intended for public information and may be distributed freely. For further inquiries, please contact the sales department using the contact information provided above.

@@ -1,0 +1,61 @@
+PRODUCT SPECIFICATION DOCUMENT
+
+Product Name: SmartSecure Home Lock System v2.3
+
+Manufacturer: Evr Media Spa
+
+Document Owner: Filimena Tunteva Leylani
+
+Specification Number: EVR-SSL23-9312
+
+Release Date: 2023-04-01
+
+Product Overview:
+The SmartSecure Home Lock System v2.3 (hereafter referred to as "the Product") is a state-of-the-art electronic locking mechanism designed for residential properties, offering advanced security through biometric verification, mobile app connectivity, and encrypted access control.
+
+Key Features:
+- Biometric Fingerprint Recognition
+- Remote Access via Secure Mobile Application
+- Intrusion Alert System with Real-Time Notification
+- Backup Mechanical Key Access
+- Tamper-Resistant Casing and Lock Design
+
+Specifications:
+- Dimensions: 150mm x 75mm x 35mm
+- Weight: 1.2 kg
+- Material Composition: Zinc Alloy, ABS Plastic
+- Power Supply: 4 AA Batteries
+- Battery Life: Approximately 12 Months (Depending on Usage)
+- Connectivity: Wi-Fi IEEE 802.11 b/g/n (2.4 GHz)
+- User Capacity: Up to 100 fingerprints and 5 Admin-level Mobile Accounts
+
+Environmental Conditions:
+- Operating Temperature: -10°C to 55°C
+- Storage Temperature: -20°C to 70°C
+- Operating Humidity: 20% to 80% RH, non-condensing
+
+Compliance Standards:
+- Electrical Safety: EN 60950-1
+- Electromagnetic Compatibility: EN 301 489-1, EN 301 489-17
+- Wireless Compliance: EN 300 328
+- Biometric Device Performance: ISO/IEC 19794
+
+Installation Requirements:
+- Door Thickness Compatibility: 35mm to 50mm
+- Latch Type: Single Latch (Deadbolt Replacement Kit Available Separately)
+
+Confidentiality Notice:
+This document contains proprietary information belonging to Evr Media Spa and is only to be accessed by authorized personnel with a direct need-to-know basis as prescribed by internal security protocols. Distribution of this document or the information contained within to any unauthorized individual or organization is strictly prohibited and may result in disciplinary action and/or legal prosecution.
+
+Contact Information:
+- Technical Manager: Cvitko Jankovič Vivienne Glaser Grayson
+- Email: rr9637@young-baker.co
+- Phone: 4717276349
+- Address: 30 Jeździecka Wrocław 53-032 województwo dolnośląskie
+
+Document Revision History:
+- Initial Release: 22-01-2023
+- First Amendment: 05-02-2023
+- Current Release: 01-04-2023
+
+End of Document

@@ -1,0 +1,66 @@
+================================================================================
+                                   TRAINING MANUAL
+================================================================================
+
+1. Introduction
+---------------
+Welcome to the training manual for new employees at Dhwani Infotech Ltd. This document contains proprietary information that must not be shared outside of the authorized personnel within Dhwani Infotech Ltd. The sharing or leaking of the information contained within this manual is strictly prohibited.
+
+2. Company Overview
+-------------------
+Dhwani Infotech Ltd. is an innovative technology company dedicated to offering cutting-edge software solutions to our clients. Our head office is located at 27.9096697 GPS coordinates with a mailing address of 10 Lathrop Road, Plainfield, Connecticut 06374, United States of America. As a member of our team, you will join a group committed to excellence, innovation, and customer satisfaction.
+
+3. Code of Conduct
+------------------
+All employees are expected to adhere to the highest professional standards. This includes, but is not limited to, maintaining confidentiality and exercising discretion when dealing with sensitive information. This document is classified as CONFIDENTIAL and has been shared with you under the strict understanding that it will remain within the company.
+
+4. Training Schedule
+--------------------
+Training will commence from the date of joining and will cover a period of four weeks. The schedule is as follows:
+- Week 1: Orientation and Company Policies
+- Week 2: Product Overview and Technical Training
+- Week 3: Sales Techniques and Customer Management
+- Week 4: Advanced Problem-Solving and Troubleshooting
+
+5. Contact Information
+----------------------
+For any inquiries or assistance during your training period, please contact your designated supervisor:
+- Name: Eidan Margot Larson
+- Email: adesilva6@pugh-bowman.net
+- Phone: 1-979-980-4725
+
+6. Training Program Details
+----------------------------
+Section 6.1. Product Training
+You will receive detailed training on our product lines, including proprietary technologies and trade secrets. These sessions will be led by our Senior Product Manager Aleksandrova Kostenceva.
+
+Section 6.2. Customer Interaction Protocols
+Training on how to engage with clients effectively will be provided. As a company, we pride ourselves on maintaining strict confidentiality and trustfulness with our clients, which extends to how we communicate and manage client information.
+
+7. Security Protocols
+---------------------
+The information contained in this training manual falls under the category of CONFIDENTIAL information. You are required to adhere to the following security protocols:
+
+- Do not share this document or its contents with anyone outside the authorized personnel.
+- All printed copies of this document must be kept secured when not in use.
+- Digital copies must only be stored on secure, password-protected devices.
+
+8. Conclusion
+-------------
+We trust that you will find this training manual essential in preparing for your role at Dhwani Infotech Ltd. We are committed to the development of our staff and believe that a well-informed team is the key to our mutual success. If you have any questions or concerns during your training, do not hesitate to contact your supervisor or the HR department.
+
+This document is the property of Dhwani Infotech Ltd. and is intended for use only by the individual named above and/or the company's authorized personnel. Unauthorized use of this document is strictly prohibited and may result in disciplinary action.
+
+9. Acknowledgment of Confidentiality
+-------------------------------------
+I acknowledge that I have read and understand the confidentiality requirements associated with this training manual. I further acknowledge that I am responsible for maintaining the confidentiality and security of the information contained within this document.
+
+Employee Name: ____________________________
+Employee Signature: ________________________
+Date: _____________________________________
+
+[This space is intended for the actual employee to provide a physical signature and current date to acknowledge the receipt and understanding of the confidentiality requirements related to this training manual.]
+
+================================================================================
+This concludes the CONFIDENTIAL Training Manual for Dhwani Infotech Ltd.
+================================================================================

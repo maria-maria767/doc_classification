@@ -1,0 +1,45 @@
+Invoice
+
+Invoice #: 00123456
+Date: 02/28/2023
+
+Bill To:
+Andon Konstantinov Etienne
+B83, Krumpendorf am Wörthersee, Kärnten
+
+From:
+Corbett mcdonald & associates
+222 Goodwill Road, Montgomery, New York 12549, United States of America
+Phone: (0800) 11 79
+Email: [jm98@schroeder-johnson.net](mailto:jm98@schroeder-johnson.net)
+
+---
+
+Description Qty Unit Price Total
+-----------------------------------
+
+Item 1 1 100.00 100.00
+Item 2 1 50.00 50.00
+Item 3 1 25.00 25.00
+----------- ------- ------- -------
+
+Subtotal 2 275.00 275.00
+Taxes 10.00 10.00
+----------- ------- ------- -------
+
+Total 285.00
+
+Payment Terms:
+Net 30
+
+Please remit payment to:
+Corbett mcdonald & associates
+222 Goodwill Road, Montgomery, New York 12549, United States of America
+Phone: (0800) 11 79
+Email: [jm98@schroeder-johnson.net](mailto:jm98@schroeder-johnson.net)
+
+Thank you for your business!
+
+Sincerely,
+
+[The signature of the authorized person]

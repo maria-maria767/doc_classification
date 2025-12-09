@@ -1,0 +1,36 @@
+Invoice Number: INV-4728395
+
+Beds & Beats
+56 Köppelsdorfer Straße
+Sonneberg, 96515 Thüringen
+Germany
+Email: jm98@schroeder-johnson.net
+Phone: (07700)900940
+
+Date: [Current Date]
+
+BILL TO:
+Edin Načev Velizar
+33 Heinestraße
+Sebnitz, Sachsen 01855
+Germany
+
+INVOICE DETAILS:
+Description of Services | Unit Cost | Quantity | Total
+------------------------------------------------------------------------------------
+Audio Licensing Fee          | €150.00    |    10     | €1,500.00
+Post-production Services  | €300.00    |     5     | €1,500.00
+Custom Soundtrack Design | €500.00    |     2     | €1,000.00
+------------------------------------------------------------------------------------
+Subtotal:                                                           | €4,000.00
+VAT (19%):                                                         | €760.00
+------------------------------------------------------------------------------------
+Invoice Total:                                                     | €4,760.00
+
+TERMS:
+Payment is due within 30 days from the date of the invoice. Late payments may result in additional charges.
+
+Notes:
+Thank you for your business. Please make sure to include the Invoice Number when making payments. Any discrepancies found in this invoice must be reported within 5 working days.
+
+CONFIDENTIALITY NOTICE: This invoice contains confidential information and is intended solely for the use of the individual or entity to whom it is addressed. If you are not the named addressee, you should not disseminate, distribute, or copy this invoice. Please notify the sender immediately by email if you have received this invoice by mistake and delete this email from your system.

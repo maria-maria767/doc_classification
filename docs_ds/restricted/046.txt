@@ -1,0 +1,74 @@
+PURCHASE ORDER
+
+Purchase Order Number: 2023-4759
+
+Issue Date: April 14, 2023
+
+---
+
+**Buyer Information:**
+
+Company Name: Vehicleservicepros.Com  
+Address: State Route 116 Rd. on number 9329, Hinesburg, Vermont  
+Phone: 1-835-055-6217  
+Email: rr9637@young-baker.co  
+Contact: Makenzie Granič
+
+**Vendor Information:**
+
+Company Name: Boehringer Ingelheim (Canada) Ltd  
+Address: Turobin, województwo lubelskie  
+Phone: +55 (12) 9 0026-7733  
+Email: sshackelford94@gmail.com  
+Contact: Kiana Flanagan
+
+---
+
+**Delivery Information:**
+
+Delivery Address: As above (Buyer Information)  
+Requested Delivery Date: May 2, 2023
+
+**Order Details:**
+
+| Item No. | Description             | Quantity | Unit Price | Total Price |
+|----------|-------------------------|----------|------------|-------------|
+| 00045    | Industrial Air Compressor | 2       | $4,500      | $9,000      |
+| 00136    | High-Precision Lathe      | 1       | $12,500     | $12,500     |
+| 00258    | Robotic Welding System  | 1       | $23,000     | $23,000     |
+|----------|-------------------------|----------|------------|-------------|
+Subtotal: |  |  |  | $44,500
+
+Sales Tax (7%): |  |  |  | $3,115
+
+Total: |  |  |  | $47,615
+
+**Payment Terms:**
+
+Payment is due within 30 days upon receiving the equipment and the invoice. Late payments may incur charges as per Vehicleservicepros.Com's payment policy.
+
+**Authorized by:**
+
+_Signature:_ _____________________
+
+Printed Name: Makenzie Granič  
+Title: Procurement Manager  
+Date: April 14, 2023
+
+**Vendor's Acknowledgment:**
+
+_Signature:_ _____________________
+
+Printed Name: Kiana Flanagan  
+Title: Sales Director  
+Date of Acknowledgment: _____________________
+
+---
+
+**Special Instructions:**
+
+Please handle all equipment with the utmost care during shipping. Installation and user manuals must be included with the shipment. Ensure that all equipment is properly secured to prevent damage in transit.
+
+---
+
+This is a restricted document intended only for Makenzie Granič, Kiana Flanagan, and their respective teams at Vehicleservicepros.Com and Boehringer Ingelheim (Canada) Ltd involved in this purchase order. Unauthorized distribution or disclosure of the details contained within this document is strictly prohibited.

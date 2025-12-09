@@ -1,0 +1,52 @@
+PURCHASE ORDER
+
+Date: April 1, 2023
+
+PO Number: 2023-PO47856
+
+Bill To:
+Wade Enterprises
+9329 State Route 116 Rd.
+Hinesburg, Vermont
+Email: adesilva6@pugh-bowman.net
+Phone: (059)2018343
+
+Ship To:
+Braelyn Roberson Moffitt
+Trailer Park
+Sodus Point, New York
+Email: k.francic52@andrijevic.biz
+Phone: +55 01 9 9679-1276
+
+Order Details:
+
+| Item No. | Description               | Quantity | Unit Price | Total Price |
+|----------|---------------------------|----------|------------|-------------|
+| 001      | Office Chairs - Model A1  |  10      |  $95.00    |  $950.00    |
+| 002      | Work Desks - Model D4     |   5      | $120.00    |  $600.00    |
+| 003      | Filing Cabinets - Model F2|   7      |  $45.00    |  $315.00    |
+|----------|---------------------------|----------|------------|-------------|
+|                                  Subtotal |              |  $1,865.00   |
+|                      Sales Tax (7%)      |              |  $130.55     |
+|                                  TOTAL   |              |  $1,995.55   |
+
+Payment terms: NET 30
+Delivery Date: April 15, 2023
+Purchase Order Issued By: Malčkiankov Enterprises
+
+Authorized Signature: ______________________________
+
+Malčkiankov Enterprises Representative:
+Name: Olgica Theophanous Djokotoe
+Position: Procurement Officer
+Address: -74.5647012 Oilton, OK
+Email: juliusrogers769@hotmail.com
+Phone: 1477 50 4146
+
+Please confirm receipt of this order and the expected delivery date by returning a signed copy of this purchase order.
+
+Thank you for your prompt attention to this order.
+
+Malčkiankov Enterprises
+
+Note: This document is classified as PUBLIC and is intended for unrestricted distribution as necessary.

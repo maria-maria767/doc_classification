@@ -1,0 +1,109 @@
+**ANDREW ARREOLA PARKINSON FINANCIAL STATEMENT**
+FOR THE YEAR ENDED DECEMBER 31, 2022
+
+**BALANCE SHEET**
+
+AS OF DECEMBER 31, 2022
+
+**ASSETS**
+- Current Assets:
+  - Cash and Cash Equivalents: $50,000
+  - Accounts Receivable (Net): $15,000
+  - Inventory: $8,000
+- Non-Current Assets:
+  - Property, Plant and Equipment: $100,000
+  - Less: Accumulated Depreciation: ($20,000)
+  - Long-Term Investments: $12,000
+
+**Total Assets: $165,000**
+
+**LIABILITIES AND EQUITY**
+- Liabilities:
+  - Current Liabilities:
+    - Accounts Payable: $5,500
+    - Short-Term Debt: $7,500
+  - Long-Term Liabilities:
+    - Long-Term Debt: $20,000
+    - Deferred Tax Liabilities: $1,500
+
+**Total Liabilities: $34,500**
+
+- Equity:
+  - Common Stock: $50,000
+  - Retained Earnings: $80,500
+
+**Total Equity: $130,500**
+
+**Total Liabilities and Equity: $165,000**
+
+**INCOME STATEMENT**
+
+FOR THE YEAR ENDED DECEMBER 31, 2022
+
+- Revenue: $70,000
+- Cost of Goods Sold: ($28,000)
+
+**Gross Profit: $42,000**
+
+- Operating Expenses:
+  - Selling, General and Administrative Expenses: ($12,000)
+  - Depreciation Expense: ($5,000)
+
+**Operating Income: $25,000**
+
+- Interest Expense: ($1,200)
+
+**Net Income Before Taxes: $23,800**
+
+- Taxes Expense: ($4,760)
+
+**Net Income: $19,040**
+
+**STATEMENT OF CASH FLOWS**
+
+FOR THE YEAR ENDED DECEMBER 31, 2022
+
+- Cash Flows from Operating Activities:
+  - Net Income: $19,040
+  - Adjustments to Reconcile Net Income to Net Cash:
+    - Depreciation: $5,000
+    - Increase in Accounts Receivable: ($2,000)
+    - Increase in Inventory: ($1,500)
+    - Increase in Accounts Payable: $2,000
+
+**Net Cash Provided by Operating Activities: $22,540**
+
+- Cash Flows from Investing Activities:
+  - Purchase of Equipment: ($10,000)
+
+**Net Cash Used in Investing Activities: ($10,000)**
+
+- Cash Flows from Financing Activities:
+  - Proceeds from Long-Term Debt: $10,000
+  - Payment of Dividends: ($15,000)
+
+**Net Cash Used in Financing Activities: ($5,000)**
+
+**Net Increase in Cash: $7,540**
+
+Cash at Beginning of Period: $42,460
+
+**Cash at End of Period: $50,000**
+
+**NOTES TO THE FINANCIAL STATEMENTS**
+
+The financial statements have been prepared in accordance with generally accepted accounting principles. The company has made certain estimates and assumptions that affect the reported amounts of assets and liabilities at the date of the financial statements and the reported amounts of revenues and expenses during the reporting period. Actual results could differ from those estimates.
+
+This financial statement is intended for public disclosure and is authorized for release by:
+
+R Brown, Chief Financial Officer
+
+13 Viuzzo della Querce,
+Firenze, Toscana 50145
+
+Contact Email: rr9637@young-baker.co
+Contact Phone: (07700)900752
+
+Date of Authorization: March 3, 2023
+
+**END OF FINANCIAL STATEMENT**

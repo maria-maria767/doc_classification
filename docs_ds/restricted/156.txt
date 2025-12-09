@@ -1,0 +1,29 @@
+Confidential Information Sharing Agreement
+
+This Confidential Information Sharing Agreement ("Agreement") is entered into by and between Autoequation ("Disclosing Party") and Deniz O'brien ("Receiving Party") as of the date of acceptance by the Receiving Party.
+
+1. Purpose. The purpose of this Agreement is to protect the confidential information of the Disclosing Party and to establish guidelines for the use of such information by the Receiving Party.
+2. Definition of Confidential Information. For the purposes of this Agreement, "Confidential Information" shall include any material non-public information disclosed by the Disclosing Party to the Receiving Party, including but not limited to information related to business operations, research and development, financial information, customer information, sales information, and any other information marked or otherwise designated as confidential or proprietary.
+3. Obligations of the Receiving Party. The Receiving Party agrees to hold and maintain the Confidential Information in strict confidence and to take all reasonable measures to prevent unauthorized use or disclosure of the Confidential Information. The Receiving Party shall use the Confidential Information only for the purpose of performing its obligations under this Agreement or as otherwise authorized in writing by the Disclosing Party. The Receiving Party shall not disclose the Confidential Information to any third party without the prior written consent of the Disclosing Party, except to those employees or agents of the Receiving Party who have a need to know such information and who are bound by written confidentiality obligations at least as restrictive as those contained herein.
+4. Obligations of the Disclosing Party. The Disclosing Party agrees to use commercially reasonable efforts to maintain the confidentiality of the Confidential Information. The Disclosing Party shall promptly notify the Receiving Party if it becomes aware of any unauthorized use or disclosure of the Confidential Information.
+5. Term. This Agreement shall remain in effect until the Receiving Party no longer has access to any Confidential Information, or until the Disclosing Party and the Receiving Party mutually agree in writing to terminate this Agreement.
+6. Governing Law. This Agreement shall be governed by and construed in accordance with the laws of the state of Massachusetts.
+7. Entire Agreement. This Agreement constitutes the entire agreement between the parties with respect to the subject matter hereof and supersedes all prior agreements, understandings and negotiations, whether written or oral, between the parties.
+8. Amendment. This Agreement may be amended or modified only by a written instrument executed by both parties.
+9. Assignment. Neither party shall assign its rights or obligations under this Agreement without the prior written consent of the other party.
+10. Counterparts. This Agreement may be executed in one or more counterparts, each of which shall be deemed an original, but all of which together shall constitute one and the same instrument.
+11. Notices. All notices, requests and other communications under this Agreement shall be in writing and shall be deemed given upon personal delivery, e-mail or facsimile, with confirmation of receipt requested, to the parties at their respective addresses as set forth above.
+
+IN WITNESS WHEREOF, the parties have executed this Agreement as of the date set forth below.
+
+Autoequation
+
+By: /s/ Mitreska Chuchkova
+
+Title: CEO
+
+Deniz O'brien
+
+By: /s/ Abhiram Langford
+
+Title: CTO

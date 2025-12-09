@@ -1,0 +1,54 @@
+---
+
+**Interoffice Memorandum**
+
+TO: All Department Heads
+
+FROM: Jane Doe, Chief Operations Officer
+
+DATE: April 15, 2023
+
+SUBJECT: Implementation of New Time Tracking System
+
+---
+
+Dear Colleagues,
+
+This memo is to inform you of the upcoming implementation of a new time tracking system designed to replace our existing manual timesheet process. This new system aims to streamline our operations regarding time recording and enhance the overall efficiency of payroll processing. The purpose of this memorandum is to outline key dates and responsibilities for each department as we make this important transition.
+
+**Key Features of the New Time Tracking System:**
+1. **Automatic Time Recording:** The system will automatically record time when employees log into their workstations.
+2. **Mobile Access:** Employees will be able to clock in and out through a mobile application when working remotely.
+3. **Overtime Tracking:** The system will alert managers when employees approach overtime thresholds.
+4. **Leave Management:** Employees can apply for leave directly through the system, and managers can approve these requests online.
+5. **Reports:** The system will generate real-time reports to assist with project management and budgeting.
+
+**Implementation Schedule:**
+- **May 1, 2023:** System kickoff meeting for all department heads to cover functionalities and address questions (9:00 AM - 11:00 AM via Zoom).
+- **May 10-20, 2023:** Department-specific training sessions to be scheduled with the HR Department.
+- **June 1, 2023:** Official roll-out of the new time tracking system.
+
+**Action Items For Department Heads:**
+- Attend the kickoff meeting and ask questions relevant to your department’s needs.
+- Identify two team members from your department to become system "Champions."
+- Schedule your department's training sessions with HR by May 5, 2023.
+- Communicate these changes to your teams by May 15, 2023, emphasizing the benefits of the new system.
+- Ensure all team members attend their respective training sessions.
+
+**Support and Feedback:**
+The HR and IT departments will provide support during the roll-out process. Please direct any system feedback or concerns to the project manager, John Smith, at john.smith@company.com or ext. 502.
+
+**Conclusion:**
+
+Your cooperation and proactive engagement are essential to the smooth adoption of the new time tracking system. We believe this system will bring about significant improvements in the way we manage time and resources. Thank you in advance for your collaboration and leadership on this project.
+
+Please keep this document and details within it to internal company distribution. If you are unsure about who you may disclose this information to within the organization, or require further clarification on sensitivity classifications, please consult the Company's Data Handling Policy or contact the Compliance Department.
+
+Best regards,
+
+Jane Doe
+Chief Operations Officer
+
+---
+
+*Distribution: Internal Use Only*

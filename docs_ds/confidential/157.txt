@@ -1,0 +1,36 @@
+INVOICE
+
+Bill To:
+Braelyn Roberson Moffitt
+17 Rue Watteeu - Watteeustraat
+Bruxelles / Brussel
+Région de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest 1000
+
+From:
+Smiljan Milutinović Zdravko
+46 Hollow Lane
+Hempstead
+11756 New York
+
+Date: April 10, 2023
+
+Invoice #: 12345
+
+Description Qty Unit Price Total
+------------------------------------
+
+Item 1 1 100.00 100.00
+Item 2 2 50.00 100.00
+Item 3 1 250.00 250.00
+
+TOTAL 4 450.00 450.00
+
+Payment Terms: Net 30
+
+Contact:
+Email: [tg@stewart.site](mailto:tg@stewart.site)
+Phone: (061) 0161 2519
+
+Please make checks payable to: Smiljan Milutinović Zdravko
+
+Thank you for your business!

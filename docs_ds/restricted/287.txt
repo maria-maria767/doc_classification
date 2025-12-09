@@ -1,0 +1,44 @@
+Invoice
+
+Invoice #: 00123456
+
+Bill To:
+Smiljan Milutinović Slavoljub
+Spooner Street
+Plymouth, 02360-7310 Massachusetts
+United States
+
+From: Utilityworks
+41 Spooner Street
+Plymouth, 02360-7310 Massachusetts
+United States
+
+Date: 2023-02-21
+
+Invoice Total: $1,234.56
+
+Payment Terms: Net 30
+
+Invoice Description Qty Unit Price Subtotal
+------------------------------------------
+
+Computer Services 1 $600.00 $600.00
+Infrastructure Support 1 $400.00 $400.00
+Licensing Fees 1 $200.00 $200.00
+Total $1,234.56
+
+Payment Method: Check
+
+Payment Date: 2023-03-20
+
+For any inquiries, please contact Iris Buric at [iris.buric@hotmail.com](mailto:iris.buric@hotmail.com) or 0246132492.
+
+Thank you for your business.
+
+Signature: [Smiljan Milutinović Slavoljub]
+
+---
+
+Internal Use Only
+
+Sensitive Information: This invoice contains confidential information regarding the services provided by Utilityworks to Smiljan Milutinović Slavoljub. The invoice details, including the description of services and costs, are confidential and restricted to authorized employees only. Any unauthorized access or disclosure of this information is strictly prohibited and may result in disciplinary action.

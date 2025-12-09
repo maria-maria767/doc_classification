@@ -1,0 +1,61 @@
+Invoice No.: 789213
+Invoice Date: April 15, 2023
+
+Bill To:
+----------
+
+Filimena Tunteva Miah Merritt   
+Suffolk Street
+Wanskuck, Rhode Island
+Email: leoconrad7@davis-moses.ly
+Phone: 4718870537
+
+Ship To:
+---------
+
+Iskren Cabarkapa Ljupčo Boskovski
+Chaussée de Ninove - Ninoofsesteenweg
+Molenbeek-Saint-Jean - Sint-Jans-Molenbeek
+België - Belgique - Belgien
+Email: mareblazincic71@yahoo.com
+Phone: +02 21 6336-0954
+
+Invoice Details:
+----------------
+
+Description            | Quantity | Unit Price | Total
+-----------------------------------------------------
+Nanochip ZX-200       |     5    | $299.99    | $1499.95
+Circuit Board V12     |    10    | $45.00     | $450.00
+LED Display 4K UHD    |     3    | $109.99    | $329.97
+Microcontroller AD32  |     7    | $14.99     | $104.93
+
+Subtotal              |                    | $2384.85
+Sales Tax (7%)        |                    | $166.94
+Shipping and Handling |                    | $50.00
+-----------------------------------------------------
+Total Amount Due      |                    | $2601.79
+
+Payment Terms: Net 30
+Due Date: May 15, 2023
+
+Please make all checks payable to:
+Nanochap Electronics Pty Ltd.
+Chaussée de Ninove - Ninoofsesteenweg
+Molenbeek-Saint-Jean - Sint-Jans-Molenbeek
+België - Belgique - Belgien
+
+Notes:
+- This invoice contains confidential information and is intended only for the individual or entity named above.
+- If you are not the intended recipient, you should not disseminate, distribute or copy this invoice.
+- Please notify the sender immediately by e-mail if you have received this invoice by mistake and delete this invoice from your system.
+
+Thank you for your business!
+
+Sincerely,
+
+Db Tuning Tecnologia
+-15.4214313
+Forlì-Cesena
+Email: leoconrad7@davis-moses.ly
+Phone: 4744267886

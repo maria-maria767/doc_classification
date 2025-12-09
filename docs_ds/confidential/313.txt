@@ -1,0 +1,50 @@
+INVOICE
+
+Bill To:
+Milanko Swiatkowski
+Vermont, Hinesburg, 9329 State Route 116 rd.
+
+From:
+Cofidis Retail
+Lexington, Massachusetts, 02420-2219, 28 Fairlawn Lane
+
+Invoice Number: 12345
+Invoice Date: February 27th, 2023
+
+Description Quantity Unit Price Subtotal
+-------------------------------- ------- ------- --------
+
+Item 1 1 $500.00 $500.00
+Item 2 3 $200.00 $600.00
+Item 3 2 $150.00 $300.00
+-------------------------------- ------- ------- --------
+
+Subtotal $1,400.00 $1,400.00
+Taxes $0.00 $0.00
+Total $1,400.00 $1,400.00
+
+Payment Terms:
+Net 30
+
+Payment Method:
+Credit Card
+
+Card Number: **** **** **** 2345
+Expiration Date: 12/24
+
+Contact Information:
+Email: [bd@kurtoic.hr](mailto:bd@kurtoic.hr)
+Phone: +1-290-533-8863
+
+Please remit payment to:
+Cofidis Retail
+Lexington, Massachusetts, 02420-2219, 28 Fairlawn Lane
+
+Attention: Accounts Payable
+
+Thank you for your business!
+
+Sincerely,
+
+Milanko Swiatkowski
+Cofidis Retail

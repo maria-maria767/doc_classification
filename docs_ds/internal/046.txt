@@ -1,0 +1,78 @@
+==========
+Document Type: Policy and Procedure
+Document Title: Email Communication and Data Handling Policy
+Document Control Number: PI-0094873
+Effective Date: [Date of Implementation]
+Review Date: [One Year from Effective Date]
+Approval Authority: Zhaklina Aleksandrova Charanjot, Chief Information Officer
+==========
+
+1. Purpose
+---------
+
+The purpose of this policy is to define the standards and protocols for the use of email communication and the handling of data within [Company Name], hereafter referred to as 'the Company'. This policy aims to ensure the secure and effective use of email as a communication tool and safeguard data against unauthorized access and distribution.
+
+2. Scope
+--------
+
+This policy applies to all employees, contractors, and temporary staff of the Company who have access to the company's email system and handle company data.
+
+3. Policy
+---------
+
+3.1 Email Usage
+----------------
+
+- Employees must use their company-provided email accounts for all business-related communications.
+- Personal use of company email accounts should be kept to a minimum and must not interfere with professional responsibilities.
+- All email messages are considered company property. The Company reserves the right to monitor and access any emails sent or received without prior notification.
+- Sensitive information must be transmitted securely. When in doubt, employees are required to use encryption tools approved by the IT department.
+
+3.2 Data Handling
+-----------------
+
+- Data labeled as 'INTERNAL' is restricted to company staff and must not be shared with external entities unless authorized by a department head.
+- Sensitive data, including client information, financial documents, and employee records, must be handled in accordance with the company's Data Protection Policy.
+- When disposing of or transferring data, employees must follow the Data Disposal Procedure to prevent data leakage.
+
+3.3 Data Storage and Access
+---------------------------
+
+- Company data must be stored on designated secure servers. Personal devices should not be used for storing sensitive company data.
+- Access to sensitive data will be granted on a 'need to know' basis and will be controlled through login credentials and user permissions.
+
+3.4 Breach and Non-compliance
+------------------------------
+
+- Any breach of this policy may result in disciplinary action, up to and including termination of employment.
+- Employees must report any suspicious email or data handling activity to the IT department immediately.
+
+4. Enforcement
+---------------
+
+The IT department is responsible for the enforcement of this policy. Regular audits and compliance checks will be carried out to ensure adherence to this policy.
+
+5. Exceptions
+-------------
+
+Exceptions to this policy must be approved in writing by the Chief Information Officer or a designated representative.
+
+6. Revision History
+---------------------
+
+- Document created: [Creation Date]
+- Last reviewed: [Last Review Date]
+
+7. Approvals
+-------------
+
+Approved by:
+
+[Signature]
+Zhaklina Aleksandrova Charanjot
+Chief Information Officer
+[Date of Approval]
+
+------
+
+This document is intended for internal circulation only. Any unauthorized sharing, reproduction, or distribution of this document or its contents is strictly prohibited and may result in disciplinary action.

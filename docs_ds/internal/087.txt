@@ -1,0 +1,49 @@
+INVOICE
+
+Invoice No: 001248
+Invoice Date: April 15, 2023
+
+Bill To: 
+Jordana Soposka Nedelčkio
+Washington Avenue, Seymour, United States of America
+
+Ship To: 
+Chučkov
+27.9096697 Cremona
+
+Payment Terms: 30 Days Net
+Due Date: May 15, 2023
+
+Item Description           | Quantity | Unit Price | Total Price
+------------------------------------------------------------------------------
+Consulting Services - avl  |    20    |   $150.00  |    $3,000.00
+in sweden
+Marketing Strategy Plan    |     1    | $1,200.00  |    $1,200.00
+- Cliffs car care
+Technical Support -        |    15    |    $90.00  |    $1,350.00
+Downtown Development
+Association Of Lincolnton Inc
+
+Subtotal:                                               $5,550.00
+Sales Tax (8%):                                         $444.00
+------------------------------------------------------------------------------
+TOTAL:                                                 $5,994.00
+
+Notes:
+Payment to be made to Downtown Development Association Of Lincolnton Inc as per contract terms referenced.
+Invoice inquiry should be directed to cmaurer424@hotmail.com or (07700)900315.
+Thank you for your business with Downtown Development Association Of Lincolnton Inc. We appreciate your prompt payment.
+
+Bank Details for Wire Transfer:
+Account Name: Downtown Development Association Of Lincolnton Inc
+Account Number: 4573319001
+Bank Name: Brescia Bank Trust
+Bank Address: Lugo, Brescia
+SWIFT: BCTRUST22
+
+Authorized Signature:
+---------------------------------------
+Ludmila Sadowsky Lidka
+Director of Financial Services
+
+This document is intended for internal distribution only. Please handle in compliance with organizational internal policies and procedures. Unauthorized distribution, replication, or use is prohibited and subject to disciplinary action.

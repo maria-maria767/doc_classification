@@ -1,0 +1,37 @@
+------------------------
+INFLIXSYS INTERNAL MEMO
+------------------------
+
+DATE: April 10, 2023
+TO: Project Team Leaders
+FROM: Sobieslaw Hrushovsky, Chief Operating Officer, Inflexsys
+SUBJECT: Implementation of Enhanced Security Protocols for Project Delta
+
+Dear Team Leaders,
+
+Starting May 1, 2023, Inflexsys will begin implementation of enhanced security protocols for Project Delta. This initiative is designated RESTRICTED, and access to related documentation is limited to individuals explicitly listed in the Project Delta Security Roster.
+
+Project Background:
+Project Delta is a critical enterprise project aimed at developing the next generation of our proprietary software platforms. Considering the sensitive nature of the technology involved, we are upgrading our security measures to ensure utmost confidentiality and integrity of our intellectual property.
+
+New Protocols:
+1. Two-factor authentication (2FA) will be required for access to all Project Delta file repositories, effective immediately. Instructions for setup will be distributed separately.
+2. All physical documents are to be stored in the secured filing cabinet within the project development center on Raymond Street, Hudson, U.S.A. Access to this facility will be updated to require both keycard and biometric authorization.
+3. External communication concerning Project Delta must be routed through the designated secure email: cc6584@hess-taylor.net. Avoid using personal or non-secure business email addresses.
+
+Compliance:
+All project members are required to sign a revised non-disclosure agreement (NDA) reflecting these enhanced security protocols. Failure to comply may result in disciplinary action, including potential termination of employment.
+
+For any inquiries regarding the new security measures or NDAs, please contact Jovevski Stein at sanja.matosic5@zagreb.hr or reach out by phone at 4717276349 during business hours.
+
+This memo is not to be duplicated or disseminated beyond the authorized recipients. Please destroy any copies of this document once it has been read and comprehended.
+
+Thank you for your immediate attention to these changes and your ongoing commitment to the security of our organization's valuable resources.
+
+Best regards,
+
+Sobieslaw Hrushovsky
+Chief Operating Officer
+Inflexsys
+
+(RESTRICTED DOCUMENT - Copying or distributing this document without proper authorization is prohibited.)

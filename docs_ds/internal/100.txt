@@ -1,0 +1,55 @@
+Purchase Order
+
+Betreff: Order for Office Supplies
+
+Stacy
+First Administrators, Inc.
+Sugar River Trail
+Claremont
+United States of America
+Email: [ff10@yahoo.com](mailto:ff10@yahoo.com)
+Phone: 4318720678
+
+Betreff: Order for Cleaning Services
+
+Stein
+Neat Cleaners
+46 Hollow Lane
+Hempstead
+New York
+11756
+Email: [a-p@vip.hr](mailto:a-p@vip.hr)
+Phone: 2509264626
+
+Betreff: Order for Research Equipment
+
+O H Khan
+Arizona RBI
+38 Hubertusgasse
+Gemeinde Laa an der Thaya
+Niederösterreich
+2136
+Email: [k-zitnjak@vip.hr](mailto:k-zitnjak@vip.hr)
+Phone: +91 (076) 518 45 67
+
+Weitere Informationen:
+
+Produktname Menge Preis
+--------------------- ------ ------
+
+Office Supplies 100 $500
+Cleaning Services 1 month $1000
+Research Equipment 1 $2000
+
+Zahlung:
+
+Art Zahlungsart
+-------- --------
+
+Kreditkarte
+
+Vielen Dank für Ihren Einkauf bei uns.
+
+Mit freundlichen Grüßen,
+
+[Name of Company]

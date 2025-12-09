@@ -1,0 +1,47 @@
+---
+
+**POLICY CHANGE MEMORANDUM**
+
+**To:** All Department Heads  
+**From:** John Doe, HR Director  
+**Date:** April 14, 2023  
+**Subject:** Updated Remote Work Policy
+
+---
+
+**Purpose:**  
+The purpose of this memorandum is to inform all department heads about the upcoming changes to the company's remote work policy. The changes have been designed to enhance productivity and secure company information.
+
+**Policy Change Overview:**
+
+Effective May 1, 2023, the following changes will be implemented:
+
+1. **Eligibility Criteria:** Only employees with a performance rating of 'Meets expectations' or higher for two consecutive review periods will be eligible for remote work.
+
+2. **Application Process:** Eligible employees must submit a formal request outlining their remote work plan to their immediate supervisor. The plan must detail the expected work schedule, communication methods, and deliverables.
+
+3. **Approved Work Environment:** Employees must ensure that their remote work environment meets the company's security standards, including secure internet connection, company-approved antivirus software, and adherence to our confidentiality policy.
+
+4. **Data Security:** Remote workers handling sensitive data must use company-provided VPNs and follow the Information Security Protocol at all times.
+
+5. **Productivity Monitoring:** Managers will use the newly instituted software to monitor and evaluate employee productivity during remote work hours.
+
+6. **Remote Work Agreement:** Employees who are approved for remote work must sign the updated Remote Work Agreement, which outlines all terms and conditions pertaining to remote work.
+
+**Implementation Guidelines:**
+
+- Department heads must distribute this policy to their team members immediately and ensure understanding and compliance.
+- HR will host a webinar on April 24, 2023, to walk through the new policy and answer questions.
+- IT Department will assist employees with setting up remote workstations and ensuring all security measures are in place.
+
+**Compliance:**
+
+Failure to comply with the updated remote work policy may result in the revocation of remote work privileges and/or disciplinary action.
+
+**Feedback:**
+
+Your feedback is important to us. Department heads are encouraged to submit any concerns or suggestions regarding the policy changes to HR by April 21, 2023.
+
+---
+
+This memo contains proprietary policy changes and must be kept confidential. Unauthorized sharing of this information outside the designated recipients is prohibited.

@@ -1,0 +1,42 @@
+-----------------------
+Edward Invoices
+Via Giovanni Paisiello Rd. N°30
+Acerra, Campania
+Phone: +1-838-271-3432
+Email: mburr@jones-parker.online
+-----------------------
+
+Invoice Number: 2023-1045
+Invoice Date: April 15, 2023
+
+BILL TO:
+Borčkie Konečkini Blagun
+28.3718565
+CRAIG, CO
+Email: tucker-goode@gonzales.info
+Phone: 4522042052
+
+DESCRIPTION OF SERVICES:
+- Consulting Services for Rajalakshmi - India
+
+QUANTITY | DESCRIPTION        | UNIT PRICE | TOTAL
+---------------------------------------------------
+    10   | Consultation Hours |   $150.00  | $1500.00
+
+SUBTOTAL:                                           $1500.00
+TAX (10%):                                            $150.00
+
+TOTAL DUE:                                           $1650.00
+
+PAYMENT TERMS: Net 30 days
+Please make payments to Edward Accounting
+Account Number: 789456123
+
+NOTES:
+Thank you for doing business with us. We truly appreciate your support and look forward to serving you again.
+
+Edward Invoices is dedicated to delivering exceptional service. Should you have any queries regarding this invoice or any other matter, please do not hesitate to contact us at the phone number or email address listed above.
+
+-----------------------
+This is a public document.
+-----------------------

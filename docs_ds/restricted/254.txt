@@ -1,0 +1,58 @@
+Financial Statement
+
+For the fiscal year ending December 31, 2022
+
+Sensitivity: RESTRICTED
+
+Prepared by:
+
+Name: Benjamin
+
+Email: [bm@gonzalez-thomas.org](mailto:bm@gonzalez-thomas.org)
+
+Phone: +233554323182
+
+Address: North Pleasant Street, Amherst, Massachusetts, USA
+
+Organization: Mujer Emprende Pr
+
+Balance Sheet:
+
+| Assets | Liabilities | Equity |
+| --- | --- | --- |
+| Cash and Cash Equivalents | Accounts Payable | Shareholder Equity |
+| Accounts Receivable | Short-term Debt | Retained Earnings |
+| Investments | Long-term Debt | Accumulated Other Comprehensive Income |
+| Property and Equipment | | |
+
+Income Statement:
+
+| Revenues | Expenses | Net Income |
+| --- | --- | --- |
+| Sales | Cost of Goods Sold | Gross Profit |
+| Other Revenue | Operating Expenses | Operating Profit |
+| Interest Income | Interest Expense | Other Income |
+| | Taxes | Net Income |
+
+Statements of Cash Flows:
+
+| Operating Activities | Investing Activities | Financing Activities |
+| --- | --- | --- |
+| Net Income | Cash Flow from Investing Activities | Cash Flow from Financing Activities |
+| Adjustments to Net Income | Cash Flow from Operating Activities | Cash Flow from Financing Activities |
+| Changes in Working Capital | Cash Flow from Investing Activities | Cash Flow from Financing Activities |
+
+Notes to Financial Statements:
+
+1. Significant Accounting Policies
+2. Summary of Significant Accounting Policies
+3. Components of Income Tax Expense
+4. Quarterly Financial Data (Unaudited)
+5. Fair Value Measurements
+6. Intangibles and Goodwill
+7. Long-term Debt
+8. Stock-based Compensation
+9. Commitments and Contingencies
+10. Subsequent Events
+
+Prepared by the management of Mujer Emprende Pr for the purpose of internal and external reporting. This financial statement is restricted and should be shared only with authorized personnel.

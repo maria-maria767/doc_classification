@@ -1,0 +1,63 @@
+**INVOICE**
+
+**[Your Company Logo]**  
+**[Your Company Name]**  
+**[Your Company Address]**  
+**[City, State, Zip Code]**  
+**[Phone Number]**  
+**[Email Address]**
+
+Invoice Number: [XXXXXXX]  
+Invoice Date: [MM/DD/YYYY]  
+Due Date: [MM/DD/YYYY]  
+
+**Bill To:**  
+Borčkie Konečkini Blagun  
+Via Giovanni Paisiello rd., Number 30  
+Acerra, Campania  
+Email: mburr@jones-parker.online  
+Phone: 4522042052  
+
+**Ship To:**  
+Tihana Marinov Alekso  
+Via Giovanni Paisiello rd., Number 30  
+Acerra, Campania  
+Email: as@williams-thompson.xyz  
+Phone: +1-838-271-3432  
+
+**Payment Details:**  
+Bank Name: [Bank Name]  
+Account Number: [Account Number]  
+Routing Number: [Routing Number]  
+
+**Product/Service Description**  
+| **Quantity** | **Description** | **Unit Price** | **Amount** |
+| --- | --- | ---:| ---:|
+| Item 1 | Product or service description | $0.00 | $0.00 |
+| Item 2 | Product or service description | $0.00 | $0.00 |
+| Item 3 | Product or service description | $0.00 | $0.00 |
+
+**Subtotal:** $0.00  
+**Sales Tax (if applicable):** $0.00  
+**Total Amount:** $0.00  
+
+PAYMENT: If payment is not received by the due date, a late fee may be applied.
+
+**Comments or Special Instructions:**  
+- Thank you for your business.  
+- Should you have any inquiries regarding this invoice, please contact us at [Your Contact Information].  
+
+**[Your Company Name]**  
+**[Your Company Contact Information]**
+
+**NOTES:**  
+The information contained in this invoice is intended for the recipient(s) only and may be subject to confidentiality restrictions. If you are not a designated recipient, please notify the sender and delete all copies of this document. Unauthorized use, disclosure, or copying of this invoice or any information contained within is strictly prohibited.
+
+**Public Disclosure Authorized**  
+This document has been categorised with a sensitivity level of "PUBLIC" and therefore is not subject to confidentiality restrictions and can be shared with anyone. 
+
+[Your Signature (if required)]  
+[Your Name]  
+[Your Title]  
+
+Please remind that actual values (placeholders such as [XXXXXXX] or $0.00) should be replaced with the real invoice data and correct amounts before the document is finalized and sent to the recipient.

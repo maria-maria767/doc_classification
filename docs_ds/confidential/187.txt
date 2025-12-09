@@ -1,0 +1,38 @@
+Résumé
+
+Zhaklina Aleksandrova Julia Ela Franušić Pilat
+
+CONTACT INFORMATION
+
+Address: Tapiontie, Vantaa, Suomi
+Phone: 1811583962
+Email: [bd@kurtoic.hr](mailto:bd@kurtoic.hr)
+
+EDUCATION
+
+Bachelor of Science in Computer Science, CHEYENNE OK, 2015-2019
+Master of Science in Data Science, MAHANOY PA, 2019-2021
+
+EXPERIENCE
+
+Data Analyst, Elevation solutions, PEQUOT LAKES MN, 2021-Present
+
+* Work with large datasets to extract insights and trends
+* Develop predictive models to improve business operations
+* Collaborate with cross-functional teams to implement data-driven solutions
+
+Data Scientist, Fluent Advertising, LITTLE RIVER ROAD BETHLEHEM NEW HAMPSHIRE, 2021-2022
+
+* Design and implement machine learning models for targeted advertising
+* Conduct A/B testing to optimize campaign performance
+* Analyze user behavior and feedback to inform product development
+
+SKILLS
+
+* Proficient in Python, R, SQL
+* Experience with machine learning frameworks (e.g. TensorFlow, PyTorch)
+* Knowledge of statistical modeling and data visualization
+
+REFERENCES
+
+Available upon request.

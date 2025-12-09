@@ -1,0 +1,20 @@
+INVOICE
+
+Bill To:
+Olgica Theophanous Kelvin Crow
+28.1198117 or 8 Radnor Lane Morrisville New York 13408
+Pavia
+c.perez150@gmail.com
+2500233769
+
+From:
+Itab Recruitment
+Ziedoņa iela, Rīga, Vidzeme
+Forlì-Cesena
+[www.itabrecruitment.com](http://www.itabrecruitment.com)
+
+Date: 2022-03-08
+Invoice No: 00123
+
+Description Qty Unit Price Total
+------------------------------

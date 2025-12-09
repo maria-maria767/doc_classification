@@ -1,0 +1,53 @@
+INVOICE
+
+Bill To:
+Milanko Swiatkowski
+Vivienne Glaser
+Grayson, Abhiram Langford
+Klara Nora Brooks Ingram
+28 Fairlawn Lane
+Lexington, Massachusetts, 02420-2219
+United States of America
+Email: [bd@kurtoic.hr](mailto:bd@kurtoic.hr)
+Phone: +1-290-533-8863
+
+From:
+Cofidis Retail
+State Route 116 rd.
+Jordan, Vermont, 05672
+United States of America
+Email: [xm@cabrera.site](mailto:xm@cabrera.site)
+Phone: +1-290-533-8863
+
+Invoice Number: 12345
+Invoice Date: 03/03/2023
+Due Date: 03/24/2023
+
+Description Quantity Unit Price Total
+-------------------------------------
+
+Product A 1 $500.00 $500.00
+Product B 2 $250.00 $500.00
+Product C 3 $100.00 $300.00
+
+Subtotal $1,350.00
+Taxes $65.00
+Shipping $20.00
+Total $1,435.00
+
+Payment Terms: Net 30
+Payment Method: Credit Card
+
+Please remit payment to:
+Cofidis Retail
+State Route 116 rd.
+Jordan, Vermont, 05672
+United States of America
+Email: [xm@cabrera.site](mailto:xm@cabrera.site)
+Phone: +1-290-533-8863
+
+Thank you for your business!
+
+Sincerely,
+[Your Name]
+Cofidis Retail

@@ -1,0 +1,79 @@
+**POLICY AND PROCEDURE DOCUMENT**
+_________________________________________________
+
+**Title**: Internal Email Communication Policy
+
+**Effective Date**: April 15, 2023
+
+**Document Control Number**: IP-0003
+
+**Revision Number**: 01
+
+**Approved by**: Zhaklina Aleksandrova Charanjot, Director of Internal Communications
+
+**Applies to**: All employees of Heath Marketing And Consulting
+
+**Purpose**:
+To establish standardized procedures and responsibilities for internal email communications within Heath Marketing And Consulting, ensuring productivity, security, and the appropriate use of the company’s email system.
+
+**Scope**:
+This policy applies to all employees of the company who have access to the company’s email system.
+
+**Policy**:
+1. **Use of Email System**
+   - The company email system is provided for business purposes and must be used primarily for conducting company business.
+   - Employees are permitted to use the email system for incidental personal messages provided such use does not interfere with their job performance, is not for commercial or personal financial gain, and does not burden the company's systems or storage capacity.
+
+2. **Email Etiquette**
+   - Emails must contain a clear and relevant subject line. Abbreviations are permitted if they are well understood within the organization.
+   - The use of the company logo and standardized signatures are compulsory for each email sent.
+   - Employees should proofread emails for spelling, grammar, and tone before sending.
+
+3. **Confidential and Sensitive Information**
+   - Sharing confidential or sensitive information via email must be done with caution. Employees must double-check the list of recipients and encrypt emails where necessary.
+   - When discussing sensitive matters, it is often preferable to use other forms of communication, such as in-person meetings or secure videoconference calls.
+
+4. **Email Distribution Lists**
+   - Use of email distribution lists should be limited to professional matters.
+   - Employees must obtain approval from their direct supervisor before sending emails to company-wide distribution lists.
+
+5. **Email Retention and Archiving**
+   - All business-related email communications should be retained for a period of no less than seven years.
+   - Employees are responsible for organizing their inboxes and archiving emails according to the company's data retention policy.
+
+6. **Prohibited Use**
+   - The email system shall not be used for sending messages that might be considered harassing, demeaning, or disruptive.
+   - Using the company email system to access, send, or download any material inappropriate for the workplace, including offensive content, is strictly prohibited.
+
+**Procedures**:
+1. **Creating and Maintaining Distribution Lists**:
+   - Contact IT Support for the creation of new distribution lists.
+   - Review and update distribution lists quarterly to ensure accuracy.
+
+2. **Handling Confidential Information**:
+   - Use secure email when sending sensitive information.
+   - Consult the IT Department for appropriate encryption technologies.
+
+**Enforcement**:
+1. Any employee found to be in violation of this policy may be subject to disciplinary action up to and including termination of employment.
+2. Suspected misuse should be reported to the Human Resources Department immediately.
+
+**Responsibilities**:
+- Employees are responsible for adhering to this policy at all times.
+- Department Heads must ensure their team members are informed about this policy and adhere to its guidelines.
+- IT Support is responsible for providing necessary tools and assistance in implementing elements of this policy related to technology.
+
+**Contact Information**:
+- For policy clarification: Contact Zhaklina Aleksandrova Charanjot at jacob.britt@reynolds-owen.com or call 5281 22 3798.
+- For IT support: Contact Dimše Molerov Bruno at as@williams-thompson.xyz or call +91 (076) 518 45 67.
+
+**Attachment(s)**:
+- Appendix A: Standardized Email Signature Format
+- Appendix B: Data Retention and Archiving Guidelines
+
+**Revision History**:
+- Revision 01: April 15, 2023 - Initial release of the document.
+
+This document is property of Heath Marketing And Consulting and contains confidential information. It is intended for internal use only and may not be distributed outside of the organization without proper authorization.
+
+End of Document

@@ -1,0 +1,67 @@
+INVOICE
+
+Invoice Number: 2023-0401C
+Invoice Date: April 1, 2023
+Due Date: April 15, 2023
+
+BILL TO
+Milanko Swiatkowski
+28 Fairlawn Lane
+Lexington, MA 02420-2219
+United States of America
+
+SHIP TO
+Klara Nora Brooks Ingram
+State Route 116 rd. on number 9329
+Hinesburg, Vermont
+United States of America
+
+DESCRIPTION OF SERVICES
+
+From: Heath Marketing And Consulting
+Woodcrest Drive
+Johnston, United States of America
+
+To: Milanko Swiatkowski
+
+Services Provided:
+- Marketing Strategy Development and Analysis
+- Market Research and Competitive Analysis
+- Campaign Planning and Execution for Q2 2023
+
+QUANTITY | UNIT PRICE (USD) | TOTAL (USD)
+--------------------------------------------------------------
+Marketing Services | 120 hrs | $200/hr | $24,000.00
+Research Services | 60 hrs | $150/hr | $9,000.00
+
+SUBTOTAL: $33,000.00
+TAX (6%): $1,980.00
+TOTAL DUE: $34,980.00
+
+Terms: Net 15
+
+PAYMENT INFO
+Please make all payments to:
+Heath Marketing And Consulting
+Account Number: 808-1234567890
+Routing Number: 031000053
+Payment Remittance Email: xm@cabrera.site
+
+QUESTIONS?
+If you have any questions regarding this invoice, please contact:
+Vivienne Glaser Grayson
+Phone: +1-290-533-8863
+Email: xm@cabrera.site 
+
+NOTES:
+- Please quote the invoice number in all communications.
+- Late payment will incur a charge of 2% per month on any outstanding balance.
+
+Thank you for your business!
+
+-------
+
+Confidentiality Notice:
+This invoice contains confidential information and is intended only for the individual or entity named above. If you are not the intended recipient, you should not disseminate, distribute or copy this invoice. If you have received this communication in error, please notify the sender immediately by email and delete the original message.
+
+-------

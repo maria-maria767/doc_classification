@@ -1,0 +1,47 @@
+MEMORANDUM
+
+To: All Department Heads
+From: Chief Operating Officer
+Date: April 12, 2023
+Subject: Implementation of New Email Retention Policy
+
+Dear Colleagues,
+
+This memorandum serves to inform you about the forthcoming changes to our company’s email retention policy, which will impact all departments and their operations. As part of our ongoing efforts to improve data management and security, we are implementing a new policy that will standardize how we retain and archive email communications throughout the company.
+
+Please note the key points of the new email retention policy:
+
+1. Duration of Retention:
+   - All emails will be automatically archived for a period of 5 years.
+   - Emails that are deemed significant for legal, regulatory, or business reasons can be retained for longer periods upon request and approval.
+
+2. Categorization:
+   - Emails will be categorized according to content sensitivity and relevance to ongoing operations.
+   - It is the responsibility of each employee to ensure proper categorization of emails they send and receive.
+
+3. Access to Archived Emails:
+   - Archived emails can be accessed by authorized personnel only, as defined by departmental access control policies.
+   - Requests for access to archived emails beyond the standard retention period must be reviewed and approved by the Legal Department.
+
+4. Deletion of Emails:
+   - Emails will be systematically purged from the system after the expiry of their retention period unless flagged for extended retention.
+
+5. Employee Training and Compliance:
+   - Training sessions on the new email retention policy will be conducted for all employees.
+   - Compliance with the new policy is mandatory, and adherence will be audited periodically.
+
+As leaders within our company, it is crucial that you understand the implications of these changes and help to ensure a smooth transition. Each department must assess its current email practices in light of the new policy and prepare accordingly.
+
+We will hold a briefing session on April 25, 2023, where the IT Department will provide detailed instructions on the procedural changes, and the Legal Department will offer guidance on compliance requirements.
+
+Please cascade this information to your teams and ensure they are aware of the upcoming changes. Your cooperation and diligence in adhering to this new policy are critical to its successful implementation.
+
+If you have any questions or concerns regarding this policy or its implementation, please contact Jane Doe, our Chief Information Officer, at jane.doe@company.com.
+
+Thank you for your attention to this important matter.
+
+Sincerely,
+
+[Signature]
+John Smith
+Chief Operating Officer

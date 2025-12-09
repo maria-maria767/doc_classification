@@ -1,0 +1,58 @@
+MEMORANDUM
+
+To: All Department Heads
+From: Vasil Mončev Stoile, Chief Operations Officer
+Date: April 3, 2023
+Subject: Implementation of New Software Solutions
+
+Dear Team,
+
+As part of our continuous effort to improve productivity and enhance data management within the company, we have recently partnered with Cameron Parker Hiller to develop a customized software solution to streamline our day-to-day operations. This is in line with our strategic goal to leverage technology for better efficiency.
+
+The software, which will be implemented across all departments, includes the following features:
+1. Integrated Customer Relationship Management (CRM) module.
+2. Advanced project management tools with real-time collaboration capabilities.
+3. An employee self-service portal for HR-related functions.
+4. Comprehensive analytics and reporting system.
+
+We have organized a series of training sessions to ensure that all employees are familiar with the new system:
+
+Session 1: CRM Module Overview
+- Date: April 18, 2023
+- Time: 11:00 AM to 1:00 PM
+- Location: Conference Room B
+- Trainer: Pando Daskalov Adelle, Senior IT Consultant
+
+Session 2: Project Management Tools
+- Date: April 20, 2023
+- Time: 2:00 PM to 4:00 PM
+- Location: Conference Room C
+- Trainer: Eva Radosavljević Knego, Product Manager
+
+Session 3: Employee Self-Service Portal
+- Date: April 25, 2023
+- Time: 9:00 AM to 11:00 AM
+- Location: Training Room 2
+- Trainer: IT Support Team
+
+Session 4: Analytics and Reporting
+- Date: April 27, 2023
+- Time: 10:00 AM to 12:00 PM
+- Location: Training Room 3
+- Trainer: Data Analysis Department
+
+It's imperative that at least one representative from each department attend every session. Please confirm the attendance of your representatives by April 10th, 2023, by sending an email to jacob.britt@reynolds-owen.com or via the internal portal.
+
+Kindly note that the software will go live on May 1st, 2023. We expect a smooth transition and minimal disruption to our workflow. Your cooperation and support in this initiative is highly appreciated.
+
+Please treat this information as INTERNAL DIFFUSION and refrain from sharing it outside the organization. If you have any questions or concerns regarding the implementation schedule or the training, feel free to contact the Project Lead, Eva Radosavljević Knego, at extension 4280.
+
+Best Regards,
+Vasil Mončev Stoile
+Chief Operations Officer
+
+Attachment: Software Implementation Schedule.xlsx
+
+cc: Human Resources Department, IT Department, Project Management Office
+File: Project_Zebra_Software_Implementation
+Sensitivity Level: DIFFUSION INTERNAL

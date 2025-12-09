@@ -1,0 +1,62 @@
+Purchase Order Number: PO-92817JL
+
+Date: April 5, 2023
+
+To: 
+Helgeson 3D Design
+Attention: H Pasiukevich
+Via C. Colombo, Premana, Lombardia
+Phone: +55 18 93839 5749
+Email: as@williams-thompson.xyz
+
+From: 
+Nanochap Electronics Pty Ltd.
+28.3564523
+NEWPORT, NC
+Phone: 31 0020-5087
+Email: lcurtis6855@reese-warner.ly
+
+Billing Address: 
+Nanochap Electronics Pty Ltd.
+Accounts Payable
+28.3564523
+NEWPORT, NC
+
+Shipping Address: 
+Nanochap Electronics Pty Ltd.
+Receiving Department
+28.3564523
+NEWPORT, NC
+
+Purchase Order Details:
+
+Item No. | Description | Quantity | Unit Price | Total
+---------|-------------|----------|------------|-------
+001      | 3D Printer Extruder | 5       | $1,250.00  | $6,250.00
+002      | High-precision Nozzle Set | 10  | $200.00    | $2,000.00
+003      | Heat-resistant Filament      | 20 | $50.00     | $1,000.00
+         |                                             |             | Subtotal: | $9,250.00
+         |                                             |             | Tax (7%): | $647.50
+         |                                             |             | Shipping: | $300.00
+         |                                             |             | TOTAL:    | $10,197.50
+
+Payment Terms: Net 30 days upon receipt of invoice.
+
+Delivery Date: Please ship to arrive no later than May 10, 2023.
+
+Ordered by: 
+Andersen Zhinzifova
+Procurement Officer
+Nanochap Electronics Pty Ltd.
+Phone: +55 (12) 9 0026-7733
+Email: leo-forrest3962@mitchell-sexton.com
+
+Please acknowledge receipt of this purchase order and confirm the expected delivery date by returning a signed copy via email.
+
+This document is intended for internal distribution within Nanochap Electronics Pty Ltd. and Helgeson 3D Design only and should not be shared externally or with unauthorized personnel.
+
+Authorized Signature: _______________________
+
+Date: _____________________________________
+
+This purchase order does not constitute an agreement until it is accepted by the supplier's duly authorized representative.

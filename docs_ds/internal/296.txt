@@ -1,0 +1,48 @@
+ contract agreement
+
+This Contract Agreement (the "Agreement") is entered into on this \_\_ day of \_\_
+
+\_\_\_\_\_\_\_\_\_\_\_\_ Svyatoslav Zasarov Adelle, residing at -16.3647763, Bayonne Avenue, Warwick, United States of America (the "Client")
+
+and
+
+\_\_\_\_\_\_\_\_\_\_\_\_ Thelma and Nathalie Krieger (collectively referred to as "the Hosts"), residing at Via del Fante, 12, 47121 Forlì-Cesena, Italy
+
+(collectively referred to as the "Parties")
+
+represent that they have read and understand the terms of this Agreement and agree to be bound by its terms and conditions.
+
+Pursuant to this Agreement, the Parties agree as follows:
+
+1. Term of the Agreement
+The term of this Agreement shall be for a period of \_ months, commencing on the date of signature below, and ending on \_***.
+2. Services
+The Client shall engage the Hosts to provide the following services:
+* \_\_\_\_\_\_\_\_\_\_\_\_
+* \_\_\_\_\_\_\_\_\_\_\_\_
+* \_\_\_\_\_\_\_\_\_\_\_\_
+3. Compensation
+The Client shall compensate the Hosts in the amount of \_\_\_\_\_\_\_\_\_\_\_\_ for the services rendered.
+4. Confidentiality
+The Parties agree to keep confidential all information, data, and materials exchanged or disclosed in connection with this Agreement.
+
+IN WITNESS WHEREOF, the Parties have executed this Agreement as of the date first above written.
+
+---
+
+Svyatoslav Zasarov Adelle
+Thelma and Nathalie Krieger
+
+---
+
+Annexes:
+
+* List of guests invited to the event
+* Event itinerary
+* Host's contact information (email, phone)
+
+---
+
+Organization: Kestrel technologies
+
+Note: This document is intended for internal use only, and should not be shared with unauthorized parties.

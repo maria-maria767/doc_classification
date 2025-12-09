@@ -1,0 +1,54 @@
+---------------------------------------------------------
+INVOICE
+---------------------------------------------------------
+
+Invoice No: INV-934793
+Date: April 1, 2023
+
+Bill To:
+Edin Načev Velizar
+33 Heinestraße
+Sebnitz, Sachsen, 01855
+jm98@schroeder-johnson.net
+Phone: 13674632415
+
+Ship To:
+Beds & Beats
+56 Köppelsdorfer Straße
+Sonneberg, Thüringen, 96515
+a-p@vip.hr
+Phone: (07700)900940
+
+Invoice Details:
+---------------------------------------------------------
+ITEM                      |   QTY  | UNIT PRICE | TOTAL
+---------------------------------------------------------
+Music Licensing Fee       |    5   | €300.00    | €1500.00
+Sound Design Consultation |    2   | €600.00    | €1200.00
+Custom Jingle Creation    |    3   | €800.00    | €2400.00
+---------------------------------------------------------
+SUB TOTAL                                            €5100.00
+VAT (20%)                                            €1020.00
+---------------------------------------------------------
+TOTAL (EUR)                                         €6120.00
+---------------------------------------------------------
+Payment is due within 30 days of the invoice date.
+
+Payment Information:
+Please make all payments to:
+ALCIDES & ROSAURA DINIZ (ARD) FOUNDATION
+Account No.: 9876543210 
+Bank: Cocoon Consulting Bank
+SWIFT: CCBSXX88XXX
+
+Notes:
+- Thank you for your business.
+- If you have any questions about this invoice, please contact our Billing Department at mhowell5457@dawson.xyz or call 10940/ 46 479.
+- Please refer to the Invoice No. when making payments.
+
+---------------------------------------------------------
+End of Invoice Document
+---------------------------------------------------------
+
+CONFIDENTIALITY NOTICE:
+This invoice contains confidential information intended for the designated recipient(s) only. Unauthorized disclosure, copying, distribution, or use of this information is strictly prohibited. If you are not the intended recipient, please contact the sender and destroy all copies of the original message and attached documents.

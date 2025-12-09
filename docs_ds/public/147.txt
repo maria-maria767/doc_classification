@@ -1,0 +1,62 @@
+Purchase Order
+
+Date: 05/03/2023
+
+To: Malčkiankov Olgica
+
+From: Wade
+
+Subject: Purchase Order - Parts for Production Line
+
+Dear Ms. Olgica Malčkiankov,
+
+Thank you for your recent inquiry about parts for our production line. We are pleased to inform you that your order has been approved, and we can proceed with the delivery. The purchase order details are as follows:
+
+Order Number: PO-01234
+
+Bill To:
+Name: Malčkiankov Olgica
+Address: 74.5647012, State Route 116 rd. 9329, Hinesburg, Vermont, USA
+City: OILTON
+State: OK
+Zip: 73763
+Country: United States
+
+Shipping To:
+Name: Olgica Malčkiankov
+Address: 74.5647012, State Route 116 rd. 9329, Hinesburg, Vermont, USA
+City: OILTON
+State: OK
+Zip: 73763
+Country: United States
+
+Description Quantity Unit Price Total
+----------- --------- -------- -------
+
+Part A 10 $50 $500
+Part B 5 $75 $375
+Total $875
+
+We will deliver the order to the above shipping address by our carriers within 10 business days from the date of this order. Please verify the order details and contact us if there are any issues.
+
+Please make the payment for this order by check or wire transfer to the following account:
+
+Account Holder: Wade
+Account Number: 123456789
+Bank Name: Bank of the West
+Branch: Hinesburg Main
+Routing Number: 123456789
+Swift Code: WEBKUS44XXX
+Address: 74.5647012, State Route 116 rd. 9329, Hinesburg, Vermont, USA
+City: OILTON
+State: OK
+Zip: 73763
+Country: United States
+
+Thank you for your business with us. If you have any questions or concerns, please do not hesitate to contact us.
+
+Sincerely,
+
+Kiril Garvanov
+Customer Service
+Wade

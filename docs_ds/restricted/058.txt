@@ -1,0 +1,46 @@
+INTERNAL MEMORANDUM
+
+TO: Senior Management Team
+FROM: Alexander Carlos, Director of Operations
+DATE: April 1, 2023
+SUBJECT: Confidentiality Protocol Revision – Project Pablo
+
+As we intensify our efforts on Project Pablo, it is imperative that we revisit and enforce our confidential information handling procedures given the sensitive nature of the project. The details of this project must be strictly confined to personnel who have been pre-authorized for access.
+
+Effective immediately, the following protocols are to be adopted:
+
+1. DATA CLASSIFICATION:
+   All documents, communications, and datasets pertaining to Project Pablo are hereby classified as RESTRICTED. Access to these materials is to be granted solely on a need-to-know basis.
+
+2. ACCESS CONTROL:
+   - An updated list of authorized personnel is to be maintained by Mirče Stanojevski, Chief Security Officer. Requests for access must be directed to Mr. Stanojevski and will be subject to thorough vetting.
+   - Electronic files will be encrypted and stored in a dedicated server with two-factor authentication required for access.
+
+3. TRANSMISSION OF INFORMATION:
+   - All emails containing project details must be sent through secure, encrypted channels. Usage of personal email addresses (e.g., n.baric@klanac.biz, scann@shepard-reed.com) for project communication is strictly prohibited.
+   - Telephonic conversations on sensitive matters should occur via secure lines only. The use of the company-allocated numbers, such as (051) 3866-0935, is recommended for voice communications.
+
+4. DOCUMENT HANDLING:
+   - Hard copies of RESTRICTED documents must be stored in a locked cabinet within the designated secure area at our offices at Beattie Avenue, Middletown, New York.
+   - Printing of project documents outside office premises is forbidden.
+
+5. EXTERNAL COMMUNICATIONS:
+   - Discussing project specifics with external partners or vendors is prohibited unless an NDA (Non-Disclosure Agreement) is in place and the communication has been approved by Belevski Hendrik Skaggs Nelms, Legal Affairs.
+
+Any breach of these protocols will be considered a serious offense and will be met with disciplinary action, which may include termination of employment and legal action where necessary.
+
+It is the responsibility of each member of our senior management team to ensure that their respective departments comply with these revised protocols. All questions regarding this memorandum should be directed to the Office of the Director of Operations.
+
+Thank you for your immediate attention to this critical matter and for your continued dedication to maintaining the integrity and security of our operations.
+
+Alexander Carlos
+Director of Operations
+Walter Industries
+
+(For any further inquiries, please contact the Office of the Director of Operations at (07700)900315.) 
+
+*Please acknowledge the receipt and understanding of this memorandum by signing and returning a copy to my office by COB today.*
+
+-------------------------
+END OF RESTRICTED DOCUMENT
+-------------------------

@@ -1,0 +1,58 @@
+ contract agreement
+
+This Contract Agreement (the "Agreement") is entered into on \_\_[date]__ by and between Svyatoslav Zasarov Adelle, residing at -16.3647763 or Bayonne Avenue, Warwick, United States of America (the "Supplier"), and Thelma, residing at -16.3647763 or Bayonne Avenue, Warwick, United States of America (the "Client").
+
+Recitals
+
+A. The Supplier is a supplier of products and services in the field of technology, while the Client is a party interested in acquiring the said products and services.
+
+B. The Client desires to engage the Supplier to provide products and services in accordance with the terms and conditions set forth herein.
+
+C. The Supplier desires to accept such engagement on the terms and conditions set forth herein.
+
+Background
+
+The Supplier has agreed to provide the Client with the following products and services:
+
+A. The supply of a specified number of computers
+B. The installation of specified software
+C. Technical support for a period of one year
+
+Terms and Conditions
+
+1. Duration of the Agreement. The Agreement shall commence on the effective date and shall continue for a period of two years.
+2. Payment. The Client shall make payment to the Supplier as follows:
+A. A 50% deposit upon execution of the Agreement
+B. The balance upon completion of the services.
+3. Warranties. The Supplier warrants that the products and services provided shall be free from defects in material and workmanship for a period of one year from the date of delivery.
+4. Confidentiality. The parties agree to keep confidential all information exchanged in connection with the performance of this Agreement.
+
+Representations and Warranties
+
+The Supplier represents and warrants that:
+
+A. It is authorized to enter into this Agreement.
+B. The products and services provided shall be in compliance with all applicable laws and regulations.
+
+Indemnification
+
+The Supplier shall indemnify and hold harmless the Client from and against any and all claims, damages, expenses, and liabilities arising from the breach of any of the Supplier's representations, warranties, or covenants contained herein.
+
+Governing Law
+
+This Agreement shall be governed by and construed in accordance with the laws of the State of New York.
+
+Entire Agreement
+
+This Agreement constitutes the entire agreement between the parties and supersedes any and all prior negotiations, understandings, and agreements between the parties, whether written or oral.
+
+Amendment
+
+This Agreement may only be amended in writing signed by both parties.
+
+IN WITNESS WHEREOF, the parties have executed this Agreement as of the date first above written.
+
+---
+
+Svyatoslav Zasarov Adelle Thelma
+Supplier Client

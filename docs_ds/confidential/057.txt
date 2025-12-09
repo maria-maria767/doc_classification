@@ -1,0 +1,52 @@
+INVOICE
+
+Bill To:
+Olgica Theophanous
+8 Radnor Lane
+Morrisville, New York 13408
+Email: elaine.briggs@williams-martin.website
+Phone: +233554323182
+
+Invoice Number: 2023-CA-02576
+Invoice Date: April 5, 2023
+Due Date: April 30, 2023
+
+Itemization:
+----------------------------------------------------------------------------
+| Item No. | Description            | Quantity | Unit Price | Total Price |
+----------------------------------------------------------------------------
+| 001      | Recruitment Services   | 10       | $1,500     | $15,000     |
+| 002      | Professional Headshots | 5        | $200       | $1,000      |
+| 003      | Consulting Fee         | 20 hours | $100/hr    | $2,000      |
+----------------------------------------------------------------------------
+Subtotal:                                                                   $18,000.00
+Sales Tax (8.875%):                                                         $1,597.50
+----------------------------------------------------------------------------
+TOTAL DUE:                                                                  $19,597.50
+----------------------------------------------------------------------------
+
+Payment Instructions:
+Please make all payments to the order of Itab Recruitment.
+Bank details for wire transfers are as follows:
+- A/C Name: Itab Recruitment
+- Bank: Belgian Company BVBA
+- A/C No: 890-1234-5567
+- SWIFT Code: BBVCBE88XXX
+
+Payment Terms:
+Payment is due by April 30, 2023. Late payments may be subject to additional fees or service interruption. If you have any questions regarding this invoice, please contact Liora Jacques Ott at jletourneau@hickman.biz or call us directly at 31 0020-5087.
+
+Please remit payment at your earliest convenience.
+
+Thank you for your business!
+
+Issued by:
+Kelvin Crow
+Itab Recruitment
+28.1198117
+Pavia
+c.perez150@gmail.com
+Phone: 2500233769
+
+NOTICE:
+This document contains confidential information. Unauthorized use, disclosure, or copying is strictly prohibited and may be unlawful. This document is intended for the named addressee only. If you are not the intended recipient, please contact the sender immediately and destroy this document.

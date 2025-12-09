@@ -1,0 +1,38 @@
+Purchase Order
+
+Date: 05/03/2023
+
+To: Malčkiankov, Olgica Theophanous Djokotoe, Kiril Garvanov Sinisa
+
+From: Wade
+
+Subject: Purchase Order for Products
+
+Dear Sir/Madam,
+
+We are pleased to enclose our Purchase Order for the products you have offered to us. We have reviewed your offer and have selected the following items:
+
+* Item 1: Qty: 100 Price: $100
+* Item 2: Qty: 50 Price: $50
+* Item 3: Qty: 25 Price: $75
+
+Total Amount: $225
+
+Please ship the products to the following address:
+
+Wade
+Trailer Park
+Sodus Point, New York
+United States
+
+You may contact us at the following email or phone number for any queries:
+
+Email: [adesilva6@pugh-bowman.net](mailto:adesilva6@pugh-bowman.net)
+Phone: 1477 50 4146
+
+Please confirm the receipt of this order by replying to this email. We look forward to doing business with you.
+
+Sincerely,
+
+Moana Aries Bess
+Purchase Manager, Wade

@@ -1,0 +1,65 @@
+Product Specification Document
+
+1. Product Overview
+Title: EnviroClean Air Purification System
+Version: 3.2
+Prepared by: Nixon Puentes
+Organization: Nicholas Ward Consulting
+Date: April 10, 2023
+
+2. Product Description
+The EnviroClean Air Purification System is designed to provide superior air cleaning solutions for residential and commercial settings. This high-efficiency system uses advanced HEPA filtration coupled with an innovative ionization process to remove airborne contaminants, ensuring an environment that is not only clean but also conducive to better health and well-being.
+
+3. Key Features
+- Four-stage filtration process, including pre-filter, activated carbon filter, HEPA filter, and post-filter ionization.
+- Smart sensor technology that adjusts filtration speed based on the air quality.
+- Quiet operation with noise levels not exceeding 35 dB.
+- Energy-efficient design with an Energy Star rating.
+- Easy-to-use digital display with touch controls and remote access via Wi-Fi.
+- Filter replacement indicator and economical long-life filters.
+
+4. Technical Specifications
+Dimensions: 760mm x 350mm x 350mm
+Coverage Area: Up to 750 sq. ft with an air change rate of 5 times per hour.
+Particle Removal Efficiency: 99.97% for particles as small as 0.3 microns.
+CADR (Clean Air Delivery Rate): 500m³/h
+Power Consumption: Max 60W
+Wi-Fi Connectivity: IEEE 802.11b/g/n (2.4 GHz)
+
+5. Compliance Standards
+- Complies with the following international environmental standards: ISO 14001, RoHS, and Energy Star.
+- Meets mechanical and electrical safety standards of UL 507 and CE marking.
+
+6. Target Market
+The EnviroClean Air Purification System is aimed at consumers who suffer from allergies, respiratory conditions, or those who are health-conscious. It is equally beneficial for professionals looking for cleaner air solutions in environments such as hospitals, schools, and offices.
+
+7. Packaging Details
+Product packaging will be eco-friendly, made from recycled materials, and fully recyclable. The product will be secured within the box using molded pulp inserts to prevent damage during shipping.
+
+8. Contact Information
+Technical Product Manager:
+Nixon Puentes
+email: a.r48@cooper-phillips.us
+Phone: +55 52 95809 6036
+
+Sales and Marketing Manager:
+Davor Velševska Leylani
+email: m-jalusic@jakopec.biz
+Phone: 31 5514-6278
+
+Address for Product Inquiries:
+Nicholas Ward Consulting
+858 Thompson Street, North Haven, 06513 Connecticut
+
+9. Additional Notes
+- The initial launch will be focused on markets in LA MESA, CA, and MIAMI, FL.
+- Distribution channels will include major electronic retailers and specialty stores for home and office appliances.
+- After-sales support will be handled through our customer service centers located in the respective cities.
+
+10. Document Revision History
+- Version 1.0 – May 1, 2022
+- Version 2.0 – November 15, 2022
+- Version 3.0 – January 20, 2023
+- Version 3.2 – April 8, 2023
+
+This document contains proprietary and confidential information belonging to Nicholas Ward Consulting and is shared on a need-to-know basis. Unauthorized dissemination, distribution, or copying of this document is strictly prohibited.

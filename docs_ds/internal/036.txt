@@ -1,0 +1,41 @@
+MEMORANDUM
+
+TO: All Departmental Heads
+FROM: Jane Doe, Chief Operations Officer
+DATE: April 5, 2023
+SUBJECT: Revised Meeting Schedule and Prioritization Guidelines
+
+Dear Team,
+
+As part of our ongoing efforts to enhance operational efficiency and ensure that all departments are aligned with our organizational goals, we hereby announce the implementation of a revised meeting schedule and a set of prioritization guidelines.
+
+1. REVISED MEETING SCHEDULE:
+The frequency of inter-departmental meetings will be adjusted as follows:
+- Strategic Review Meetings: To be held bi-monthly on the first Monday, from 10 am to 12 pm.
+- Departmental Sync-Up Sessions: Weekly meetings every Wednesday, limited to 30 minutes per session.
+- Project Status Updates: As needed, but not exceeding once per week per project, scheduled in advance by the Project Managers.
+
+2. PRIORITIZATION GUIDELINES:
+Effective immediately, projects and tasks are to be prioritized in the following order:
+- Category A: Client-specific deliverables with predetermined deadlines (Highest Priority).
+- Category B: Internal process improvement initiatives that yield time or cost savings.
+- Category C: Research and development (R&D) for long-term growth (Lower Priority).
+All departmental leads are expected to ensure compliance with these guidelines and adjust their workflow accordingly.
+
+3. REPORTING CHANGES:
+To minimize disruptions and improve the visibility of departmental activities, the following changes will also be made to reporting procedures:
+- All reports should now include a "Prioritization Category" identifier at the top right corner of the first page.
+- Summary reports of weekly activities will be submitted by Departmental Heads to the COO office each Friday by 4 pm without fail.
+- Urgent matters that cannot wait for the weekly report should be communicated immediately via email with the subject line "URGENT: [Brief Description]."
+
+ACTION REQUIRED:
+Departmental Heads are required to cascade this information to their respective teams by April 8, 2023, and implement the changes effective April 10, 2023. A mandatory briefing session will be held on April 7, at 3 pm in the conference room, where any questions or concerns regarding these changes can be addressed.
+
+We thank you for your cooperation and commitment to driving our organization forward. If you have any immediate questions or require clarification prior to the briefing session, please do not hesitate to contact my office.
+
+Sincerely,
+
+Jane Doe
+Chief Operations Officer
+
+[End of Document - DIFFUSION INTERNAL]

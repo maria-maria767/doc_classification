@@ -1,0 +1,25 @@
+Product Specification:
+
+Product Name: EcoFly Hybrid Air Purifier
+Product Description: The EcoFly Hybrid Air Purifier is a innovative air purification system that uses a combination of activated carbon and HEPA filters to remove particles, odors, and pollutants from the air.
+
+Specifications:
+
+* Model Number: EC-APH-100
+* Filter Type: Activated Carbon and HEPA
+* Filter Size: 300 x 300 mm
+* Air Flow Rate: 300 m3/h
+* Noise Level: 55 dB
+* Power Consumption: 50 W
+* Dimensions: 450 x 450 x 200 mm
+* Weight: 8 kg
+
+Product Features:
+
+* Three-stage filtration system
+* Automatic shut-off when filter needs to be replaced
+* LED display for filter status
+* Remote control for easy operation
+* Energy efficient design
+
+Note: The product is not yet released to the market and should be kept confidential. The information should only be shared with authorized personnel within the organization.

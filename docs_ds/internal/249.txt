@@ -1,0 +1,53 @@
+Purchase Order
+________________________________________________________________________
+
+PURCHASE ORDER #: 587496
+
+Date: [Insert Date Here]
+
+BILL TO:
+Nanochap Electronics Pty Ltd.
+28.3564523
+PEQUOT LAKES, MN
+Email: as@williams-thompson.xyz
+Phone: +55 18 93839 5749
+
+SHIP TO:
+Helgeson 3D Design
+Via C. Colombo, Premana, Lombardia
+NEWPORT, NC
+Email: lcurtis6855@reese-warner.ly
+Phone: +55 (12) 9 0026-7733
+
+ORDER DETAILS:
+________________________________________________________________________
+| Item No. | Description                       | Quantity | Unit Price | Total Price |
+|----------|-----------------------------------|----------|------------|-------------|
+| 001      | 3D Printer Extruder Head Model X | 5        | $450.00    | $2,250.00   |
+| 002      | PLA Filament 1kg                 | 20       | $22.00     | $440.00     |
+| 003      | Precision Print Bed (200x200 mm) | 10       | $75.00     | $750.00     |
+________________________________________________________________________
+
+SUBTOTAL: $3,440.00
+TAX (7.5%): $258.00
+SHIPPING & HANDLING: $150.00
+TOTAL: $3,848.00
+
+PAYMENT TERMS: Net 30 Days
+
+AUTHORIZED BY:
+H PASIUKEVICH
+Purchasing Agent, Nanochap Electronics Pty Ltd.
+
+Special Instructions:
+- Ensure all items are packed securely to prevent damage during transit.
+- Include all relevant documentation for customs clearance.
+
+For any inquiries regarding this order, please contact H PASIUKEVICH at the provided email and phone number.
+
+AUTHORIZED SIGNATURE: ___________________ DATE: _________________
+
+NOTE: This document contains information intended for the specific use by the intended recipient(s) within Nanochap Electronics Pty Ltd. and its affiliated organizations. Unauthorized disclosure, copying, distribution, or use of this document's contents is strictly forbidden. Access to this document is limited to authorized employees and representatives of the company.
+
+END OF DOCUMENT
+________________________________________________________________________

@@ -1,0 +1,41 @@
+INVOICE
+
+Smart Kids Software Inc.
+98 Ronda d'Amèrica
+Vilanova i la Geltrú, 08800 Catalunya
+Email: m-jalusic@jakopec.biz
+Phone: 03-13936.424
+
+Bill To:
+Smiljan Milutinović Slavoljub
+41 Spooner Street
+Plymouth, MA 02360-7310
+Massachusetts
+Email: lcurtis6855@reese-warner.ly
+Phone: 4280 83 6131
+
+Invoice Number: 495-8331
+Invoice Date: [Current Date]
+Payment Terms: Net 30
+Due Date: [30 days from Current Date]
+
+Description of Services:
+Software Development and Licensing Agreement for Education Software. Provision of 10 User Licenses of Alphabet Adventure Learning Software with one-year usage rights and customer support.
+
+Quantity: 10 User Licenses
+Unit Price: $299.99
+Subtotal: $2,999.90
+
+Sales Tax (6.25%): $187.49
+Total: $3,187.39
+
+Payment Method: Bank Transfer / Check
+Account Number: [Insert Account Number]
+Bank Details: [Insert Bank Name, Bank Address, Routing Number, Swift Code]
+
+Thank you for your business!
+
+Please address any inquiries to Smart Kids Software Inc.'s accounts department at m-jalusic@jakopec.biz.
+
+----------
+This document is RESTRICTED and is intended for the exclusive use by Smiljan Milutinović Slavoljub and personnel at Smart Kids Software Inc. It contains privileged and confidential information. Unauthorized dissemination, distribution or copying of this document is strictly prohibited.

@@ -1,0 +1,118 @@
+Financial Statement Summary
+Year Ended December 31, 2022
+
+UMAQIA AGENCY
+Atlantgatan, Helsingborg, Sverige
+
+______________________________________________________________________________
+
+EXECUTIVE SUMMARY
+
+The financial statements of Umaqia Agency for the year ended December 31, 2022, have been prepared in accordance with applicable accounting standards. These statements are intended for the use of authorized personnel only and contain sensitive financial information. Unauthorized dissemination or use of this information is strictly prohibited.
+
+INCOME STATEMENT
+
+Revenues:
+- Gross Sales Revenue: $1,850,000
+- Service Income: $95,000
+- Other Income: $17,000
+Total Revenues: $1,962,000
+
+Costs and Expenses:
+- Cost of Goods Sold: $1,200,000
+- Salaries and Wages: $370,000
+- Rent and Utility Expenses: $80,000
+- Marketing and Advertising: $40,000
+- Administrative Expenses: $22,000
+- Depreciation Expense: $30,000
+- Miscellaneous Expenses: $8,000
+Total Costs and Expenses: $1,750,000
+
+Net Income Before Taxes: $212,000
+Provision for Income Taxes: $63,600
+Net Income After Taxes: $148,400
+
+BALANCE SHEET
+
+Assets:
+- Current Assets:
+  - Cash and Cash Equivalents: $250,000
+  - Accounts Receivable: $110,000
+  - Inventory: $175,000
+  Total Current Assets: $535,000
+
+- Non-Current Assets:
+  - Property and Equipment (net): $600,000
+  - Long-Term Investments: $80,000
+  - Other Non-Current Assets: $45,000
+  Total Non-Current Assets: $725,000
+Total Assets: $1,260,000
+
+Liabilities and Stockholders' Equity:
+- Current Liabilities:
+  - Accounts Payable: $120,000
+  - Short-Term Loans: $130,000
+  - Other Current Liabilities: $45,000
+  Total Current Liabilities: $295,000
+
+- Long-Term Liabilities:
+  - Bonds Payable: $200,000
+  - Deferred Tax Liabilities: $40,000
+  Total Long-Term Liabilities: $240,000
+
+- Stockholders' Equity:
+  - Common Stock: $100,000
+  - Retained Earnings: $625,000
+  Total Stockholders' Equity: $725,000
+Total Liabilities and Stockholders' Equity: $1,260,000
+
+CASH FLOW STATEMENT
+
+Cash Flows from Operating Activities:
+- Net Income: $148,400
+- Adjustments to reconcile net income to net cash
+  provided by operating activities:
+  - Depreciation Expense: $30,000
+  - Increase in Accounts Receivable: ($22,000)
+  - Decrease in Inventory: $10,000
+  - Increase in Accounts Payable: $18,500
+Net Cash Provided by Operating Activities: $184,900
+
+Cash Flows from Investing Activities:
+- Purchases of Property and Equipment: ($150,000)
+- Sales of Long-Term Investments: $25,000
+Net Cash Used in Investing Activities: ($125,000)
+
+Cash Flows from Financing Activities:
+- Issuance of Common Stock: $20,000
+- Repayment of Long-Term Debt: ($30,000)
+Net Cash Provided by (Used in) Financing Activities: ($10,000)
+
+Net Increase in Cash: $49,900
+Cash at Beginning of Period: $200,100
+Cash at End of Period: $250,000
+
+______________________________________________________________________________
+
+This financial statement document is classified as RESTRICTED and is to be accessed only by individuals with the specific authorization. Unauthorized review, forwarding, printing, copying, distribution, or using the information contained within this document is strictly prohibited and may be illegal.
+
+For Authorized Personnel Only:
+
+Prepared by:
+Benjamin Milutinović
+Chief Financial Officer
+Umaqia Agency
+
+Approved by:
+Davor Velševska Brighton Wray
+Chief Executive Officer
+Umaqia Agency
+
+Date of Approval: January 15, 2023
+Document Number: UA-FS-2023/01-R
+
+All queries regarding this document should be directed to:
+b-m@gonzalez-thomas.org
++02 21 6336-0954
+
+This financial statement is issued on the authority of the Umaqia Agency's executive management and is valid for the calendar year 2022.

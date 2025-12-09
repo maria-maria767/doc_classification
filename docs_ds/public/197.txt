@@ -1,0 +1,59 @@
+INVOICE
+
+Invoice Number: 2023-0001
+Invoice Date: April 1, 2023
+
+Bill To:
+Borčkie Konečkini Blagun
+Via Giovanni Paisiello Rd., No. 30
+Acerra, Campania
+Email: mburr@jones-parker.online
+Phone: +1-838-271-3432
+
+Ship To:
+Tihana Marinov Alekso
+28.3718565, 28.3718565
+Wilson, OK
+Email: as@williams-thompson.xyz
+Phone: 4522042052
+
+Issuer:
+Edward
+123 Business Avenue
+Craig, CO
+Email: tucker-goode@gonzales.info
+Phone: 1299642557
+
+Description of Goods/Services:
+- Product A
+- Product B
+- Service C
+
+Quantity:
+- 10
+- 5
+- 3 hours
+
+Unit Price:
+- $20.00
+- $45.00
+- $100.00/hr
+
+Total Cost:
+- $200.00
+- $225.00
+- $300.00
+
+Subtotal: $725.00
+Sales Tax (10%): $72.50
+Total Amount Due: $797.50
+
+Payment Terms: Net 30
+Due Date: May 1, 2023
+
+Please make all checks payable to Edward.
+If you have any questions about this invoice, please contact our accounts receivable department at tucker-goode@gonzales.info or call us at 1299642557.
+
+Thank you for your business!
+
+Edward

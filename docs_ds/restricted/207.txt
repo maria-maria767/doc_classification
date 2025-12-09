@@ -1,0 +1,86 @@
+Title: Quarterly Cybersecurity Protocol Update
+
+Document Number: QS-CPU-2023-2
+
+Issued by: Cybersecurity Department
+
+Date: April 15, 2023
+
+1. INTRODUCTION
+
+The purpose of this document is to detail the updated Cybersecurity Protocols that will be implemented from the start of Q2 2023. This document contains sensitive information about our security infrastructure and practices. Distribution of this document is restricted to authorized personnel as defined by the Information Security Management team.
+
+2. POLICY CHANGES
+
+2.1 Password Policy Update
+Effective immediately, the password complexity requirements are updated as follows:
+- Minimum length: 12 characters.
+- Must include uppercase and lowercase letters, numbers, and special characters.
+- Passwords must not contain any part of the user's name or username.
+- All passwords are to be changed every 60 days.
+
+2.2 Multi-Factor Authentication (MFA)
+MFA is now required for the following systems:
+- Customer Relationship Management (CRM) platform.
+- Financial Data Environment (FDE).
+- Remote Access Protocols (RAP).
+
+2.3 Data Encryption
+All internal communications and stored data must now utilize 256-bit encryption. This includes, but is not limited to, emails, instant messages, and digital files.
+
+3. SYSTEMS AND APPLICATIONS
+
+3.1 Software Patching
+- All critical systems must be patched within 48 hours of a patch release.
+- Non-critical system patching timelines are defined in Appendix A.
+
+3.2 Network Segmentation
+- Implementation of additional network segmentation to isolate critical infrastructure from the general network.
+- See Network Architecture document (ID: NA-2023-1) for segmented network diagrams.
+
+4. SECURITY INCIDENT REPORTING
+
+All security incidents, no matter how minor, must be reported within 15 minutes of detection to the Cybersecurity Incident Response Team (CIRT) using the defined incident reporting protocol outlined in Appendix B.
+
+5. EMPLOYEE TRAINING
+
+A mandatory cybersecurity awareness training session will be scheduled for all staff. This will take place on May 10, 2023. Failure to attend will result in restricted system access until the training has been completed.
+
+6. RESPONSIBILITIES
+
+- The IT security manager is responsible for the effective implementation of the password policies.
+- The Head of Technology oversees the application of MFA.
+- The Data Protection Officer is tasked with ensuring all data encryption protocols comply with regulatory standards.
+- All staff members are responsible for reporting any security incidents to CIRT immediately.
+
+7. ENFORCEMENT
+
+Any employee found in violation of these cybersecurity protocols will be subject to disciplinary action, up to and including termination of employment.
+
+8. CHANGE HISTORY
+
+Refer to Document Change Record (ID: DCR-2023-4) for a detailed list of changes made to this policy document since the last iteration.
+
+9. APPENDICES
+
+Appendix A - Non-Critical System Patching Timeline Standards
+Appendix B - Incident Reporting Protocols
+
+AUTHORIZATION
+
+I, the undersigned, hereby acknowledge and affirm that the updated Cybersecurity Protocols are to be enforced as detailed in this document.
+
+James D. Taylor
+Chief Information Security Officer
+Signature: _______________________
+Date: April 15, 2023
+
+Distribution List:
+- Chief Executive Officer
+- Chief Information Security Officer
+- IT Security Manager
+- Head of Technology
+- Data Protection Officer
+- Cybersecurity Incident Response Team
+
+This document is the property of [Company Name] and contains privileged and confidential information intended for the specified recipients only. Unauthorized use, distribution, or copying of this document is strictly prohibited. If you have received this document in error, please notify the sender immediately and destroy all copies of the original document.

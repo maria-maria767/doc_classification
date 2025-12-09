@@ -1,0 +1,100 @@
+**FINANCIAL STATEMENT**
+
+---
+
+**Company Name: Andrew Arreola Parkinson**
+
+**Address:** 13 Viuzzo della Querce, Firenze, Toscana, 50145
+
+**Financial Statement For the Year Ended December 31, 2022**
+
+**Prepared by: Bianca Rodriguez (Chief Financial Officer)**
+
+---
+
+**Balance Sheet as of December 31, 2022**
+
+| Assets                      | Amount (USD)    |
+|-----------------------------|----------------:|
+| Current Assets:             |                  |
+| - Cash and Cash Equivalents |         15,000   |
+| - Accounts Receivable       |          8,000   |
+| - Inventory                 |          7,500   |
+| - Prepaid Expenses          |          1,200   |
+| **Total Current Assets**        |     **31,700**   |
+|                             |                  |
+| Non-Current Assets:         |                  |
+| - Property, Plant & Equipment |   95,000       |
+| - Less Accumulated Depreciation | (25,000)     |
+| **Total Non-Current Assets**    | **70,000**     |
+|                             |                  |
+| **Total Assets**                | **101,700**     |
+
+---
+
+| Liabilities               | Amount (USD)   |
+|----------------------------|---------------:|
+| Current Liabilities:       |                 |
+| - Accounts Payable        |         4,500   |
+| - Accrued Expenses        |         3,000   |
+| **Total Current Liabilities** |    **7,500**   |
+|                            |                 |
+| Long-Term Liabilities:     |                 |
+| - Long-Term Debt          |        60,000   |
+| **Total Long-Term Liabilities** | **60,000**  |
+|                            |                 |
+| **Total Liabilities**          | **67,500**     |
+
+---
+
+| Equity                    | Amount (USD)   |
+|----------------------------|---------------:|
+| Owner's Equity:            |                 |
+| - R Brown, Capital Account |       34,200    |
+| **Total Equity**               | **34,200**     |
+
+---
+
+**Total Liabilities & Equity: USD 101,700**
+
+---
+
+**Income Statement For the Year Ended December 31, 2022**
+
+| Revenue:                    |                  |
+|-----------------------------|-----------------:|
+| Net Sales                   |       120,000    |
+| Less: Cost of Goods Sold    |       (50,000)   |
+| **Gross Profit**                |   **70,000**     |
+|                             |                  |
+| Expenses:                   |                  |
+| Advertising                 |         (5,000)  |
+| Salaries and Wages          |       (30,000)   |
+| Rent                        |         (8,000)  |
+| Utilities                   |         (4,000)  |
+| Depreciation                |         (6,000)  |
+| **Total Expenses**              |   **(53,000)**  |
+|                             |                  |
+| **Net Income Before Taxes**     |   **17,000**     |
+| Income Tax Expense          |         (3,400)  |
+| **Net Income**                  |   **13,600**     |
+
+---
+
+**Contact Information:**
+
+Bianca Rodriguez, CFO
+
+Email: rr9637@young-baker.co
+
+Phone: 1812799437
+
+---
+
+**This financial statement has been prepared for public release and is intended to provide a clear view of Andrew Arreola Parkinson's financial position as of December 31, 2022. The information contained herein is unclassified and suitable for general public dissemination.**
+
+--- 
+
+End of Document
+
+---

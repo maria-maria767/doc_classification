@@ -1,0 +1,54 @@
+Company Document: Service Level Agreement (SLA)
+
+This Service Level Agreement (SLA) sets out the terms and conditions that apply to the provision of services by Alia Wheat to its customers. The SLA outlines the responsibilities of both Alia Wheat and its customers, and defines the levels of service that can be expected.
+
+Service Description:
+
+Alia Wheat provides customers with a service that enables them to manage their orders and track their shipments. The service includes Order Management and Shipment Tracking functionality.
+
+Service Levels:
+
+Alia Wheat aims to provide a high level of service to its customers. The following service levels have been established:
+
+* Order Management: Orders will be processed within 24 hours of receipt.
+* Shipment Tracking: Customers will be able to track their shipments in real-time via the Alia Wheat website.
+
+Customer Responsibilities:
+
+Customers are responsible for ensuring that all information provided to Alia Wheat is accurate and up-to-date. Customers are also responsible for ensuring that they have the necessary hardware, software and internet connectivity required to access and use the Alia Wheat service.
+
+Service Availability:
+
+Alia Wheat will ensure that the service is available to customers 99% of the time, measured over a calendar year.
+
+Service Support:
+
+Customers can contact Alia Wheat support by emailing [support@aliawheat.com](mailto:support@aliawheat.com) or by calling +02 21 6336-0954. Support is available Monday to Friday, 9am to 5pm, excluding public holidays in Italy.
+
+Service Changes:
+
+Alia Wheat reserves the right to make changes to the service, including changes to service levels or prices. Customers will be notified of any changes at least 30 days in advance.
+
+Termination:
+
+Either party may terminate this Agreement at any time by providing written notice to the other party.
+
+Governing Law:
+
+This SLA is governed by the laws of Italy. Any disputes arising out of or in connection with this SLA will be resolved in accordance with Italian law.
+
+Signature:
+
+By using the Alia Wheat service, the customer agrees to the terms and conditions set out in this SLA.
+
+Signed: Bozan Czajkowski
+
+Date: 20th May 2023
+
+Contact Information:
+
+Bozan Czajkowski
+Alia Wheat
+Lumikero, Vantaa, Suomi
+Email: [support@aliawheat.com](mailto:support@aliawheat.com)
+Phone: 0800 11 79

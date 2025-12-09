@@ -1,0 +1,53 @@
+MEMORANDUM
+
+To: All Department Heads
+From: Ludmila Sadowsky Danica, CEO
+Subject: Implementation of New Email Security Protocols
+Date: [Enter current date]
+
+Dear Colleagues,
+
+As you are aware, maintaining the integrity and security of our internal communications is of paramount importance to our organization. In an effort to further safeguard our sensitive information, we are introducing new email security protocols effective immediately.
+
+1. ENCRYPTION REQUIREMENT:
+All emails containing sensitive company data must be sent with end-to-end encryption. Please ensure that your teams use our approved email encryption tool, which has been installed on all company-issued computers.
+
+2. EMAIL CLASSIFICATION:
+Henceforth, all emails must be categorized according to the sensitivity of their content. The following classifications should be used:
+- Public
+- Internal Use Only
+- Confidential
+- Restricted
+
+The current memo falls under the category "Internal Use Only," as signified by the "DIFFUSION INTERNAL" marker at the beginning of this document.
+
+3. ATTACHMENTS & DATA SHARING:
+Do not send attachments containing sensitive information outside of our secure email system. When necessary to share large files, use the company's secure data-sharing platform.
+
+4. EMAIL AUDITING:
+Periodic audits will be conducted by our IT department to ensure compliance with the new protocols. All employees are required to cooperate fully with auditing activities.
+
+5. TRAINING SESSIONS:
+Compulsory training sessions will be held on [insert dates] to ensure all staff are familiar with these new protocols. Please confirm attendance for your department with Iris Buric at iris.buric@hotmail.com.
+
+6. NON-COMPLIANCE:
+Non-compliance with these protocols will be taken seriously, and may result in disciplinary action. It is the responsibility of department heads to enforce compliance within their teams.
+
+Our collective adherence to these measures will significantly enhance the security of our company's communication channels. Please cascade this information to your respective teams and ensure that the transition to the new protocols is smooth and efficient.
+
+Thank you for your immediate attention to this critical company directive.
+
+Best regards,
+
+Ludmila Sadowsky Danica
+CEO
+
+Cc: Granič, Stoyan Tsarknias Kirce
+Jugendschachverlag
+leepson bounds entertainment inc.
+sia scania latvia
+
+Attachments: None
+
+Security classification: DIFFUSION INTERNAL
+Distribution List: Internal Department Heads Only

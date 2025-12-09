@@ -1,0 +1,76 @@
+-------------------
+
+PRODUCT SPECIFICATION DOCUMENT
+
+Product Name: SmartStream 5000X Water Filtration System
+
+Product Code: SS5X-392
+
+Specification Prepared By: Nixon Puentes
+Quality Assurance Approval By: Davor Velševska Leylani
+Document Creation Date: April 5, 2023
+
+1. Introduction
+This document outlines the technical specifications and safety guidelines for the SmartStream 5000X Water Filtration System. The purpose of this product is to provide high-quality, potable water through an advanced five-stage filtration process. It is designed for use in residential, commercial, and industrial settings.
+
+2. Product Specifications
+2.1. Filtration Performance
+- Five-stage filtration process including pre-filter, activated carbon, reverse osmosis, UV sterilization, and post-carbon filter.
+- Removes 99.99% of contaminants including bacteria, viruses, parasites, heavy metals, and chemical pollutants.
+- Flow rate: 500 gallons per day at 60 psi
+
+2.2. Physical Dimensions
+- Height: 140 cm
+- Width: 60 cm
+- Depth: 45 cm
+- Weight: 50 kg (dry)
+
+2.3. Operating Parameters
+- Minimum Inlet Water Pressure: 35 psi
+- Maximum Inlet Water Pressure: 80 psi
+- Optimal Temperature Range for Operation: 10°C - 35°C
+
+2.4. Materials and Components
+- Food-grade stainless steel housing
+- BPA-free plastic filtration components
+- UV-resistant silicone seals
+
+2.5. Electrical Requirements
+- Power Input: 110-240V AC, 50/60 Hz
+- Power Consumption: 60W
+
+2.6. Installation
+- To be installed at the primary water inlet
+- Requires a minimum clearance of 1 meter around the unit for maintenance
+
+3. Compliance
+- Product meets all applicable standards and regulations for water filtration systems.
+- Certification: NSF/ANSI 58 for reverse osmosis systems
+
+4. Safety Information
+- To be operated by trained personnel only
+- Avoid exposure to UV light from the sterilization unit
+- Ensure system is depressurized before servicing
+
+5. Warranty and Support
+- 2-year comprehensive warranty covering parts and labor
+- Support Contact: Jackson (Technician), Email: a.r48@cooper-phillips.us, Phone: +55 52 95809 6036
+
+6. Confidentiality Notice
+This document contains sensitive information regarding the SmartStream 5000X Water Filtration System and should not be disclosed to unauthorized persons. The information herein is the property of the manufacturer and is to be used solely for the purpose of installation, operation, and maintenance of the aforementioned product.
+
+Document Control Number: SSD-CONF-2023-04-05
+
+Distribution List:
+- Nixon Puentes, Project Lead
+- Davor Velševska Leylani, Quality Assurance
+- Jackson, Technical Support
+
+Authorized Signatures:
+__________________________       __________________________
+Nixon Puentes                                      Davor Velševska Leylani
+(Project Lead)                                      (Quality Assurance)
+
+©2023, Smart Water Solutions Inc.
+
+Please note that unauthorized reproduction or sharing of this document is prohibited and may be punishable under company policy and relevant law.
