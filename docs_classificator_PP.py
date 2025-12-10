@@ -199,7 +199,7 @@ print(len(duplicate_document_ids), "`IDs встречаются в наборе 
 
 """***2.2 Метка типа документа: столбец 'Тип'***"""
 
-typess_count = res_meta_dataframe["Тип"].value_counts()
+types_count = res_meta_dataframe["Тип"].value_counts()
 
 func_plotAsTable(
     headers_loc=["Метка типа", "Количество"],
